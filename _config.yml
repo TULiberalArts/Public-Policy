@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Public Policy
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /publicpolicy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -16,9 +16,9 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Anderson Hall
-  room: 8th Floor, Room 832
-  street: 1114 Polett Walk
+  building: Gladfelter Hall
+  room: 4th Floor, Room 424
+  street: 1115 West Polett Walk
   city: Phialdelphia, PA 19122
 
 # Social Media
