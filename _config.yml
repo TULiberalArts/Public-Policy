@@ -2,9 +2,9 @@
 # Program/Department Title
 title: Public Policy
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /publicpolicy
+baseurl: /public-policy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
