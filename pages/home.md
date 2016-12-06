@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 <h1>Master of Public Policy</h1>
 
