@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 <h1>Master of Public Policy</h1>
 
