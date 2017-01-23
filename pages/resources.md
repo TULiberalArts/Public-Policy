@@ -1,7 +1,8 @@
 ---
 title: Resources
-permalink: "/resources"
+permalink: /resources
 layout: page
+published: true
 ---
 
 ## Resources here here to help!
@@ -55,3 +56,23 @@ Semester 4
 [Apply today](http://www.temple.edu/apply/common/appcheck.asp)!
 The application deadline for Spring 2017 admission is EXTENDED TO November 15, 2016.
 The application deadline for Fall 2017 admission is March 1, 2017.
+
+## Contact
+
+MPP Program Director: Gary Mucciaroni
+[gmucciar@temple.edu](mailto:gmucciar@temple.edu)
+Dr. Mucciaroni runs the program curriculum, works with course instructors, reviews student applications, and teaches the core MPP sequence.
+
+MPP Assistant Director: Jeff Antsen
+[jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)
+Mr. Antsen runs program outreach, handles applications, manages events, and supports faculty and students.
+While we encourage electronic copies of all application materials, if you need to mail hard-copies of any materials to us, please address them to:
+
+MPP Program c/o Jeff Antsen
+424 Gladfelter Hall
+1115 West Polett Walk
+Philadelphia, PA 19122
+
+MPP Coordinator: Tanya Taylor
+[ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
+Ms. Taylor assists in processing applications.
