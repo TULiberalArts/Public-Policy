@@ -8,7 +8,7 @@ baseurl: /public-policy
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Master of Public Policy (M.P.P.) degree provides training for individuals who seek careers in the public sector or in private and non-profit organizations that work on a continuous basis with government agencies.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 4th Floor, Room 424
   street: 1115 West Polett Walk
   city: Philadelphia, PA 19122
-  email: public-policy@temple.edu
+  email: <a href="mailto:public-policy@temple.edu">public-policy@temple.edu</a>
   phone:
 
 # Social Media
