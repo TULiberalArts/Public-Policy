@@ -75,16 +75,16 @@ After you are admitted, the Assistant Director, Jeff Antsen, will send you a Mat
 
 **Q: What do I need to do in order to apply?**
 
-You can begin the online application by [clicking here](http://www.temple.edu/apply/common/appcheck.asp).  You will be provided with a unique Temple identification number and username (your TUID), and you can set your password.  The application includes your statement of purpose, which should address why you are interested in pursuing the MPP degree.  We also require an application fee of $75, which must be paid before we can review your application.
+You can begin the online application by [clicking here](http://www.temple.edu/apply/common/appcheck.asp).  You will be provided with a unique Temple identification number and username (your TUID), and you can set your password.  The application includes your statement of purpose, which should address why you are interested in pursuing the MPP degree. We also require an application fee of $75, which must be paid before we can review your application.
 
 - submit all undergraduate (and graduate, if applicable) transcripts from schools you have attended. You can submit an unofficial transcript initially, if you want to inquire about your competitiveness as an applicant or your eligibility for a GRE waiver.  However, for final admissions decisions, you must contact all of the schools that you have attended for them to send us official transcripts.
 - submit a current resume
-- submit three letters of recommendation from teachers, supervisors, or other mentors.  These should be people who know you well, and who can speak to your individual strengths and passions.
+- submit three letters of recommendation from teachers, supervisors, or other mentors. These should be people who know you well, and who can speak to your individual strengths and passions.
 - submit GRE scores
 
 **Q: Can I take MPP courses before I apply for admission?**
 
-Yes. Students can take up to 9 credits as “non-matriculated” students.  If you decide to apply to the MPP program and are admitted, the credits count towards the degree.  Students who are considering taking MPP courses as non-matriculated students should contact the MPP Director before registering for classes.
+Yes. Students can take up to 9 credits as “non-matriculated” students. If you decide to apply to the MPP program and are admitted, the credits count towards the degree. Students who are considering taking MPP courses as non-matriculated students should contact the MPP Director before registering for classes.
 
 **Q: Where should I send my application materials?**
 
@@ -92,13 +92,13 @@ Completed online applications are automatically sent to us once you pay the appl
 
 **Q: Whom should I ask to write my letters of recommendation?**
 
-If you are graduating soon or have recently graduated, your letters should primarily come from professors who taught your courses, or other faculty at your institution with whom you have worked closely.  If you have been out of school for a while, then supervisors or colleagues who can speak to your skills and experience would be more appropriate.  A mix of different types of references is always desirable.
+If you are graduating soon or have recently graduated, your letters should primarily come from professors who taught your courses, or other faculty at your institution with whom you have worked closely. If you have been out of school for a while, then supervisors or colleagues who can speak to your skills and experience would be more appropriate. A mix of different types of references is always desirable.
 
 **Q: Can the GRE scores be waived? If so, when?**
 
 We can often waive the GREs in cases where: a) the applicant’s GPA exceeds 3.3, or b) where applicants have several years of relevant career experience in public policy, administration in a governmental or non-profit organization, or in a for-profit firm that works closely with a government.
 
-Applicants with no course work in math as undergraduate students may be asked to take the GRE exam even if they meet these other criteria.  Questions about whether applicants qualify for waivers should be sent to mpp@temple.edu.  Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and will wait for them before we review your application.
+Applicants with no course work in math as undergraduate students may be asked to take the GRE exam even if they meet these other criteria.  Questions about whether applicants qualify for waivers should be sent to [mpp@temple.edu](maito:mpp@temple.edu). Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and will wait for them before we review your application.
 
 **Q: Can the 3.0 GPA be waived?**
 
@@ -158,11 +158,11 @@ The first step is for the student to discuss the kind of internship sites he or 
 
 **Q: Can I be exempted from the internship requirement?**
 
-Students who are employed in public sector, non-profit or for-profit organizations that have direct relevance for public policy or public administration may use their experience in their job as qualifying experience for an MPP internship.  Students may also substitute an internship that they served as an undergraduate student as long as it was substantially similar in content and duration to regular MPP internships.  NOTE: MPP students who are exempted from the normal internship requirement must still register for PLCY 5085, pay for the 3 internship credits, and fulfill the same paper requirement as other MPP students.  These exempt students are, in effect, using their current or past positions as the experiential learning that they draw on to fulfill the written internship requirements.
+Students who are employed in public sector, non-profit or for-profit organizations that have direct relevance for public policy or public administration may use their experience in their job as qualifying experience for an MPP internship. Students may also substitute an internship that they served as an undergraduate student as long as it was substantially similar in content and duration to regular MPP internships.  NOTE: MPP students who are exempted from the normal internship requirement must still register for PLCY 5085, pay for the 3 internship credits, and fulfill the same paper requirement as other MPP students.  These exempt students are, in effect, using their current or past positions as the experiential learning that they draw on to fulfill the written internship requirements.
 
 **Q: How can I serve an internship if I work full-time in a non-public policy related job?**
 
-Students who work full-time in non-policy or public administration-related jobs may face special challenges in fulfilling the internship requirement.  They should work with the MPP Director and their employer to come up with an arrangement that will allow them to fulfill this requirement.
+Students who work full-time in non-policy or public administration-related jobs may face special challenges in fulfilling the internship requirement. They should work with the MPP Director and their employer to come up with an arrangement that will allow them to fulfill this requirement.
 
 ### Tuition and Financing:
 
