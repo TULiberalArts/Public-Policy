@@ -18,7 +18,7 @@ Jeff Antsen (Assistant Director)<br>
 [(215) 204-7817](tel:2152047817)<br>
 [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br>
 
-## Resources here here to help!
+## Resources are here to help!
 
 ## Temple Faculty and Connections
 
