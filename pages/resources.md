@@ -1,21 +1,22 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Director:
+**Director:**
 
-Dr. Gary Mucciaroni
-460 Gladfelter Hall
-[(215) 204-6195](tel:2152046195)
-[gmucciar@temple.edu](mailto:gmucciar@temple.edu)
+Dr. Gary Mucciaroni<br>
+460 Gladfelter Hall<br>
+[(215) 204-6195](tel:2152046195)<br>
+[gmucciar@temple.edu](mailto:gmucciar@temple.edu)<br>
 
-Jeff Antsen (Assistant Director)
-424 Gladfelter Hall
-[(215) 204-7817](tel:2152047817)
-[jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)
+Jeff Antsen (Assistant Director)<br>
+424 Gladfelter Hall<br>
+[(215) 204-7817](tel:2152047817)<br>
+[jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br>
 
 ## Resources here here to help!
 
