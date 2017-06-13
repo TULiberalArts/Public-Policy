@@ -6,18 +6,6 @@ layout: page
 published: true
 ---
 
-**Director:**
-
-Dr. Gary Mucciaroni<br>
-460 Gladfelter Hall<br>
-[(215) 204-6195](tel:2152046195)<br>
-[gmucciar@temple.edu](mailto:gmucciar@temple.edu)<br>
-
-Jeff Antsen (Assistant Director)<br>
-424 Gladfelter Hall<br>
-[(215) 204-7817](tel:2152047817)<br>
-[jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br>
-
 ## Resources are here to help!
 
 ## Temple Faculty and Connections
