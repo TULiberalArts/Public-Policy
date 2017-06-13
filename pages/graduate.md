@@ -4,6 +4,24 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Director:</b><br/>
+          Dr. Gary Mucciaroni<br/>
+    460 Gladfelter Hall<br/>
+    <a href="tel:2152047817">(215) 204-7817</a><br/>
+    <a href="mailto:jeff.antsen@temple.edu">jeff.antsen@temple.edu</a><br/>
+    &nbsp;<br/> 
+
+    <b>Assistant Director:</b><br/>
+    Jeff Antsen<br/>
+    424 Gladfelter Hall<br/>
+    <a href="tel:2152047980">(215) 204-7980</a><br/>
+    <a href="mailto:mbyng@temple.edu">mbyng@temple.edu</a><br/>
+      &nbsp;<br/>
 ---
 ## Program Overview
 
