@@ -5,24 +5,26 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: 
-    <div class="course-box">
-        <b>Contact:</b>
-        <ul>
-        <b>Director:</b><br/>
-          Dr. Gary Mucciaroni<br/>
-    460 Gladfelter Hall<br/>
-    <a href="tel:2152047817">(215) 204-7817</a><br/>
-    <a href="mailto:gmucciar@temple.edu">gmucciar@temple.edu</a><br/>
-    &nbsp;<br/> 
+sidebar-content: > #
+  ### Contact Us
 
-    <b>Assistant Director:</b><br/>
-    Jeff Antsen<br/>
-    424 Gladfelter Hall<br/>
-    <a href="tel:2152047980">(215) 204-7980</a><br/>
-    <a href="mailto:jeff.antsen@temple.edu">jeff.antsen@temple.edu</a><br/>
-      &nbsp;<br/>
+  <hr>
+
+  **Director:** <br/>
+  Dr. Gary Mucciaroni<br/>
+  460 Gladfelter Hall<br/>
+  [(215) 204-7817](tel:2152047817) <br/>
+  [gmucciar@temple.edu](mailto:gmucciar@temple.edu) <br/>
+
+  <hr>
+
+  **Assistant Director:** <br/>
+  Jeff Antsen<br/>
+  424 Gladfelter Hall<br/>
+  [(215) 204-7980](tel:2152047980)<br/>
+  [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br/>
 ---
+
 ## Program Overview
 
 Our MPP offers recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology.
