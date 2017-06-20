@@ -2,12 +2,14 @@
 title: Home
 meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
-permalink: "/"
+permalink: /
 layout: home
 feature: true
 feature-title: Master of Public Policy
 feature-body: >-
-  Temple University’s Master of Public Policy (MPP) program trains students and practitioners who seek successful careers in the public   sector or in private or non-profit organizations that work on a continuous basis with government agencies.
+  Our Master of Public Policy (MPP) program trains students and practitioners
+  who seek successful careers in the public sector or in private or non-profit
+  organizations that work on a continuous basis with government agencies.
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
