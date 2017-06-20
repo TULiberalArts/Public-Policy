@@ -43,7 +43,7 @@ We can make admissions decisions only after we have received completed applicati
 
 After you are admitted, the Assistant Director, Jeff Antsen, will send you a matriculation form.  Admitted students must fill out form and return it to the College of Liberal Arts admissions office, along with the $200 graduate course deposit.  This deposit can be paid online or via check, whichever is preferable to you.  Once we receive the deposit, you will be able to register for courses using your Temple ID number, username (your TUID), and password.  Students should consult with the MPP Director to make sure that they are registering for the appropriate courses for their first semester in the program.   After consulting with the director, you can use your Temple ID, username and password to register through the TU Portal.  If you have problems with registration, you should contact Mr. Antsen or our Coordinator, Tanya Taylor, who will help you register.
 
-### Application Procedures, Materials, and Deadlines:
+### Application Procedures, Materials and Deadlines:
 
 **Q: What do I need to do in order to apply?**
 
