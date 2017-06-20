@@ -5,36 +5,33 @@ permalink: /resources/
 layout: page
 published: true
 ---
-
-## Resources are here to help!
-
 ## Frequently Asked Questions
 
-### Time to Completion, Course Scheduling and Location:
+### Time to completion, course scheduling and location:
 
 **Q: How long does it take to complete the MPP degree?**
 
 Students may attend classes full-time (3 courses per semester) or part-time (less than 3 courses per semester).  Full-time students can complete the program in about 2 years. Part-time students will usually take 3 to 5 years.
 
-**Q:  Where and when are MPP classes held?**
+**Q: Where and when are MPP classes held?**
 
-All courses required for the MPP are held during weekday evenings at Temple’s Center City Campus (TUCC) at 1515 Market St.  This campus is in downtown Philadelphia across the street from City Hall.  TUCC is near a major transportation hub (Suburban Station), and also subway and bus lines.  Classes run from 5:40 to 8:10pm.  Some elective courses are offered on Main campus or are teleconferenced to Center City campus from Main campus. Some MPP courses run once per week for the entire 14-week semester, and others run twice per week but are only 7 weeks in duration.  As a result, students can complete three courses per semester while they take only two courses at any one time.
+All courses required for the MPP are held during weekday evenings at Temple’s Center City Campus (TUCC) at 1515 Market St. This campus is in downtown Philadelphia across the street from City Hall. TUCC is near a major transportation hub (Suburban Station), and also subway and bus lines.  Classes run from 5:40 to 8:10pm. Some elective courses are offered on Main campus or are teleconferenced to Center City campus from Main campus. Some MPP courses run once per week for the entire 14-week semester, and others run twice per week but are only 7 weeks in duration. As a result, students can complete three courses per semester while they take only two courses at any one time.
 
-**Q:  Do you offer MPP courses in the summer or on Saturdays?**
+**Q: Do you offer MPP courses in the summer or on Saturdays?**
 
-At this time, a limited number of elective courses are offered in the summer.  As the program grows, we anticipate that more such courses and perhaps required courses will also be offered in the summer.  We may offer Saturday courses in the future if sufficient numbers of students indicate that they would enroll.
+At this time, a limited number of elective courses are offered in the summer. As the program grows, we anticipate that more such courses and perhaps required courses will also be offered in the summer. We may offer Saturday courses in the future if sufficient numbers of students indicate that they would enroll.
 
 **Q: When do Temple’s academic terms begin and end?**
 
-Fall semesters generally begin at the end of August, the week before Labor Day and end in mid-December.  Spring semesters begin in mid-January and end in the beginning of May. See the [full academic calendar](http://www.temple.edu/registrar/documents/calendars/).
+Fall semesters generally begin at the end of August, the week before Labor Day and end in mid-December. Spring semesters begin in mid-January and end in the beginning of May. See the [full academic calendar](http://www.temple.edu/registrar/documents/calendars/).
 
 **Q: Can I pursue a dual degree as an MPP student?**
  
-The MPP program is working with the College of Public Health to offer an MPP-MPH dual degree that should be approved in time for enrollment in the Fall 2017 semester.  The dual degree will allow students to earn both degrees by taking 63 credits rather than the 81 credits that would be required if each degree were earned separately. Prospective students need to apply and be admitted to both the MPP and MPH programs separately.  Other dual degrees are being planned with the Law School (MPP-JD), the School of Social Work (MPP-MSW) and Urban Bioethics (MPP-MAUB).
+The MPP program works with the College of Public Health to offer an MPP-MPH dual degree. The dual degree allows students to earn both degrees by taking 63 credits rather than the 81 credits that would be required if each degree were earned separately. Prospective students need to apply and be admitted to both the MPP and MPH programs separately. Other dual degrees are being planned with the Law School (MPP-JD), the School of Social Work (MPP-MSW) and Urban Bioethics (MPP-MAUB).
 
-**Q: Does the MPP program have a 4 Plus 1 program for undergraduates?**
+**Q: Does the MPP program have a 4+1 program for undergraduates?**
 
-A 4 Plus 1 program allows students to earn their Bachelor’s degree and the MPP degree in five years rather than the six that it would take if they pursued both degrees separately.  A 4 Plus 1 program for the MPP is being planned that would allow for undergraduate students with excellent academic records to apply in the Fall 2017 semester to begin taking MPP courses in Fall 2018.  Under the 4+1 program, students would take four MPP courses (12 credits) in their last year or two years as undergraduate students.  The 12 credits will count towards both their Bachelor’s and MPP degrees.  Students would take the remainder of their MPP course work in the “plus 1” year after they earn they graduate with their Bachelor’s degree.
+Yes. Our 4+1 program allows students to earn their bachelor’s degree and the MPP degree in five years rather than the six that it would take if they pursued both degrees separately. Under the 4+1 program, students take four MPP courses (12 credits) in their last year or two years as undergraduate students. The 12 credits count towards both their bachelor’s and MPP degrees.  Students take the remainder of their MPP course work in the “plus 1” year after they earn they graduate with their bachelor’s degree. For more information, see our [graduate page](public-policy/graduate).
 
 ### Admissions Criteria:
 
@@ -186,4 +183,3 @@ We are currently developing curricula for dual degree programs, and will keep th
 Applications for our 4+1 program are currently underway!  Participants in this program can count up to 12 credits toward both their Temple undergraduate program and also toward the MPP degree. If you are interested, please submit *[this application form](http://www.cla.temple.edu/politicalscience/files/2017/04/Revised-Application-and-Guidelines-for-MPP-4-plus-1-program.docx)* to [mpp@temple.edu](mailto:mpp@temple.edu) before May 1st, along with an updated copy of your resume.  We will contact you about the next steps in this application process after that time.
 
 You can find more information about the Graduate School, as well as view its policy manual at [Temple University’s Graduate School Policies](http://bulletin.temple.edu/graduate/graduate-policies/) page.
-
