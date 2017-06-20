@@ -7,7 +7,7 @@ layout: home
 feature: false
 feature-title: 
 feature-body: 
-feature-image: media/hero_PoliticalScience.png 
+feature-image: media/hero_PoliticalScience2.png 
 ---
 <h1>Master of Public Policy</h1>
 
