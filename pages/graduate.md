@@ -42,7 +42,7 @@ Temple’s faculty has a wealth of knowledge and experience that they are eager 
 
 Are you a current Temple sophomore or junior? Interested in a public policy career or developing your leadership skills? You could finish the MPP degree in just one year with our new 4+1 program, and complete up to 12 MPP credits while also finishing your undergrad major and degree.
 
-Students with strong academic backgrounds from any major are welcome to apply. For more information, download the [application and guidelines](http://www.cla.temple.edu/politicalscience/files/2017/04/Revised-Application-and-Guidelines-for-MPP-4-plus-1-program.docx).  
+Students with strong academic backgrounds from any major are welcome to apply. For more information, download the [application and guidelines](http://www.cla.temple.edu/politicalscience/files/2017/06/6-20-17-Revised-Application-and-Guidelines-for-MPP-4-plus-1-program.docx).  
 
 Applying to the 4+1?  Please submit your application form and resume by e-mail to [mpp@temple.edu](mailto:mpp@temple.edu), or in hardcopy to Jeff Antsen’s mailbox in Gladfelter 407. Applications are due no later than May 1st, 2017. We will work with applicants individually on next steps in the application process.
 
