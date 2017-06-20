@@ -5,7 +5,6 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
