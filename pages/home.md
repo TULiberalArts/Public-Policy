@@ -5,7 +5,7 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: true
-feature-title: Master of Public Policy
+feature-title: Master of Policy Steps Away from Where Policy is Made
 feature-body: >-
   Our Master of Public Policy (MPP) program trains students and practitioners
   who seek successful careers in the public sector or in private or non-profit
