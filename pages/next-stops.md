@@ -7,7 +7,7 @@ published: true
 ---
 ## Alumni Connections
 
-Our alumni include many elected officials, state and local legislators and judges and their staffs, as well as appointed public officials, non-profit leaders, and consultants who work in budgeting and finance, social services, public health, public education, environmental protection, economic development, public safety, and a wide range of other policy fields. They provide important networks through which our graduates will gain entree into exciting and rewarding careers. This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future.
+Our alumni include elected officials, judges, state and local legislators and their staff, appointed public officials, non-profit leaders, and consultants who work in budgeting and finance, social services, public health, public education, environmental protection, economic development, public safety, and a wide range of other policy fields. They provide important networks through which our graduates will gain entree into exciting and rewarding careers. This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future.
 
 ## Make Your Declaration
 
