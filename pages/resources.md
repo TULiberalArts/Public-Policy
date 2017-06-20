@@ -172,6 +172,6 @@ The MPP program works with the College of Public Health to offer an MPP-MPH dual
 
 **Q: Does the MPP program have a 4+1 program for undergraduates?**
 
-Yes. Our 4+1 program allows students to earn their bachelor’s degree and the MPP degree in five years rather than the six that it would take if they pursued both degrees separately. Under the 4+1 program, students take four MPP courses (12 credits) in their last year or two years as undergraduate students. The 12 credits count towards both their bachelor’s and MPP degrees.  Students take the remainder of their MPP course work in the “plus 1” year after they earn they graduate with their bachelor’s degree. For more information, see our [graduate page](public-policy/graduate).
+Yes. Our 4+1 program allows students to earn their bachelor’s degree and the MPP degree in five years rather than the six that it would take if they pursued both degrees separately. Under the 4+1 program, students take four MPP courses (12 credits) in their last year or two years as undergraduate students. The 12 credits count towards both their bachelor’s and MPP degrees.  Students take the remainder of their MPP course work in the “plus 1” year after they earn they graduate with their bachelor’s degree. For more information, see our [graduate page](/public-policy/graduate).
 
 You can find more information about the Graduate School, as well as view its policy manual at [Temple University’s Graduate School Policies](http://bulletin.temple.edu/graduate/graduate-policies/) page.
