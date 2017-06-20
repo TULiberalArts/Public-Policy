@@ -20,7 +20,6 @@ sidebar-content: >
   204-7980](tel:2152047980)<br/>
   [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br/>
 ---
-
 ## Program Overview
 
 Our [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/) (MPP) offers recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology.
