@@ -13,7 +13,6 @@ feature-body: >-
 feature-image: media/hero_PoliticalScience2.png
 published: true
 ---
-
 ## Temple Faculty and Connections
 
 Members of our faculty bring to their teaching years of real-world experience and expertise as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of business and non-profit organizations, and consultants.
