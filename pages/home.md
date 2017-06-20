@@ -10,7 +10,7 @@ feature-body: >-
   Our Master of Public Policy (MPP) program trains students and practitioners
   who seek successful careers in the public sector or in private or non-profit
   organizations that work on a continuous basis with government agencies — all
-  steps away   from City Hall.
+  just steps away from City Hall.
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
