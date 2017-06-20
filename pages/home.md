@@ -14,14 +14,10 @@ feature-body: >-
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
-### Temple Connections
-
-Many Temple graduates already hold important posts in state and local government, in nonprofits and consulting firms.  Our alumni include many elected officials, state and local legislators and judges and their staffs, as well as appointed public officials, non-profit leaders, and consultants who work in budgeting and finance, social services, public health, public education, environmental protection, economic development, public safety, and a wide range of other policy fields. They provide important networks through which our graduates will gain entree into exciting and rewarding careers.  This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future.
-
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Experienced Faculty" 
-    content="Our faculty bring to their teaching years of real-world experience and expertise as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of business and non-profit organizations, and consultants." 
+    content="Our faculty offer years of real-world experience and expertise as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of business and non-profit organizations, and consultants." 
     image="" 
     button-link="/public-policy/faculty" 
     button-text="Learn More" %}
@@ -36,10 +32,10 @@ Many Temple graduates already hold important posts in state and local government
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="How long will this take me? Do you offer dual degrees?" 
-        content="Check out our FAQ for answers to your pressing questions." 
+        title="Strong Alumni Network" 
+        content="Many of our graduates already hold important posts in state and local government, nonprofits and consulting firms." 
         image="" 
-        button-link="/public-policy/resources" 
+        button-link="/public-policy/next-stops#alumni-connections" 
         button-text="Learn More" %}
       </div>
 </div>
