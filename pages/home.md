@@ -17,15 +17,15 @@ published: true
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Experienced Faculty" 
-    content="Our faculty offer years of real-world experience and expertise as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of business and non-profit organizations, and consultants." 
+    content="Our faculty are policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of business and non-profit organizations, and consultants." 
     image="" 
     button-link="/public-policy/faculty" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Easy Commute" 
-      content="We mean it when we say we're steps from City Hall. The majority of our classes take place at TUCC, so you're right in the center of the action." 
+      title="Perfect Location" 
+      content="We mean it when we say we're steps from City Hall. The majority of our classes take place at our center city campus, so you're right in the center of the action." 
       image="" 
       button-link="/public-policy/graduate" 
       button-text="Learn More" %}
