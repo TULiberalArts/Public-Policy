@@ -38,7 +38,7 @@ Temple’s faculty has a wealth of knowledge and experience that they are eager 
 
 ## Announcements
 
-### NEW! +1 Program
+### +1 Program
 
 Are you a current Temple sophomore or junior? Interested in a public policy career or developing your leadership skills? You could finish the MPP degree in just one year with our new +1 program, and complete up to 12 MPP credits while also finishing your undergrad major and degree.
 
@@ -50,7 +50,7 @@ Applying to the +1?  Please submit your application form and resume by e-mail to
 
 The regular application deadline for Fall 2017 MPP students has now passed. However, we are still accepting a limited number of applications on a rolling basis. If you are still interested in applying for the MPP this Fall, please contact [mpp@temple.edu](mailto:mpp@temple.edu) ASAP! Be sure to include an updated resume and unofficial undergraduate transcript or degree audit with your inquiry, if possible.
 
-### NEW! For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
+### For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
 
 Starting August 1st, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in 3 years by earning 57 credits. More information available in [this document](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx).
 
