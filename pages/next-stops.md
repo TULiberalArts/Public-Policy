@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+Our MPP graduates help each other. Whatever you're interested in, we can put you in touch with someone who can help you get there. Convinced? [Declare your major](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply).
+
 ## Alumni Connections
 
 Our alumni include elected officials, judges, state and local legislators and their staff, appointed public officials, non-profit leaders, and consultants who work across all fields in all industries. They provide important networks through which our graduates will gain entree into exciting and rewarding careers. This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future. Want to make a connection? Email Jeff Antsen [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu).
