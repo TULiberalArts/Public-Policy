@@ -5,6 +5,8 @@ permalink: /resources/
 layout: page
 published: true
 ---
+Questions? Start with our FAQ.
+
 ## Frequently Asked Questions
 
 ### Time to Completion, Course Scheduling and Location:
