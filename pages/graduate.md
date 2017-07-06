@@ -5,21 +5,22 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: >
-  ### Contact Us
-
-  <hr>
-
-  **Director:** <br/> Dr. Gary Mucciaroni<br/> 460 Gladfelter Hall<br/> [(215)
-  204-7817](tel:2152047817) <br/>
-  [gmucciar@temple.edu](mailto:gmucciar@temple.edu) <br/>
-
-  <hr>
-
-  **Assistant Director:** <br/> Jeff Antsen<br/> 424 Gladfelter Hall<br/> [(215)
-  204-7980](tel:2152047980)<br/>
-  [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)<br/>
+sidebar-content: > #
+  **Director:**  
+   Dr. Gary Mucciaroni  
+   460 Gladfelter Hall  
+   [(215) 204-7817](tel:2152047817)  
+   [gmucciar@temple.edu](mailto:gmucciar@temple.edu)  
+   
+   ___
+   
+   **Assistant Director:**  
+   Jeff Antsen  
+   424 Gladfelter Hall  
+   [(215) 204-7980](tel:2152047980)  
+   [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
 ---
+
 ## Program Overview
 
 Our [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/) (MPP) offers recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology.
