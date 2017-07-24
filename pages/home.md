@@ -1,6 +1,8 @@
 ---
 title: Home
-meta-description: 100 or so words
+meta-description: >-
+  Our Master of Public Policy program trains students and practitioners who
+  seek    successful careers in the public and private sectors.
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
@@ -10,7 +12,7 @@ feature-body: >-
   Our Master of Public Policy (MPP) program trains students and practitioners
   who seek successful careers in the public sector or in private or non-profit
   organizations that work on a continuous basis with government agencies — steps
-  away     from City Hall.
+  away from City Hall.
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
