@@ -21,7 +21,7 @@ sidebar-content: |
    [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
 meta-description: Information about our Master of Public Policy program.
 ---
-Read on for information about our Master of Public Policy program. 
+Read on for information about our [master of public policy](#program-overview) and our [+1 program](#announcements).
 
 ## Program Overview
 
