@@ -4,6 +4,7 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
+meta-description: 'Our FAQ covers the basics of the program, admission and application.'
 ---
 Questions? Start with our FAQ.
 
