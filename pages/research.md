@@ -3,6 +3,7 @@ title: Research
 permalink: /research/
 layout: page
 published: true
+meta-description: Read on for information about our affiliated centers.
 ---
 Read on for information about our affiliated centers.
 
