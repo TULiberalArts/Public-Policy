@@ -4,6 +4,9 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
 published: true
+meta-description: >-
+  Whatever you are interested in, we can put you in touch with someone who can
+  help  you get there. Apply now.
 ---
 Our MPP graduates help each other. Whatever you're interested in, we can put you in touch with someone who can help you get there. Convinced? [Declare your major](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply).
 
