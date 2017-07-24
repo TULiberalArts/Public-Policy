@@ -5,7 +5,7 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Dr. Gary Mucciaroni  
    460 Gladfelter Hall  
@@ -19,7 +19,9 @@ sidebar-content: > #
    424 Gladfelter Hall  
    [(215) 204-7980](tel:2152047980)  
    [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
+meta-description: Information about our Master of Public Policy program.
 ---
+Read on for information about our Master of Public Policy program. 
 
 ## Program Overview
 
