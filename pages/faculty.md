@@ -3,5 +3,8 @@ title: Faculty
 permalink: /faculty/
 layout: faculty
 published: true
+meta-description: >-
+  The MPP faculty includes a diverse array of instructors from a variety of 
+  professional backgrounds and social science disciplines.
 ---
 The MPP faculty includes a diverse array of instructors from a variety of professional backgrounds and social science disciplines. Our faculty are agency heads, consultants, academics and much more.
