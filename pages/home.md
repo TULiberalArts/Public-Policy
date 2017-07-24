@@ -1,8 +1,8 @@
 ---
 title: Home
 meta-description: >-
-  Our Master of Public Policy program trains students and practitioners who
-  seek    successful careers in the public and private sectors.
+  Our Master of Public Policy program trains students and practitioners who seek
+  successful careers in the public and private sectors.
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
