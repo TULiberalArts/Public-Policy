@@ -6,7 +6,7 @@ layout: page
 published: true
 meta-description: 'Our FAQ covers the basics of the program, admission and application.'
 ---
-Questions? Start with our FAQ.
+What are our admissions standards? When are courses offered? Find answers to those questions and more in our FAQ below.
 
 ## Frequently Asked Questions
 
@@ -18,7 +18,7 @@ Students may attend classes full-time (3 courses per semester) or part-time (les
 
 **Q: Where and when are MPP classes held?**
 
-All courses required for the MPP are held during weekday evenings at Temple’s Center City Campus (TUCC) at 1515 Market St. This campus is in downtown Philadelphia across the street from City Hall. TUCC is near a major transportation hub (Suburban Station), and also subway and bus lines.  Classes run from 5:40 to 8:10pm. Some elective courses are offered on Main campus or are teleconferenced to Center City campus from Main campus. Some MPP courses run once per week for the entire 14-week semester, and others run twice per week but are only 7 weeks in duration. As a result, students can complete three courses per semester while they take only two courses at any one time.
+All courses required for the MPP are held during weekday evenings at Temple’s Center City Campus (TUCC) at 1515 Market St. This campus is in downtown Philadelphia across the street from City Hall. TUCC is near a major transportation hub (Suburban Station), and also subway and bus lines.  Classes run from 5:40 to 8:10 p.m. Some elective courses are offered on Main campus or are teleconferenced to Center City campus from Main campus. Some MPP courses run once per week for the entire 14-week semester, and others run twice per week but are only 7 weeks in duration. As a result, students can complete three courses per semester while they take only two courses at any one time.
 
 **Q: Do you offer MPP courses in the summer or on Saturdays?**
 
