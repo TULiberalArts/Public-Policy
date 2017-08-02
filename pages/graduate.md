@@ -21,11 +21,13 @@ sidebar-content: |
    [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
 meta-description: Information about our Master of Public Policy program.
 ---
+Our program uses state-of-the-art instructional technology in classrooms just steps from Philadelphia's City Hall.
+
 Read on for information about our [master of public policy](#program-overview) and our [+1 program](#announcements).
 
 ## Program Overview
 
-Our [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/) (MPP) offers recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology.
+Our [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/) (MPP) is designed for both recent college graduates and those who have already started careers.
 
 Temple’s faculty has a wealth of knowledge and experience that they are eager to share with students. Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the commonwealth and the Philadelphia region. Recent research includes the following:
 
@@ -47,19 +49,19 @@ Are you a current Temple sophomore or junior? Interested in a public policy care
 
 Students with strong academic backgrounds from any major are welcome to apply. For more information, download the [application and guidelines](http://www.cla.temple.edu/politicalscience/files/2017/06/6-20-17-Revised-Application-and-Guidelines-for-MPP-4-plus-1-program.docx).  
 
-Applying to the +1?  Please submit your application form and resume by e-mail to [mpp@temple.edu](mailto:mpp@temple.edu), or in hardcopy to Jeff Antsen’s mailbox in Gladfelter 407. Applications are due no later than May 1st, 2017. We will work with applicants individually on next steps in the application process.
+Applying to the +1?  Please submit your application form and resume by e-mail to [mpp@temple.edu](mailto:mpp@temple.edu), or in hardcopy to Jeff Antsen’s mailbox in Gladfelter 407. We will work with applicants individually on next steps in the application process.
 
 ### Rolling Applications for the Fall 2017 MPP Cohort
 
-The regular application deadline for Fall 2017 MPP students has now passed. However, we are still accepting a limited number of applications on a rolling basis. If you are still interested in applying for the MPP this Fall, please contact [mpp@temple.edu](mailto:mpp@temple.edu) ASAP! Be sure to include an updated resume and unofficial undergraduate transcript or degree audit with your inquiry, if possible.
+The regular application deadline for Fall 2017 MPP students has now passed. However, we are still accepting a limited number of applications on a rolling basis. If you are still interested in applying for the MPP this fall, please contact [mpp@temple.edu](mailto:mpp@temple.edu). Be sure to include an updated resume and unofficial undergraduate transcript or degree audit with your inquiry, if possible.
 
 ### For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
 
-Starting August 1st, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in 3 years by earning 57 credits. More information available in [this document](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx).
+Starting August 1, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in three years by earning 57 credits. More information available in [this document](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx).
 
 ## The Curriculum
 
-The MPP curriculum provides students with the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities that governments at the federal, state and local levels undertake. An MPP develops students’ appreciation for the political and institutional contexts in which issues reach the policy agenda and policies are formulated, adopted, implemented and evaluated.  The MPP’s internship and policy analysis project components allow students to gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public policy problems.  Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers.
+The MPP curriculum provides students with the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities that governments at the federal, state and local levels undertake. An MPP develops students’ appreciation for the political and institutional contexts in which issues reach the policy agenda and policies are formulated, adopted, implemented and evaluated. The MPP’s internship and policy analysis project components allow students to gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public policy problems. Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers.
 
 The curriculum consists of nine required courses (27 credits), including an internship, and three 3-credit electives, for a total of 36 credits. Full-time students will be able to complete the program in two years. Students may also complete the degree as part-time.
 
