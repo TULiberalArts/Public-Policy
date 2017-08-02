@@ -20,4 +20,4 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](htt
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
+When you are ready to apply, submit your application online at: [temple.edu/apply](http://www.temple.edu/apply/common/appcheck.asp)
