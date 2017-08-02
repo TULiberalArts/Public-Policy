@@ -5,7 +5,7 @@ layout: page
 published: true
 meta-description: Read on for information about our affiliated centers.
 ---
-Read on for information about our affiliated centers.
+Our public policy program, in conjunction with the Department of Political Science, offers addtional venues for students to get inovlved and put their skills to work.
 
 ## Affiliated Centers
 
