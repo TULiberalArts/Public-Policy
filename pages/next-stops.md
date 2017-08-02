@@ -8,9 +8,7 @@ meta-description: >-
   Whatever you are interested in, we can put you in touch with someone who can
   help  you get there. Apply now.
 ---
-Our MPP graduates help each other. Whatever you're interested in, we can put you in touch with someone who can help you get there. Convinced? [Declare your major](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply).
-
-## Alumni Connections
+Our MPP graduates help each other. Whatever career you're interested in, we can put you in touch with someone who can help you get there. 
 
 Our alumni include elected officials, judges, state and local legislators and their staff, appointed public officials, non-profit leaders, and consultants who work across all fields in all industries. They provide important networks through which our graduates will gain entree into exciting and rewarding careers. This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future. Want to make a connection? Email Jeff Antsen [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu).
 
@@ -20,23 +18,6 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
 
-## Visit Us!
-
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
-
-## Thinking Of Transferring?
- 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
-
-To learn more about transferring to Temple, please visit [temple.edu/transfer](http://temple.edu/transfer)
-
 ## Apply
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply)
-
-## Deadlines
-
-**February 1**: Freshman Application Deadline for Fall Semester<br/>
-**March 1**: FAFSA Financial Aid Application Deadline<br/>
-**November 1**: Transfer Deadline for Spring Semester<br/>
-**June 1**: Transfer Deadline for Fall Semester<br/>
