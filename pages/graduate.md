@@ -1,5 +1,6 @@
 ---
 title: Graduate
+meta-description: Information about our Master of Public Policy program.
 meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
@@ -19,8 +20,14 @@ sidebar-content: |
    424 Gladfelter Hall  
    [(215) 204-7980](tel:2152047980)  
    [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
-meta-description: Information about our Master of Public Policy program.
+   
+   ___
+   
+   **Coordinator:**  
+   Tanya Taylor    
+   [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu) 
 ---
+
 Our program uses state-of-the-art instructional technology in classrooms just steps from Philadelphia's City Hall.
 
 Read on for information about our [master of public policy](#program-overview) and our [+1 program](#announcements).
