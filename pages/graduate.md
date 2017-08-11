@@ -66,5 +66,5 @@ The regular application deadline for Fall 2017 MPP students has now passed. Howe
 
 Starting August 1, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in three years by earning 57 credits. More information available in [this document](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx).
 
-Please visit the [Public Policy, M.P.P Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text) for information on the curriculum, course sequence and application procedures and admissions requirements. 
+Please visit the [Public Policy, M.P.P Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text) for information on the curriculum, course sequence, application procedures and admissions requirements. 
 
