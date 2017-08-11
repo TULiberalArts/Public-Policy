@@ -16,8 +16,8 @@ Our alumni include elected officials, judges, state and local legislators and th
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
+For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu).
 
 ## Apply
 
-When you are ready to apply, submit your application online at: [temple.edu/apply](http://www.temple.edu/apply/common/appcheck.asp)
+When you are ready to apply, submit your application online at: [temple.edu/apply](http://www.temple.edu/apply/common/appcheck.asp).
