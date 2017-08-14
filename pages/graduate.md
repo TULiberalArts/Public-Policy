@@ -65,6 +65,7 @@ Looking for more information about the MPP Program? Join us live, or virtually v
 - Tuesday December 6th 
 
 **_All info sessions are held at Temple University's Center City campus, in room 205._**
+
 RSVP to [mpp@temple.edu](mailto:mpp@temple.edu) - and please indicate in your reply if you will be joining in-person, or if you would like an invite to join the information session via WebEx.
 
 Please visit the [Public Policy, M.P.P Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text) for information on the curriculum, course sequence, application procedures and admissions requirements. 
