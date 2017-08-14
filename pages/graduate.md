@@ -50,21 +50,22 @@ Temple’s faculty has a wealth of knowledge and experience that they are eager 
 
 ## Announcements
 
-### +1 Program
-
-Are you a current Temple sophomore or junior? Interested in a public policy career or developing your leadership skills? You could finish the MPP degree in just one year with our new +1 program, and complete up to 12 MPP credits while also finishing your undergrad major and degree.
-
-Students with strong academic backgrounds from any major are welcome to apply. For more information, download the [application and guidelines](http://www.cla.temple.edu/politicalscience/files/2017/06/6-20-17-Revised-Application-and-Guidelines-for-MPP-4-plus-1-program.docx).  
-
-Applying to the +1?  Please submit your application form and resume by e-mail to [mpp@temple.edu](mailto:mpp@temple.edu), or in hardcopy to Jeff Antsen’s mailbox in Gladfelter 407. We will work with applicants individually on next steps in the application process.
-
-### Rolling Applications for the Fall 2017 MPP Cohort
-
-The regular application deadline for Fall 2017 MPP students has now passed. However, we are still accepting a limited number of applications on a rolling basis. If you are still interested in applying for the MPP this fall, please contact [mpp@temple.edu](mailto:mpp@temple.edu). Be sure to include an updated resume and unofficial undergraduate transcript or degree audit with your inquiry, if possible.
-
 ### For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
 
 Starting August 1, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in three years by earning 57 credits. More information available in [this document](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx).
+
+Starting August 1st, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in 3 years by earning 57 credits. Click [here](http://www.cla.temple.edu/politicalscience/files/2017/05/MPP-MPH-website-copy.docx) for more information.
+
+Applications for the Spring 2018 MPP Cohort are now open! New applications will be accepted until November 1st, 2017. Please e-mail all supplementary application material to us at [mpp@temple.edu](mailto:mpp@temple.edu).
+
+Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session. We will be hosting information sessions from 5:00pm - 7:00pm on:
+
+- Wednesday October 25th
+- Thursday November 16th
+= Tuesday December 6th 
+
+**_All info sessions are held at Temple University's Center City campus, in room 205._**
+RSVP to [mpp@temple.edu](mailto:mpp@temple.edu) - and please indicate in your reply if you will be joining in-person, or if you would like an invite to join the information session via WebEx.
 
 Please visit the [Public Policy, M.P.P Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text) for information on the curriculum, course sequence, application procedures and admissions requirements. 
 
