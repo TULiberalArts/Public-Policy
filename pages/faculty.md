@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty
+layout: faculty2
 published: true
 meta-description: >-
   The MPP faculty includes a diverse array of instructors from a variety of 
