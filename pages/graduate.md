@@ -1,9 +1,9 @@
 ---
 title: Graduate
-meta-description: Information about our Master of Public Policy program.
-meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
+keywords: ''
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
