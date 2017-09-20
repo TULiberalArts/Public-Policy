@@ -1,10 +1,11 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
+keywords: ''
+description: >-
+  Our FAQ covers the basics of the program, admission and application.
 published: true
-meta-description: 'Our FAQ covers the basics of the program, admission and application.'
 ---
 What are our admissions standards? When are courses offered? Find answers to those questions and more in our FAQ below.
 
