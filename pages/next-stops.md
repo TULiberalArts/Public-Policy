@@ -1,12 +1,12 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
-published: true
-meta-description: >-
+keywords: ''
+description: >-
   Whatever you are interested in, we can put you in touch with someone who can
   help  you get there. Apply now.
+  published: true
 ---
 Our MPP graduates help each other. Whatever career you're interested in, we can put you in touch with someone who can help you get there. 
 
