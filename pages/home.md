@@ -15,10 +15,12 @@ feature-body: >-
   away from City Hall.
 published: true
 ---
-If you want to learn how to formulate, adopt, implement and evaluate public policy, the Department of Political Science offers an Master of Public Policy (MPP) program. The MPP program is designed to provide the training you need for careers in the public sector or in private and non-profit organizations that work with government agencies. Ideal for students interested in social and quality of life issues throughout Philadelphia, our courses are led by both full-time academic resarchers and experienced practioners in the field of public policy. They bring real-world experience and expertise to the classroom as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to govenors and leaders in non-profits and business. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+If you are interested in a career that involves working with governmental agencies at the federal, state and local levels, the [Department of Political Science](http://www.cla.temple.edu/politicalscience/) offers graduate-level courses in public policy. Ideal for students interested in social and quality of life issues throughout Philadelphia, our courses are led by both full-time academic resarchers and experienced practioners in the field of public policy. They bring real-world experience and expertise to the classroom as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to govenors and leaders in non-profits and business. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Apply to Temple
 Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon). 
+
+## Academic Offerings
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
