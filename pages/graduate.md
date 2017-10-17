@@ -26,7 +26,9 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an Master of Public Policy at Temple University
-Whether you are a recent college graduate hoping to land an entry-level position in a government, private or non-profit organization or you already have experience and want training and credentials to further your career, the Master of Public Policy program is an affordable education just steps from Philadelphia's City Hall. Our courses provide the technical and analytical training to develop, assess and evaluate the effectiveness of programs and activities at the federal, state and local levels. Classes are held at Temple's Center City Campus (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). 
+Whether you are a recent college graduate hoping to land an entry-level position in a government, private or non-profit organization or you already have experience and want training and credentials to further your career, the Master of Public Policy program is an affordable education just steps from Philadelphia's City Hall. Our courses provide the technical and analytical training to develop, assess and evaluate the effectiveness of programs and activities at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). MPP students learn from full-time academics and experts with extensive real-world experience as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to govenors and leaders in non-profits and business. Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers. 
+
+
 
 
 
@@ -46,6 +48,8 @@ Recent research include
 –identifying options to reform and fund state and local public pensions;
 –proposing legislative steps to improve the efficiency and effectiveness of Pennsylvania’s fragmented system of municipal governments; and
 –cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly.
+
+## Internships
 
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
