@@ -28,15 +28,10 @@ sidebar-content: |
 ## Earn an Master of Public Policy at Temple University
 Whether you are a recent college graduate hoping to land an entry-level position in a government, private or non-profit organization or you already have experience and want training and credentials to further your career, the Master of Public Policy program is an affordable education just steps from Philadelphia's City Hall. Our courses provide the technical and analytical training to develop, assess and evaluate the effectiveness of programs and activities at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). MPP students learn from full-time academics and experts with extensive real-world experience as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to govenors and leaders in non-profits and business. Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers. 
 
-
-
-
-
 An MPP develops students’ appreciation for the political and institutional contexts in which issues reach the policy agenda and policies are formulated, adopted, implemented and evaluated.
 The MPP’s internship and policy analysis project components allow students to gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public policy problems.  Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers.
 
-
-recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology. Temple’s faculty has a wealth of knowledge and experience that they are eager to share with students.  Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the Commonwealth and the Philadelphia region.  
+Our recent college graduates and those who have already started careers an affordable education just steps from Philadelphia’s City Hall with state-of-the-art instructional technology. Temple’s faculty has a wealth of knowledge and experience that they are eager to share with students.  Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the Commonwealth and the Philadelphia region.  
 
 Recent research include
 –Temple Flag and City Hallantifying the economic costs of underachieving public schools;
@@ -48,6 +43,26 @@ Recent research include
 –identifying options to reform and fund state and local public pensions;
 –proposing legislative steps to improve the efficiency and effectiveness of Pennsylvania’s fragmented system of municipal governments; and
 –cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly.
+
+## Announcements
+
+### NEW! For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
+
+Starting August 1st, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in 3 years by earning 57 credits. View the [MPP-MPH details](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)!
+
+### Applications
+
+Applications for the Spring 2018 and Fall 2018 MPP cohorts are now open! New applications will be accepted until November 1st, 2017 for Spring 2018, and until March 1st for Fall 2018.  Please have all supplementary application materials e-mailed to us (including letters of reference) at [mpp@temple.edu](mailto:mpp@temple.edu).
+
+Looking for more information about the MPP Program?  Join us live, or virtually via WebEx, for an upcoming MPP Information Session. We will be hosting information sessions from 5:00pm – 7:00pm on:
+
+- Wednesday October 25th
+- Thursday November 16th
+- Tuesday December 6th 
+
+**All info sessions are held at Temple University’s Center City campus, in room 206.**
+
+RSVP to [mpp@temple.edu](mailto:mpp@temple.edu) – and please indicate in your reply if you will be joining in-person, or if you would like an invite to join the information session via WebEx.
 
 ## Internships
 
