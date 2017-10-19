@@ -22,9 +22,38 @@ Learn the technical and analytic skills to be able to develop and assess propose
 ## Real World Insight from Experts
 Members of our faculty bring to their teaching years of academic and real-world experience and expertise as  agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
+Upcoming Info Sessions
+Become an agent for change.
+Advance your career. Enhance your community.
+Features
+A Program with Influence
+Name*
+
+Email Address*
+
+Request Info
+Members of our faculty bring to their teaching years of academic and real-world experience and expertise as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to governors, mayors, and legislatures, leaders of non-profit organizations, and consultants.
+
+Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the Commonwealth and the Philadelphia region.
+You can RSVP for an info session by emailing mpp@temple.edu, please be sure to let us know if you plan on attending live or if you would prefer a WebEx
+
+Wednesday, October 25
+5 - 7 P.M.
+Temple Center City Campus
+Room 206
+
+Thursday, November 16
+5 - 7 P.M.
+Temple Center City Campus
+Room 206
+
+Tuesday, December 6
+5 - 7 P.M.
+Temple Center City Campus
+Room 206
+
 ## Academic Offerings
 - [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/)
-
 ___
 
 <div class="row row-wide">
