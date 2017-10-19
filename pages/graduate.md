@@ -59,22 +59,22 @@ The curriculum consists of nine required courses (27 credits), including an inte
 ### Course Sequence:
 
 **Semester 1**
-- The Policymaking Process – PLCY 8118
-- Economics of the Public Sector – ECON 8122
-- State and Local Budgeting – PLCY 8128
+- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
+- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122)
+- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128)
 
 **Semester 2**
-- Political Statistics – PLCY / POLS 8001
-- Policy Analysis – PLCY 8119
-- Bureaucratic Organization and Public Management – PLCY 8123
+- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001)
+- [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119)
+- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123)
 
 **Semester 3**
-- Program Evaluation – GUS 5165
-- Internship – POLS 5085
+- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165)
+- [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085)
 - Elective (open to student choice)
 
 **Semester 4**
-- Policy Analysis Project – PLCY 8127
+- [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127)
 - Elective (open to student choice)
 - Elective (open to student choice)
 
