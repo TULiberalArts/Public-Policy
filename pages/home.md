@@ -22,9 +22,6 @@ Learn the technical and analytic skills to be able to develop and assess propose
 ## Real World Insight from Experts
 Members of our faculty bring to their teaching years of academic and real-world experience and expertise as  agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
-## Apply to Temple
-Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon). 
-
 ## Academic Offerings
 - [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/)
 
@@ -38,18 +35,18 @@ Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/pr
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Ideal Location" 
-      content="We mean it when we say we're steps from City Hall. The majority of our classes are held at our Center City campus, so you're right in the middle of the action." 
+      title="MPP-MPH Dual Degree Program" 
+      content="We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH)." 
       image="" 
-      button-link="/public-policy/graduate" 
+      button-link="/public-policy/graduate#New MPP-MPH Dual Degree Program" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Strong Alumni Network" 
-        content="Many of our graduates already hold important posts in state and local government, nonprofits and consulting firms." 
+        title="Information Sessions" 
+        content="" 
         image="" 
-        button-link="/public-policy/next-stops#alumni-connections" 
+        button-link="" 
         button-text="Learn More" %}
       </div>
 </div>
