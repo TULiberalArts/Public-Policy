@@ -26,26 +26,13 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an Master of Public Policy at Temple University
-Whether you are a recent college graduate hoping to land an entry-level position in a government, private or non-profit organization or you already have experience and want training and credentials to further your career, the Master of Public Policy program is an affordable education just steps from Philadelphia's City Hall. Our courses provide the technical and analytical training to develop, assess and evaluate the effectiveness of programs and activities at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). 
+Temple University’s Master of Public Policy (MPP) trains students and practitioners for successful careers in the public sector or in private or non-profit organizations. Whether you are a recent college graduate or you've already started a career, we offer an affordable education at a convenient location – just steps from Philadelphia’s City Hall. Learn the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities of governments at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). 
 
-MPP students learn from full-time academics and experts with extensive real-world experience as policymakers, agency heads and supervisors, budget and finance managers, senior advisors to govenors and leaders in non-profits and business. Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers. 
+## A Program with Influence
+Members of our faculty bring to their teaching years of academic and real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the Commonwealth and the Philadelphia region. You can focus on either public policy analysis or public management.
 
-Recent research includes
-–Temple Flag and City Hallantifying the economic costs of underachieving public schools;
-–measuring effectiveness of child care subsidies in helping parents stay in the workforce;
-–identifying ways to better manage the water supply and other common pool resources;
-–evaluating how different approaches to policing contribute to public safety;
-–exploring steps to improve regional cooperation in addressing a wide range of public policy issues in Southeastern Pennsylvania;
-–examining ways to improve public health;
-–identifying options to reform and fund state and local public pensions;
-–proposing legislative steps to improve the efficiency and effectiveness of Pennsylvania’s fragmented system of municipal governments; and
-–cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly.
-
-## Announcements
-
-### NEW! For Fall 2018 Enrollment: MPP-MPH Dual Degree Program
-
-Starting August 1st, students can apply for the Master of Public Policy (MPP) – Master of Public Health (MPH) dual degree. Complete both degrees in 3 years by earning 57 credits. View the [MPP-MPH details](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)!
+### New MPP-MPH Dual Degree Program
+We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in Public Health by issuing regulations, providing critical resources aimed at public education, monitoring and combating epidemics, training the public health workforce and funding research into public health problems and programs. Adding the MPP to the MPH will enhance your qualifications for jobs that lie at the intersection of public policy and public health. Temple's MPH program at the [College of Public Health] (https://cph.temple.edu/) is fully accredited by the Council on Education for Public Health (CEPH) and is one of the longest established accredited program in community health in the country. Complete both degrees in 3 years by earning 57 credits. View the [MPP-MPH details](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)!
 
 ### Applications
 
