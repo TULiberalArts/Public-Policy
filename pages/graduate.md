@@ -84,7 +84,6 @@ At Temple, we believe that students from all walks of life should have access to
 Financial aid is awarded on PhD students on academic merit. The department nominates our strongest candidates for Graduate School Fellowships, and offers a limited amount of TA-ships. Students from underrepresented groups may also be nominated for Future Faculty Fellowships. Due to limited resources, the department is not able to provide funding to all students, although the majority receive some funding eventually. MA students are not eligible for financial aid from the department.
 
 - [Learn More about Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
-- [Department of Geography and Urban Studies Awards](/geography-and-urban-studies/research)
 
 ## Admission Requirements
 - A minimum undergraduate GPA of 3.0, preferably higher
