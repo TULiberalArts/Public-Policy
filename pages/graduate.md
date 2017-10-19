@@ -48,8 +48,6 @@ Looking for more information about the MPP Program?  Join us live, or virtually 
 
 RSVP to [mpp@temple.edu](mailto:mpp@temple.edu) – and please indicate in your reply if you will be joining in-person, or if you would like an invite to join the information session via WebEx.
 
-## Internships
-
 ## Funding for Graduate School
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for graduate school, you aren’t alone. Most students receive some form of financial aid to fund their education. Graduate students are eligible for financial assistance from federal, state, private and university sources. Explore all available funding and apply early to make your college education an affordable experience.
 
