@@ -36,33 +36,35 @@ We now offer a dual degree program that allows graduate students to earn both an
 
 [Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
-The Curriculum
+## The Curriculum
+
 The MPP curriculum provides students with the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities that governments at the federal, state and local levels undertake. An MPP develops students’ appreciation for the political and institutional contexts in which issues reach the policy agenda and policies are formulated, adopted, implemented and evaluated.
 
 The MPP’s internship and policy analysis project components allow students to gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public policy problems.  Students have the opportunity to gain expertise in particular policy fields through elective courses but also develop generalist skills that are useful in whatever direction their interests take them over the course of their careers.
 
 The curriculum consists of nine required courses (27 credits), including an internship, and three 3-credit electives, for a total of 36 credits. Full-time students will be able to complete the program in two years.  Students may also complete the degree part-time in three to five years.
 
-Course Sequence:
-Semester 1
-The Policymaking Process – PLCY 8118
-Economics of the Public Sector – ECON 8122
-State and Local Budgeting – PLCY 8128
+### Course Sequence:
 
-Semester 2
-Political Statistics – PLCY / POLS 8001
-Policy Analysis – PLCY 8119
-Bureaucratic Organization and Public Management – PLCY 8123
+**Semester 1**
+- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
+- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122) 
+- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128)
 
-Semester 3
-Program Evaluation – GUS 5165
-Internship – POLS 5085
-Elective (open to student choice)
+**Semester 2**
+- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001)
+- [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119)
+- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123)
 
-Semester 4
-Policy Analysis Project – PLCY 8127
-Elective (open to student choice)
-Elective (open to student choice)
+** Semester 3**
+- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165)
+- [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085)
+- Elective (open to student choice)
+
+**Semester 4**
+- [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127)
+- Elective (open to student choice)
+- Elective (open to student choice)
 
 ### Applications
 Applications for the Spring 2018 and Fall 2018 MPP cohorts are now open! New applications will be accepted until November 1st, 2017 for Spring 2018, and until March 1st for Fall 2018.  Please have all supplementary application materials e-mailed to us (including letters of reference) at [mpp@temple.edu](mailto:mpp@temple.edu).
