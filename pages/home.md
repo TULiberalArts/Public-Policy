@@ -38,15 +38,15 @@ Members of our faculty bring to their teaching years of academic and real-world 
       title="MPP-MPH Dual Degree Program" 
       content="We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH)." 
       image="" 
-      button-link="/public-policy/graduate#New MPP-MPH Dual Degree Program" 
+      button-link="/public-policy/#New MPP-MPH Dual Degree Program" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Information Sessions" 
-        content="" 
+        content="Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session." 
         image="" 
-        button-link="" 
+        button-link="/public-policy/#applications" 
         button-text="Learn More" %}
       </div>
 </div>
