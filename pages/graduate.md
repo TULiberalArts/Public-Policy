@@ -53,9 +53,6 @@ Admission requirements to the MPP program follows the general requirements estab
 ## Graduate Admissions to Temple University
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
-## Curriculum and Academic Requirements
-- [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/)
-
 ## Graduate Application Deadlines
 - **March 1** - Fall Semester
 - **Nov. 1** - Spring Semester
