@@ -40,7 +40,7 @@ ___
       title="MPP-MPH Dual Degree Program" 
       content="We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH)." 
       image="" 
-      button-link="/public-policy/#New MPP-MPH Dual Degree Program" 
+      button-link="/public-policy/New MPP-MPH Dual Degree Program" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -48,7 +48,7 @@ ___
         title="Information Sessions" 
         content="Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session." 
         image="" 
-        button-link="/public-policy/#applications" 
+        button-link="/public-policy/applications" 
         button-text="Learn More" %}
       </div>
 </div>
