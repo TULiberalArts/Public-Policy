@@ -26,7 +26,7 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an Master of Public Policy at Temple University
-Temple University’s Master of Public Policy (MPP) trains students and practitioners for successful careers in the public sector or in private or non-profit organizations. Whether you are a recent college graduate or you've already started a career, we offer an affordable education at a convenient location – just steps from Philadelphia’s City Hall. Learn the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities of governments at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). The MPP is available on a part-time or full-time basis. 
+Temple University’s Master of Public Policy (MPP) trains students and practitioners for successful careers in the public sector or in private or non-profit organizations. Whether you are a recent college graduate or you've already started a career, we offer an affordable education at a convenient location – just steps from Philadelphia’s City Hall. Learn the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities of governments at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). Students may attend classes full-time (3 courses per semester) or part-time (less than 3 courses per semester). Full-time students can complete the program in about 2 years. Part-time students usually take 3 to 5 years.
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text)
 
@@ -41,7 +41,7 @@ We now offer a dual degree program that allows graduate students to earn both an
 ## The Curriculum
 The MPP 36 credit curriculum consists of 9 required courses, an internship and 3 electives. Full-time students will be able to complete the program in two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on on real-world projects and programs designed to address public problem policies.
 
-### Course Sequence
+## Course Sequence
 **Semester 1**
 - [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
 - [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122) 
