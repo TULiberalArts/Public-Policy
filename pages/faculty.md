@@ -7,4 +7,4 @@ meta-description: >-
   professional backgrounds and social science disciplines.
 published: true
 ---
-Our instructors are full-time academic researchers as well as experienced practitioners. They bring years of real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of business and non-profit organizations, mayors and senior advisors to governors.
+We offer personal learning from experts in politics and policy, both full-time faculty and working practitioners.
