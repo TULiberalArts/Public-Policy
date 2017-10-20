@@ -7,4 +7,4 @@ meta-description: >-
   professional backgrounds and social science disciplines.
 published: true
 ---
-We offer personal learning from experts in politics and policy, both full-time faculty and working practitioners.
+Our professors conduct research relevant to addressing social and quality of life issues throughout the Commonwealth and the Philadelphia region. We offer personal learning from experts in politics and policy, both full-time faculty and working practitioners.
