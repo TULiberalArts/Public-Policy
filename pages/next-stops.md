@@ -2,22 +2,14 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
 description: >-
   Whatever you are interested in, we can put you in touch with someone who can
-  help  you get there. Apply now.
-  published: true
+  help  you get there. Apply now. published: true
+published: true
 ---
-Our MPP graduates help each other. Whatever career you're interested in, we can put you in touch with someone who can help you get there. 
+## 
+Many Temple graduates are already appointed public officials, consultants who work in budgeting and finance and non-profit leaders. Temple alum work in budgeting and finance, economic development, environmental protection, public education, public health, social services and a wide range of other policy fields. They provide important networks through which our graduates will gain entrée into exciting and rewarding careers. Our Master of Public Policy graduates help each other succeed by maintaining a strong professional network after graduation. 
 
-Our alumni include elected officials, judges, state and local legislators and their staff, appointed public officials, non-profit leaders, and consultants who work across all fields in all industries. They provide important networks through which our graduates will gain entree into exciting and rewarding careers. This new program is specifically designed to provide education and training for students who seek to follow similar career paths in the future. Want to make a connection? Email Jeff Antsen [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu).
 
-## Make Your Declaration
 
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu).
-
-## Apply
-
-When you are ready to apply, submit your application online at: [temple.edu/apply](http://www.temple.edu/apply/common/appcheck.asp).
