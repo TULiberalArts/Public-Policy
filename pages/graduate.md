@@ -26,11 +26,11 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an Master of Public Policy at Temple University
-Temple University’s Master of Public Policy (MPP) trains students and practitioners for successful careers in the public sector or in private or non-profit organizations. Whether you are a recent college graduate or you've already started a career, we offer an affordable education at a convenient location – just steps from Philadelphia’s City Hall. Learn the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities of governments at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). Students may attend classes full-time (3 courses per semester) or part-time (less than 3 courses per semester). Full-time students can complete the program in about 2 years. Part-time students usually take 3 to 5 years.
+Temple University’s Master of Public Policy (MPP) trains students and practitioners for successful careers in the public sector or in private or non-profit organizations. Whether you are a recent college graduate or you've already started a career, we offer an affordable education at a convenient location – just steps from Philadelphia’s City Hall. Learn the technical and analytic skills to be able to develop and assess proposed public policies and evaluate the effectiveness of programs and activities of governments at the federal, state and local levels. Classes are held at [Temple's Center City Campus](https://www.temple.edu/tucc/) (TUCC) on weekday evenings, conveniently located steps away from a major transportation hub (Suburban Station). Students may attend classes full-time (3 courses per semester) or part-time (less than 3 courses per semester). Full-time students can complete the program in about 2 years. Part-time students usually take 3 to 5 years. 
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text)
 
-## A Program with Influence
+## Faculty with Real-World Experience 
 Members of our faculty bring to their teaching years of academic and real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. Our professors conduct research relevant to addressing a wide variety of social issues and improving the quality of life throughout the Commonwealth and the Philadelphia region. You can focus on either public policy analysis or public management.
 
 ## New MPP-MPH Dual Degree Program
@@ -62,8 +62,18 @@ The MPP 36 credit curriculum consists of 9 required courses, an internship and 3
 - Elective (open to student choice)
 - Elective (open to student choice)
 
+## Academic Advising
+As a student working toward your MPP, you will receive support and guidance from our program and Temple University. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
+
 ## Admission Requirements
-Contact us at [mpp@temple.edu](mailto_mpp@temple.edu) if you are interested in applying or have questions about out program. Email all supplementary application materials (including letters of reference) to [mpp@temple.edu](mailto:mpp@temple.edu). Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. For more admission requirements, review the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext). 
+Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. We can often waive the GREs if the applicant’s GPA exceeds 3.3 or they have several years of relevant career experience working with governmental agencies. Applicants with no undergraduate course work in math as undergraduate students may be asked to take the GRE exam even if they meet these other criteria. Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and will wait for them before we review your application. Email all supplementary application materials (including letters of reference) to [mpp@temple.edu](mailto:mpp@temple.edu). 
+
+## Can I transfer credits from another MPP or MPA program to Temple’s program?
+Yes. Students admitted to the MPP program can transfer up to 6 credits. The credits must have been earned at a reputable institution with a grade of B or better and Temple must have equivalent courses it its course inventory.  Students who wish to transfer credits need to submit a transcript listing the courses to be transferred and set up an appointment with the MPP Director to discuss transferring into the program. Transfer students must apply to the MPP program and generally meet the same requirements as other applicants, although their performance in another MPP or MPA program will be given special consideration in the admissions decision.  
+
+Questions about whether applicants qualify for waivers should be sent to [mpp@temple.edu](mailto:mpp@temple.edu).  
+
+For more admission requirements, review the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext). 
 
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
