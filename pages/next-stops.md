@@ -10,6 +10,24 @@ published: true
 ## Advance your career. Enhance your community.
 Many Temple graduates are already appointed public officials, consultants who work in budgeting and finance and non-profit leaders. Temple alum work in budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. They provide important networks through which our graduates will gain entrée into exciting and rewarding careers. Our Master of Public Policy graduates help each other succeed by maintaining a strong professional network after graduation.
 
+## Upcoming Info Sessions
+You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.edu), please be sure to let us know if you plan on attending live or if you would prefer a WebEx
+
+**Wednesday, October 25** <br>
+5 - 7 P.M. <br>
+Temple Center City Campus <br>
+Room 206
+
+**Thursday, November 16** <br>
+5 - 7 P.M. <br>
+Temple Center City Campus <br>
+Room 206
+
+**Tuesday, December 6** <br>
+5 - 7 P.M. <br>
+Temple Center City Campus <br>
+Room 206
+
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, doers and risk-takers and globally conscious creative thinker. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
