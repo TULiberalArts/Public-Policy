@@ -3,7 +3,7 @@ title: Resources
 permalink: /resources/
 layout: page
 description: >-
-  Explore resources for Public Policy students at Temple University including the Institute for Public Affairs and the University Community Collaborative.
+  Explore resources for Public Policy students at Temple University including the Institute for Public Affairs and the University Community Collaborative. 
 keywords: >-
   Institute for Public Affairs, University Community Collaborative, Temple Public Policy
 description: 'Our FAQ covers the basics of the program, admission and application.'
