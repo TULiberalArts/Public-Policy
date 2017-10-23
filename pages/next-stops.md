@@ -3,12 +3,13 @@ title: Next Stops
 permalink: /next-stops/
 layout: page
 description: >-
-  Whatever you are interested in, we can put you in touch with someone who can
-  help  you get there. Apply now. published: true
+  Careers for students who study Public Policy include working in public health, social services, environmental protection and public education.  
+keywords: >-
+  Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs
 published: true
 ---
 ## Advance your career. Enhance your community.
-Many Temple graduates are already appointed public officials, consultants who work in budgeting and finance and non-profit leaders. Temple alum work in budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. They provide important networks through which our graduates will gain entrée into exciting and rewarding careers. Our Master of Public Policy graduates help each other succeed by maintaining a strong professional network after graduation.
+Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. Master of Public Policy graduates and other [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
 
 ## Upcoming Info Sessions
 You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.edu), please be sure to let us know if you plan on attending live or if you would prefer a WebEx
