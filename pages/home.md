@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The Department of Political Science offers a Master in Public Policy in Philadelphia. Advance your career in government or in non-profit organizations.
+  The Department of Political Science offers a Master in Public Policy in Philadelphia. Advance your career in government or non-profit organizations.
 keywords: >-
   Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
 feature: true
