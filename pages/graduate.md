@@ -37,11 +37,6 @@ Careers aren't shaped solely in classrooms. The Master of Public Policy program 
 ## Faculty with Real-World Experience
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
 
-## New MPP-MPH Dual Degree Program
-We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. Complete both degrees in 3 years by earning 57 credits.
-
-[Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
-
 ## The Curriculum
 The MPP 36 credit curriculum consists of 9 required courses, an internship and 3 electives. Full-time students will be able to complete the program in about two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on on real-world projects and programs designed to address public problem policies.
 
@@ -65,6 +60,11 @@ The MPP 36 credit curriculum consists of 9 required courses, an internship and 3
 - [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127)
 - Elective (open to student choice)
 - Elective (open to student choice)
+
+## New MPP-MPH Dual Degree Program
+We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. Complete both degrees in 3 years by earning 57 credits.
+
+[Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
 ## Academic Support and Advising
 As a student working toward your MPP, you will receive support and guidance from our program and Temple University. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
