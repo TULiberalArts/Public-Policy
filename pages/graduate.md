@@ -37,8 +37,8 @@ Careers aren't shaped solely in classrooms. The Master of Public Policy program 
 ## Faculty with Real-World Experience
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
 
-## The Curriculum
-The MPP 36 credit curriculum consists of 9 required courses, an internship and 3 electives. Full-time students will be able to complete the program in about two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on on real-world projects and programs designed to address public problem policies.
+## The MPP Curriculum
+The 36 credit curriculum consists of 9 required courses, an internship and 3 electives. Full-time students will be able to complete the program in about two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on on real-world projects and programs designed to address public problem policies.
 
 ## Course Sequence
 **Semester 1**
