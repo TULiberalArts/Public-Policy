@@ -1,6 +1,6 @@
 ---
-title: Graduate
-permalink: /graduate/
+title: MPP Degree
+permalink: /mpp-degree/
 layout: page
 description: >-
   Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our instructors are well-connected experts in politics and policy.  
