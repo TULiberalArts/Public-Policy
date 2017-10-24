@@ -30,7 +30,7 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an MPP at Temple University
-Careers aren't shaped solely in classrooms. The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/). Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
+The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/). Careers aren't shaped solely in classrooms. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text)
 
