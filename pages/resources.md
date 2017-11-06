@@ -42,7 +42,7 @@ The 3.0 requirement is University policy and can be waived only under extraordin
 We may only be able to give full consideration to applications that we receive before these the important deadlines.  While we sometimes may be able to accept applications after these deadlines, we cannot guarantee that late applications will be processed and evaluated in time for enrollment in your preferred semester.
 
 **Q: What are the MPP courses like?**
-MPP required courses are usually offered in classes of 25 students or less. They provide a mixture of lecture, class discussion, and in some cases, oral reports and presentations.  You should plan on doing significant reading before each course meeting, and most classes require a mix of work both individually and in small groups.
+MPP required courses are usually offered in classes of 25 students or less. They provide a mixture of lecture, class discussion, and in some cases, oral reports and presentations. Plan on doing significant reading before each course meeting. Most classes require a mix of work both individually and in small groups.
 
 **Q: Can I join this program if I may not be able to attend some seminars?**
 We realize that many prospective MPP students work part or full-time and may have many life obligations in addition to pursuing this degree. However, we expect that MPP students make attending all regularly scheduled course meetings a primary weekly priority.
@@ -63,19 +63,19 @@ As a full-time student, you will usually intern in the summer between the first 
 Depending on what specific policy issues or type of organizations (eg.executive branch, legislative body, non-profit agency, etc.) you are interested in, the MPP program reaches out to our contacts. Otherwise, you may find an organization that supports the kind of internship you are looking for. 
 
 **Q: Can I be exempted from the internship requirement?**
-Students who are employed in public sector, non-profit or for-profit organizations that have direct relevance for public policy or public administration may use their experience in their job as qualifying experience for an MPP internship.  Students may also substitute an internship that they served as an undergraduate student as long as it was substantially similar in content and duration to regular MPP internships.  NOTE: MPP students who are exempted from the normal internship requirement must still register for PLCY 5085, pay for the 3 internship credits, and fulfill the same paper requirement as other MPP students.  These exempt students are, in effect, using their current or past positions as the experiential learning that they draw on to fulfill the written internship requirements.
+If you are employed in the for-profit, non-profit or public sector organization with direct relevance for public policy or public administration, your experience counts as a qualifying experience for an MPP internship. You may also substitute an internship completed during your undergraduate college experience as long as it was similiar in content and duration as regular MPP internships. NOTE: MPP students who are exempted from the normal internship requirement must still register for PLCY 5085, pay for the 3 internship credits and fulfill the same paper requirement as other MPP students. Exempt students are, in effect, using current or past positions as the experiential learning to fulfill the written internship requirements.
 
 **Q: How can I serve an internship if I work full-time in a non-public policy related job?**
-Students who work full-time in non-policy or public administration-related jobs may face special challenges in fulfilling the internship requirement.  They should work with the MPP Director and their employer to come up with an arrangement that will allow them to fulfill this requirement.
+If you work full-time in a non-policy or public administration-related job, you may face special challenges in fulfilling the internship requirement. Work with the MPP Director and your employer to come up with an arrangement that fulfills the internship requirement. 
 
 **Q: How do I qualify for in-state tuition?**
-To be eligible for in-state tuition, you must have resided in Pennsylvania in the 12 months prior to enrolling in the MPP program.  If you list any out-of-state address on your application, you will be ineligible for in-state tuition.  If ensuring in-state status is an important consideration for you in applying to the MPP program, you should get in contact with [Jeff Antsen](mailto:Jeff.Antsen@temple.edu) to discuss your eligibility for in-state tuition.
+To be eligible for in-state tuition, you must have resided in Pennsylvania in the 12 months prior to enrolling in the MPP program.  If you list any out-of-state address on your application, you will be ineligible for in-state tuition.  If ensuring in-state status is an important consideration for you in applying to the MPP program, get in contact with [Jeff Antsen](mailto:Jeff.Antsen@temple.edu) to discuss your eligibility for in-state tuition.
 
 **Q: How should I decide which courses to take?**
 Before registering for courses each semester, students should contact the MPP Director to discuss which courses they plan to take.  When starting the program, you should focus your schedule on taking required courses before taking electives or serving an internship.  You should take the Statistics course (POLS or PLCY 8001) before or concurrently with the Policy Analysis and before the Program Evaluation courses.
 
 **Q: Who can I talk to if I need help in my courses?**
-All of our instructors are personable, helpful folks and are happy to work with students on an individual basis.  If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
+All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
 
 **Q: Is the MPP program accredited?**
 The MPP Program is not currently accredited, because it is still a young program.  We plan to apply for accreditation with NASPAA (Network of Schools of Public Policy and Administration) when we become eligible in a few years.
