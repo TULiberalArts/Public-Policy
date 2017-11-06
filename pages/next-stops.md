@@ -3,9 +3,9 @@ title: Next Stops
 permalink: /next-stops/
 layout: page
 description: >-
-  Careers for students who study Public Policy include working in public health, social services, environmental protection and public education.  
-keywords: >-
-  Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs
+  Careers for students who study Public Policy include working in public health,
+  social services, environmental protection and public education.  
+keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs'
 published: true
 ---
 ## Advance your career. Enhance your community.
@@ -33,11 +33,6 @@ Room 206
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, doers and risk-takers and globally conscious creative thinker. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [Explore the Complete List of Academic Offerings at CLA](http://www.liberalarts.temple.edu)
-
-## Thinking Of Transferring?
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
-
-[Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
 Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
