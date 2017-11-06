@@ -1,10 +1,11 @@
 ---
+title: resources
+permalink: /resources/
 layout: page
-published: false
-title: Untitled
+published: true
 ---
 ## Institute for Public Affairs
-Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. 
+Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania.
 
 ## University Community Collaborative
 The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
@@ -13,7 +14,7 @@ The [University Community Collaborative](http://uccollab.org/) prepares and supp
 This guide gives answers to many of the questions we receive about Temple’s MPP program that are not addressed elsewhere on our website. If your question isn't included here, feel free to reach us at [MPP@temple.edu](mailto:MPP@temple.edu). We will get back to you as quickly as possible.
 
 **Q: Do you offer MPP courses during the summer or on Saturdays?**
-At this time, a limited number of elective courses are offered in the summer. As the program grows, we anticipate that more elective and required courses will be offered in the summer. We may also offer Saturday courses in the future if sufficient numbers of students indicate interest. 
+At this time, a limited number of elective courses are offered in the summer. As the program grows, we anticipate that more elective and required courses will be offered in the summer. We may also offer Saturday courses in the future if sufficient numbers of students indicate interest.
 
 **Q: When do Temple’s academic terms begin and end?**
 Fall semesters generally begin at the end of August, the week before Labor Day and end in mid-December. Spring semesters begin in mid-January and end in the beginning of May.
@@ -59,13 +60,13 @@ You must register for PLCY 5085 and serve an internship of approximately 12-15 h
 Full-time students usually intern in the summer between the first and second years of the MPP program or in the Fall or Spring semester of the second year.  
 
 **Q: How do I secure an internship?**
-Depending on what specific policy issues or type of organizations (eg.executive branch, legislative body, non-profit agency, etc.) you are interested in, we assist you by reaching out to our professional contacts to help you set up your internship. Otherwise, you may find an organization that supports the kind of internship you are looking for on your own. 
+Depending on what specific policy issues or type of organizations (eg.executive branch, legislative body, non-profit agency, etc.) you are interested in, we assist you by reaching out to our professional contacts to help you set up your internship. Otherwise, you may find an organization that supports the kind of internship you are looking for on your own.
 
 **Q: Can I be exempted from the internship requirement?**
 If you are employed in a for-profit, non-profit or public sector organization with direct relevance for public policy or public administration, your experience counts as a qualifying experience for an MPP internship. You may also substitute an internship completed during your undergraduate college experience as long as it was similiar in content and duration as regular MPP internships. NOTE: MPP students who are exempted from the normal internship requirement must still register for PLCY 5085, pay for the 3 internship credits and fulfill the same paper requirement as other MPP students. Exempt students are, in effect, using current or past positions as the experiential learning to fulfill the written internship requirements.
 
 **Q: How can I serve an internship if I work full-time in a non-public policy related job?**
-If you work full-time in a non-policy or public administration-related job, you may face special challenges in fulfilling the internship requirement. Work with the MPP Director and your employer to come up with an arrangement that fulfills the internship requirement. 
+If you work full-time in a non-policy or public administration-related job, you may face special challenges in fulfilling the internship requirement. Work with the MPP Director and your employer to come up with an arrangement that fulfills the internship requirement.
 
 **Q: How do I qualify for in-state tuition?**
 To be eligible for in-state tuition, you must have resided in Pennsylvania in the 12 months prior to enrolling in the MPP program. If you list any out-of-state address on your application, you will be ineligible for in-state tuition.  If ensuring in-state status is an important consideration for you, get in contact with [Jeff Antsen](mailto:Jeff.Antsen@temple.edu) to discuss your eligibility for in-state tuition.
