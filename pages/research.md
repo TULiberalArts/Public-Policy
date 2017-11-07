@@ -5,7 +5,7 @@ layout: page
 description: >-
   Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues.
 keywords: >-
-  Institute for Public Affairs, Public Policy Research, Temple Public Policy, Temple Political Science faculty
+  Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research 
 published: true
 ---
 ## Affiliated Centers
