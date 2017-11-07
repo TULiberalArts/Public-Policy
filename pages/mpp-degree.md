@@ -3,11 +3,9 @@ title: MPP Degree
 permalink: /mpp-degree/
 layout: page
 description: >-
-  Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our
-  instructors are well-connected experts in politics and policy.  
+  Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our instructors are well-connected experts in politics and policy.  
 keywords: >-
-  Public Policy Program, Master in Public Policy, Public Policy Major, Public
-  Policy School
+  Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
 published: true
 sidebar: true
 sidebar-content: |
@@ -32,7 +30,7 @@ sidebar-content: |
    [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 ---
 ## Earn an MPP at Temple University
-The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/)in the evening. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels. 
+The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/)in the evening. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
 
 Careers aren’t shaped solely in classrooms. Students apply what they learn in class to internships or to the jobs that many already have in public service. The MPP program also sponsors a variety of extracurricular events including candidate forums, guest speakers, panels of experts on policy issues and public service careers workshops.
 
