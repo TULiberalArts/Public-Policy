@@ -3,8 +3,7 @@ title: Next Stops
 permalink: /next-stops/
 layout: page
 description: >-
-  Careers for students who study Public Policy include working in public health,
-  social services, environmental protection and public education.  
+  Careers for students who study Public Policy include working in public health, social services, environmental protection and public education.  
 keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs'
 published: true
 ---
