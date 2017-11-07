@@ -3,19 +3,14 @@ title: Home
 permalink: /
 layout: home
 description: >-
-  The Department of Political Science offers a Master in Public Policy in
-  Philadelphia. Advance your career in government or non-profit organizations.
+  The Department of Political Science offers a Master in Public Policy in Philadelphia. Advance your career in government or non-profit organizations.
 keywords: >-
-  Public Policy Program, Master in Public Policy, Public Policy Major, Public
-  Policy School
+  Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
 feature: true
 feature-title: Master Policy Where Policy is Made
 feature-image: hero_PoliticalScience2.png
 feature-body: >-
-  Our Master of Public Policy (MPP) program trains students and practitioners
-  who seek successful careers in the public sector or in private or non-profit
-  organizations that work on a continuous basis with government agencies — steps
-  away from City Hall.
+  Our Master of Public Policy (MPP) program trains students and practitioners who seek successful careers in the public sector or in private or non-profit organizations that work on a continuous basis with government agencies — steps away from City Hall.
 published: true
 ---
 ## Become an Agent for Change
