@@ -30,6 +30,7 @@ The [University Community Collaborative](http://uccollab.org/) prepares and supp
 
 ## Faculty Publications
 **[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
+![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
 
 Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. <br>
    _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
@@ -54,6 +55,9 @@ Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschoo
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals <br>   of the American Academy of Political and Social Science_, 654(1), 150-168.
 
 **[Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)**<br>
+
+![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
+
 Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
 
 Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. <br>                Philadelphia Pa.: Univ. of Pennsylvania Press.
@@ -69,6 +73,9 @@ Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
 
 **[Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)**<br>
+
+![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/gerald-stahler.jpg){:.img-left}
+
 Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135. 
 
 Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33. 
