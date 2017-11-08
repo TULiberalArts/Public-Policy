@@ -16,9 +16,9 @@ published: true
 
 ![Philadelphia City Hall]({{site.baseurl}}/media/philadelphia-city-hall.jpg){:.img-right}
 
-Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues throughout the Commonwealth and the Philadelphia region.
+Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research that informs and improves public policy focusing on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conducts relevant research that addresses social and quality of life issues throughout the Commonwealth and the Philadelphia region.
 
-Recent research from the Institute for Public Affairs includes the following. 
+Recent research from the Institute for Public Affairs includes the following.
 
 - Quantifying the economic costs of underachieving public schools
 - Measuring effectiveness of child care subsidies in helping parents stay in the workforce
@@ -31,8 +31,7 @@ Recent research from the Institute for Public Affairs includes the following.
 - Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
 ### University Community Collaborative
-The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
-This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
+The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people on their journeys to become confident, effective civic-minded leaders. Engaging approximately 130 youth per year (ages 14-24), UCC's programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 
 ## Faculty Publications
 
@@ -54,7 +53,7 @@ ___
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
 
 ![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
-Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
+Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
   _Child Development_.
 
 Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
@@ -80,7 +79,6 @@ _Winner 2014, Best Edited Book by International Planning History_
 Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976.
 
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
-
 ___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
