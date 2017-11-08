@@ -29,6 +29,8 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus. 
 This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
+___
+
 ## Faculty Publications
 **[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
@@ -44,6 +46,8 @@ Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Co
 
 Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. <br>
   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
+  
+___
 
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
 
@@ -54,6 +58,8 @@ Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Mark
 Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and <br>   Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals <br>   of the American Academy of Political and Social Science_, 654(1), 150-168.
+
+___
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
 
@@ -72,6 +78,8 @@ _Winner 2014, Best Edited Book by International Planning History_
 Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976. 
 
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
+
+___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
