@@ -33,7 +33,7 @@ sidebar-content: |
 ---
 ## Earn an MPP at Temple University
 ![MPP Degree Program at Temple University]({{site.baseurl}}/media/mpp-degree-temple.jpg){:.img-right}
-The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/) in the evening. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
+The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/){:target=“_blank”} in the evening. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
 
 Careers aren’t shaped solely in classrooms. Students apply what they learn in class to internships or to the jobs that many already have in public service. The MPP program also sponsors a variety of extracurricular events including candidate forums, guest speakers, panels of experts on policy issues and public service careers workshops.
 
@@ -46,26 +46,26 @@ The 36 credit MPP curriculum consists of 9 required courses, an internship and 3
 
 ## Course Sequence
 **Fall Semester First Year**
-- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
-- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122)
-- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128)
+- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
+- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
+- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
 
 **Spring Semester First Year**
-- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001)
-- [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119)
-- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123)
+- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
+- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
 
 **Fall Semester Second Year**
-- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165)
-- [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085)
+- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
+- [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 - Elective (open to student choice)
 
 **Spring Semester Scond Year**
-- [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127)
+- [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
 - Elective (open to student choice)
 - Elective (open to student choice)
 
-[Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text)
+[Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
 ## Admission Requirements
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If your GPA exceeds 3.3 or you have several years of relevant career experience working with governmental agencies, it is possible to waive the GRE exam requirement. Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and wait for them before we review your application. If you wish to inquire about your competitiveness for admission or whether you are eligible for a GRE waiver, send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
@@ -89,7 +89,7 @@ Like most other Master’s degree programs, we generally do not have scholarship
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
 ## Transferring Credits from other MPP or MPA Programs into Temple
-Yes. Students admitted to the MPP program can transfer up to 6 credits. The credits must have been earned at a reputable institution with a grade of B or better and Temple must have equivalent courses it its course inventory. Students who wish to transfer credits need to submit a transcript listing the courses to be transferred and set up an appointment with the MPP Director to discuss transferring into the program. Transfer students must apply to the MPP program and generally meet the same requirements as other applicants, although their performance in another MPP or MPA program will be given special consideration in the admissions decision. Questions about whether applicants qualify for waivers should be sent to [mpp@temple.edu](mailto:mpp@temple.edu). For more admission requirements, review the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext).
+Yes. Students admitted to the MPP program can transfer up to 6 credits. The credits must have been earned at a reputable institution with a grade of B or better and Temple must have equivalent courses it its course inventory. Students who wish to transfer credits need to submit a transcript listing the courses to be transferred and set up an appointment with the MPP Director to discuss transferring into the program. Transfer students must apply to the MPP program and generally meet the same requirements as other applicants, although their performance in another MPP or MPA program will be given special consideration in the admissions decision. Questions about whether applicants qualify for waivers should be sent to [mpp@temple.edu](mailto:mpp@temple.edu). For more admission requirements, review the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext){:target=“_blank”}.
 
 ## Apply to Temple
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
