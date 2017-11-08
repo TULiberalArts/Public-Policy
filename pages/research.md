@@ -44,6 +44,8 @@ Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-
   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
 
 **[Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
+
+![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
 Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
   _Child Development_. 
   
