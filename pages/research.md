@@ -14,7 +14,7 @@ published: true
 
 ### Institute for Public Affairs
 
-![Philadelphia City Hall]({{site.baseurl}}/media/philadelphia-city-hall.jpg){:.img-full}
+![Philadelphia City Hall]({{site.baseurl}}/media/philadelphia-city-hall.jpg){:.img-right}
 
 Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues throughout the Commonwealth and the Philadelphia region. Recent research includes:
 
