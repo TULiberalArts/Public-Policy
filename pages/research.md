@@ -26,7 +26,8 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 - Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
 ### University Community Collaborative
-The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
+The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus. 
+This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
 ## Faculty Publications
 **[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
@@ -44,7 +45,7 @@ Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Co
 Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. <br>
   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
 
-**[Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
+### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
 
 ![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
 Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
@@ -54,13 +55,13 @@ Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschoo
 
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals <br>   of the American Academy of Political and Social Science_, 654(1), 150-168.
 
-**[Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)**<br>
+### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
 
 ![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
 
 Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
 
-Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. <br>                Philadelphia Pa.: Univ. of Pennsylvania Press.
+Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
 
 Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote <br> 
   equity planning. Urban Forestry & Urban Greening, 19, 263-270. 
@@ -72,7 +73,7 @@ Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for
 
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
 
-**[Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)**<br>
+### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
 ![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/gerald-stahler.jpg){:.img-left}
 
