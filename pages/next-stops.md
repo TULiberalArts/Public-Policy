@@ -8,8 +8,9 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 published: true
 ---
 ## Advance your career. Enhance your community.
-![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/temple-mpp-degree-info-session.jpg){:.img-full}
 Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
+
+![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/temple-mpp-degree-info-session.jpg){:.img-full}
 
 ## Upcoming Info Sessions
 You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.edu), please be sure to let us know if you plan on attending live or if you would prefer a WebEx
