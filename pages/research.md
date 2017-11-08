@@ -3,9 +3,11 @@ title: Research
 permalink: /research/
 layout: page
 description: >-
-  Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues.
+  Temple's Public Policy faculty and the Institute for Public Affairs conduct
+  research relevant to addressing social and quality of life issues.
 keywords: >-
-  Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research 
+  Institute for Public Affairs, Public Policy Research, Temple Public Policy,
+  Public Policy Research 
 published: true
 ---
 ## Affiliated Centers
@@ -27,12 +29,25 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
 ## Faculty Publications
+**[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 
-- Buss, Andrew, “A New Community Space: The Culture of the Urban Bike Café" – Spaces and Flows: An International Journal of Urban and Extra Urban Studies, 2015, v.5, #3-4
-- Buss, Andrew, “Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia” – Smart Cities for a Bright Sustainable Future – A Global Perspective Update, 2014.
-- Buss, Andrew, “Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government” - International Journal of Design Management and Professional Practice, 2013, v.6, #1.
-- Buss, Andrew, “Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology Access” – International Journal of Technology, Knowledge, and Society, 2012, v.8, #2.
-- Buss, Andrew, “After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans” - Spaces and Flows: An International Journal of Urban and Extra Urban Studies, 2011, v. 1.
+Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. <br>
+  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
+
+Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
+
+Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
+
+Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
+
+Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. <br>
+  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
+
+**Elise Chor**
+
+
+
+
 - Chor, Elise (In press). “Multigenerational Head Start Participation: An Unexpected Marker of Progress.” Child Development.
 - Chor, Elise Andresen, M.E., & Kalil, A. (2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” Economics of Education Review, 55: 168-181.
 - Kalil, A., Ryan, R., & Chor, Elise. (2014). “Time Investments in Children across Family Structures.” Annals of the American Academy of Political and Social Science, 654(1): 150-168.
