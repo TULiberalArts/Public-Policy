@@ -7,7 +7,7 @@ description: >-
   research relevant to addressing social and quality of life issues.
 keywords: >-
   Institute for Public Affairs, Public Policy Research, Temple Public Policy,
-  Public Policy Research 
+  Public Policy Research
 published: true
 ---
 ## Affiliated Centers
@@ -16,7 +16,9 @@ published: true
 
 ![Philadelphia City Hall]({{site.baseurl}}/media/philadelphia-city-hall.jpg){:.img-right}
 
-Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues throughout the Commonwealth and the Philadelphia region. Recent research includes
+Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conduct research relevant to addressing social and quality of life issues throughout the Commonwealth and the Philadelphia region.
+
+Recent research from the Institute for Public Affairs includes the following. 
 
 - Quantifying the economic costs of underachieving public schools
 - Measuring effectiveness of child care subsidies in helping parents stay in the workforce
@@ -29,7 +31,7 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 - Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
 ### University Community Collaborative
-The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus. 
+The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
 ## Faculty Publications
@@ -46,15 +48,15 @@ Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collabo
 Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
 
 Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
-  
+
 ___
 
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
 
 ![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
 Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
-  _Child Development_. 
-  
+  _Child Development_.
+
 Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
@@ -70,12 +72,12 @@ Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agricultu
 
 Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
 
-Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270. 
+Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270.
 
 Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality governance, and reflective practice. Cambridge, MA: The MIT Press. <br>
 _Winner 2014, Best Edited Book by International Planning History_
 
-Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976. 
+Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976.
 
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
 
@@ -85,12 +87,12 @@ ___
 
 ![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/gerald-stahler.jpg){:.img-left}
 
-Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135. 
+Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
 
-Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33. 
+Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
 
-Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015). Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. _Drug and Alcohol Dependence_, 152, 230-238. 
- 
-Stahler, G.J., Mennis, J., Belenko, S., Welsh, W. N., Hiller, M. L., & Zajac, G. (2013). Predicting Recidivism for Released State Prison Offenders. Criminal Justice and Behavior, 40(6), 690-711. 
+Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015). Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. _Drug and Alcohol Dependence_, 152, 230-238.
+
+Stahler, G.J., Mennis, J., Belenko, S., Welsh, W. N., Hiller, M. L., & Zajac, G. (2013). Predicting Recidivism for Released State Prison Offenders. Criminal Justice and Behavior, 40(6), 690-711.
 
 Stahler, G.J., Mennis, J., Cotlar, R., Baron, D.A. (2009). The influence of the neighborhood environment on treatment continuity and rehospitalization for dually diagnosed patients discharged from acute inpatient care. _American Journal of Psychiatry_, 166, 1258-1268.
