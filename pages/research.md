@@ -32,23 +32,20 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people to become confident, effective leaders through youth programming. Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus. 
 This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
-___
-
 ## Faculty Publications
+
 **[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
 
-Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. <br>
-   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
+Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
-Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in <br>    Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
+Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
 
-Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus <br>      Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
+Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
 
-Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through <br>          Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
+Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
 
-Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. <br>
-  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
+Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
   
 ___
 
@@ -58,10 +55,9 @@ ___
 Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
   _Child Development_. 
   
-Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and <br>   Child Outcomes.” _Economics of Education Review_, 55, 168-181.
+Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
-Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals <br>   of the American Academy of Political and Social Science_, 654(1), 150-168.
-
+Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
 ___
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
@@ -72,10 +68,9 @@ Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agricultu
 
 Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
 
-Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote <br> 
-  equity planning. Urban Forestry & Urban Greening, 19, 263-270. 
+Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270. 
 
-Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality, <br>     governance, and reflective practice. Cambridge, MA: The MIT Press.
+Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality governance, and reflective practice. Cambridge, MA: The MIT Press. <br>
 _Winner 2014, Best Edited Book by International Planning History_
 
 Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976. 
