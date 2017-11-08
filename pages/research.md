@@ -58,7 +58,9 @@ Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Mark
 Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
+
 ___
+
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
 
