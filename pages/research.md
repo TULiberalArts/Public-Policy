@@ -32,32 +32,40 @@ The [University Community Collaborative](http://uccollab.org/) prepares and supp
 **[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 
 Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. <br>
-  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
+   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
-Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
+Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in <br>    Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
 
-Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
+Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus <br>      Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
 
-Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
+Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through <br>          Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
 
 Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. <br>
   _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
 
 **Elise Chor**
+Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract). <br>
+  _Child Development_. doi:10.1111/cdev.12673
+  
+Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and <br>   Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
+Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals <br>   of the American Academy of Political and Social Science_, 654(1), 150-168.
 
+**Christina Rosan**
+Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
 
+Rosan, C.D.(2016). Governing the fragmented metropolis: planning for regional sustainability. <br>                Philadelphia Pa.: Univ. of Pennsylvania Press.
 
-- Chor, Elise (In press). “Multigenerational Head Start Participation: An Unexpected Marker of Progress.” Child Development.
-- Chor, Elise Andresen, M.E., & Kalil, A. (2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” Economics of Education Review, 55: 168-181.
-- Kalil, A., Ryan, R., & Chor, Elise. (2014). “Time Investments in Children across Family Structures.” Annals of the American Academy of Political and Social Science, 654(1): 150-168.
-- Rosan, Christina and Hamil Pearsall. Growing a Sustainable City? Urban Agriculture in Philadelphia. University of Toronto Press. In Press. Expected in Winter 2017.  
-- Rosan, Christina. Governing the Fragmented Metropolis: Planning for Regional Sustainability. November 2016. Philadelphia, PA: Penn Press. 248 pages.
-- Heckert, Megan and Christina D. Rosan. September 2016. “Developing a Green Infrastructure Equity Index to Promote Equity Planning.” Urban Forestry and Urban Greening,19, 263-270. DOI:10.1016/j.ufug.2015.12.011
-- Sanyal, Bishwapriya, Lawrence Vale, and Christina D. Rosan, eds. 2012. Planning Ideas that Matter. Cambridge, MA: MIT Press. July 2012. Winner 2014, Best Edited Book by International Planning History Society, 432 pages.
-- Sanyal, Bishwapriya, Lawrence Vale, and Christina D. Rosan. 2012. “Four Conversations in Planning“ in Planning Ideas that Matter edited by Sanyal, Bishwapriya, Lawrence Vale, and Christina D. Rosan. Cambridge, MA: MIT Press, pp. 1-30.
-- Rosan, Christina D. 2012. “Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice,” Local Environment: The International Journal of Justice and Sustainability, 17(9), 959-976. DOI:10.1080/13549839.2011.627322
-- Davis, Diane E. and Christina D. Rosan. 2004. “Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance.” Mobilization: An International Journal of Research in Social Movements, Protest, and Contentious Politics, 9(3), 279-293.
+Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote <br> 
+  equity planning. Urban Forestry & Urban Greening, 19, 263-270. doi:10.1016/j.ufug.2015.12.011
+
+Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality, <br>     governance, and reflective practice. Cambridge, MA: The MIT Press.
+_Winner 2014, Best Edited Book by International Planning History_
+
+Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976. doi:10.1080/13549839.2011.627322
+
+Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
+
 - Stahler, Gerald, Mennis, J., & DuCette, J. (2016).  Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. Addictive Behaviors, 58, 129-135.  
 Mennis, J., & Gerald Stahler,. (2016). Racial and ethnic disparities in outpatient substance use disorder treatment for different substances in U.S. cities. Journal of Substance Abuse Treatment,63, 25-33.
  - Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015).  Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. Drug and Alcohol Dependence,152, 230-238.
