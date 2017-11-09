@@ -64,6 +64,8 @@ Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Fami
 
 ___
 
+
+
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
 
 ![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
