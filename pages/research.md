@@ -13,9 +13,6 @@ published: true
 ## Affiliated Centers
 
 ### Institute for Public Affairs
-
-![Philadelphia City Hall]({{site.baseurl}}/media/philadelphia-city-hall.jpg){:.img-right}
-
 Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research that informs and improves public policy focusing on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple's Public Policy faculty and the Institute for Public Affairs conducts relevant research that addresses social and quality of life issues throughout the Commonwealth and the Philadelphia region.
 
 Recent research from the Institute for Public Affairs includes the following.
@@ -31,6 +28,7 @@ Recent research from the Institute for Public Affairs includes the following.
 - Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
 ### University Community Collaborative
+![University Community Collaborative]({{site.baseurl}}/media/UCC-youth-programming.jpg){:.img-right}
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people on their journeys to become confident, effective civic-minded leaders. Engaging approximately 130 youth per year (ages 14-24), UCC's programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 
 ## Faculty Publications
