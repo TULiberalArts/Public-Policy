@@ -34,6 +34,7 @@ Recent research from the Institute for Public Affairs includes the following.
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people on their journeys to become confident, effective civic-minded leaders. Engaging approximately 130 youth per year (ages 14-24), UCC's programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 
 ## Faculty Publications
+___
 
 ### [Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
@@ -50,10 +51,9 @@ Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-
 
 ___
 
-
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
-
 ![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
+
 Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
   _Child Development_.
 
@@ -81,7 +81,6 @@ Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for
 Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
 
 ___
-
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
