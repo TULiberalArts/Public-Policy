@@ -33,7 +33,7 @@ The [University Community Collaborative](http://uccollab.org/) (UCC) prepares an
 ___
 
 ### [Andrew Buss](http://andrewbuss.cgpublisher.com/) <br>
-![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
+![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/andrew-buss-mpp.jpg){:.img-right}
 
 Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
@@ -83,7 +83,7 @@ ___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
-![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/gerald-stahler.jpg){:.img-left}
+![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-left}
 
 Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
 
