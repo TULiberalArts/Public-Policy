@@ -36,7 +36,7 @@ The [University Community Collaborative](http://uccollab.org/) (UCC) prepares an
 ## Faculty Publications
 ___
 
-### [Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
+### [Andrew Buss](http://andrewbuss.cgpublisher.com/) <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
 
 Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
@@ -60,6 +60,7 @@ Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Mark
 Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
 Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
+
 
 ___
 
