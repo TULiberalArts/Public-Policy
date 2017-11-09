@@ -35,7 +35,7 @@ The [University Community Collaborative](http://uccollab.org/) (UCC) prepares an
 
 ## Faculty Publications
 
-**[Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
+### [Andrew Buss](http://andrewbuss.cgpublisher.com/)** <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/AndrewBuss.jpg){:.img-right}
 
 Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
