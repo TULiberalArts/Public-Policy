@@ -3,11 +3,9 @@ title: Research
 permalink: /research/
 layout: page
 description: >-
-  Temple's Public Policy faculty and the Institute for Public Affairs conduct
-  research relevant to addressing social and quality of life issues.
+  Temple's Public Policy faculty and the Institute for Public Affairs conducts research relevant to addressing social and quality of life issues.
 keywords: >-
-  Institute for Public Affairs, Public Policy Research, Temple Public Policy,
-  Public Policy Research
+  Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research
 published: true
 ---
 ## Affiliated Centers
@@ -45,7 +43,7 @@ Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collabo
 
 Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
 
-Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62. 
+Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
 
 ___
 
