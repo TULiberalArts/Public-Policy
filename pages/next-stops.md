@@ -15,11 +15,6 @@ Careers in public policy include appointed public positions, consultancy roles a
 ## Upcoming Info Sessions
 You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.edu), please be sure to let us know if you plan on attending live or if you would prefer a WebEx
 
-**Wednesday, October 25** <br>
-5 - 7 P.M. <br>
-Temple Center City Campus <br>
-Room 206
-
 **Thursday, November 16** <br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
