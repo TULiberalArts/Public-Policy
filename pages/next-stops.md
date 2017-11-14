@@ -87,13 +87,13 @@ If you work full-time in a non-policy or public administration-related job, you 
 To be eligible for in-state tuition, you must have resided in Pennsylvania in the 12 months prior to enrolling in the MPP program. If you list any out-of-state address on your application, you will be ineligible for in-state tuition.  If ensuring in-state status is an important consideration for you, get in contact with [Jeff Antsen](mailto:Jeff.Antsen@temple.edu) to discuss your eligibility for in-state tuition.
 
 **Q: How should I decide which courses to take?**
-Before registering for courses each semester, contact the MPP Director to discuss the courses you plan on taking.  When starting the program, you should focus your schedule on taking required courses before taking electives or serving an internship. You should take the Statistics course (POLS or PLCY 8001) before or concurrently with the Policy Analysis and before the Program Evaluation courses.
+Before registering for courses each semester, contact the MPP Director to discuss the courses you plan on taking.  When starting the program, you should focus your schedule on taking required courses before taking electives or serving an internship. You should take the Statistics course (POLS or PLCY 8001) before or concurrently with the Policy Analysis and before the Program Evaluation courses. You should take Economics of the Public Sector (ECON 8122) before taking Policy Analysis (PLCY 8119) and Policy Analysis before taking Policy Analysis Project (PLCY 8127)
 
 **Q: Who can I talk to if I need help in my courses?**
 All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings or the like, you can ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), our Assistant Director.
 
 **Q: Is the MPP program accredited?**
-The MPP Program is not currently accredited, because it is still a young program. We plan on applying for accreditation with NASPAA (Network of Schools of Public Policy and Administration) after we are eligible in a few years.
+The MPP Program is not currently accredited, because it is still a new program. Very few MPP programs are currently accredited. We may  apply for accreditation with NASPAA (Network of Schools of Public Policy and Administration) after we are eligible in a few years.
 
 ## Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
