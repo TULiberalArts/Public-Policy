@@ -95,13 +95,6 @@ All of our instructors are personable, helpful folks and are happy to work with 
 **Q: Is the MPP program accredited?**
 The MPP Program is not currently accredited, because it is still a new program. Very few MPP programs are currently accredited. We may  apply for accreditation with NASPAA (Network of Schools of Public Policy and Administration) after we are eligible in a few years.
 
-## Undergraduate Resources
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate funding](http://sfs.temple.edu/)
-- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
 ## Graduate Resources
 - [Graduate Student Handbook](http://bulletin.temple.edu/graduate/graduate-policies/)
 - [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
@@ -109,16 +102,9 @@ The MPP Program is not currently accredited, because it is still a new program. 
 - [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
 - [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
-## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, doers and risk-takers and globally conscious creative thinker. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
-
-[Explore the Complete List of Academic Offerings at CLA](http://www.liberalarts.temple.edu)
-
-## Apply
-Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
-
-## Deadlines
-- **February 1**: Freshman Application Deadline for Fall Semester
-- **March 1**: FAFSA Financial Aid Application Deadline
-- **November 1**: Transfer Deadline for Spring Semester
-- **June 1**: Transfer Deadline for Fall Semester
+## Undergraduate Resources
+- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate funding](http://sfs.temple.edu/)
+- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
