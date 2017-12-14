@@ -42,7 +42,7 @@ Our dynamic faculty bring years of academic and real-world experience and expert
 
 ## The MPP Curriculum
 ![Feather Houstoun]({{site.baseurl}}/media/feather-houstoun-mpp-program.jpg){:.img-left}
-The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on on real-world projects and programs designed to address public problem policies.
+The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
 
 ## Course Sequence
 **Fall Semester First Year**
@@ -60,7 +60,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 - [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 - Elective (open to student choice)
 
-**Spring Semester Scond Year**
+**Spring Semester Second Year**
 - [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
 - Elective (open to student choice)
 - Elective (open to student choice)
