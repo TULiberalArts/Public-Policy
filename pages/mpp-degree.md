@@ -41,7 +41,6 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
 
 ## The MPP Curriculum
-![Feather Houstoun]({{site.baseurl}}/media/feather-houstoun-mpp-program.jpg){:.img-left}
 The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
 
 ## Course Sequence
