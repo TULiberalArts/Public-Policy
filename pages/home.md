@@ -40,7 +40,7 @@ Members of our faculty bring to their teaching years of academic and real-world 
         title="Information Sessions"
         content="Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session."
         image=""
-        button-link="/public-policy/next-stops/#"
+        button-link="/public-policy/next-stops/#upcoming-info-sessions"
         button-text="Learn More" %}
       </div>
 </div>
