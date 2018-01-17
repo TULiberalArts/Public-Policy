@@ -78,6 +78,7 @@ We now offer a dual degree program that allows graduate students to earn both an
 [Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
 ## Academic Support and Advising
+![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.img-right} 
 As a student working toward your MPP, you will receive support and guidance from our program and Temple University. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
 
 ## Temple Graduate School Funding
