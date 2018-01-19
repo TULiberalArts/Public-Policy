@@ -19,12 +19,12 @@ You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.
 Temple Center City Campus <br>
 Room 206
 
-[Thursday, February 15th](https://events.temple.edu/mpp-information-session-1)<br>
+[Thursday, February 15th](https://events.temple.edu/mpp-information-session-0)<br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
 Room 206
 
-[Thursday, March 15th](https://events.temple.edu/mpp-information-session-0)<br>
+[Thursday, March 15th](https://events.temple.edu/mpp-information-session-1)<br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
 Room 206
