@@ -35,8 +35,8 @@ Temple Center City Campus <br>
 Room 206
 
 MPP +1 - Tuesday, March 20th<br>
-12:00-1:30 P.M. 
-Main Campus: 914 Gladfelter Hall (Weigley Room)<br>
+12:00-1:30 P.M.<br> 
+Main Campus: 914 Gladfelter Hall (Weigley Room)
 
 ___
 
