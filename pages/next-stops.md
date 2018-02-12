@@ -14,6 +14,10 @@ Careers in public policy include appointed public positions, consultancy roles a
 ## Upcoming Info Sessions
 You can RSVP for an info session by emailing [mpp@temple.edu](mailto:mpp@temple.edu). Please be sure to let us know if you plan on attending live or if you would prefer a WebEx. The information sessions are from 5-7pm and there will be a full presentation starting at 5:40pm. 
 
+MPP +1 - Tuesday, February 20th<br>
+12:00-1:30 P.M. 
+Main Campus: 914 Gladfelter Hall (Weigley Room)<br>
+
 [Monday, January 22nd](https://events.temple.edu/mpp-information-session)<br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
