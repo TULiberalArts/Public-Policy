@@ -71,7 +71,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 
 <div class="row">
-      <div class="col s1 m8">
+      <div class="col s2 m8">
         <div class="card-panel grey">
           <span class="white-text">I am a very simple card. I am good at containing small bits of information.
           I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</a>    
