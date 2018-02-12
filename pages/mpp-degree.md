@@ -69,6 +69,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
+
 <div class="row">
       <div class="col s1 m8">
         <div class="card-panel grey">
@@ -76,7 +77,8 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
           I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</a>    
           </span>
         </div>
-        </div>
+       </div>
+       
 
 ## Admission Requirements
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If your GPA exceeds 3.3 or you have several years of relevant career experience working with governmental agencies, it is possible to waive the GRE exam requirement. Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and wait for them before we review your application. If you wish to inquire about your competitiveness for admission or whether you are eligible for a GRE waiver, send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
