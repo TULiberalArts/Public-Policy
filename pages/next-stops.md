@@ -29,14 +29,16 @@ Room 206
 Temple Center City Campus <br>
 Room 206
 
-MPP +1 - Tuesday, March 20th<br>
-12:00-1:30 P.M. 
-Main Campus: 914 Gladfelter Hall (Weigley Room)<br>
-
 [Wednesday, April 11th](https://events.temple.edu/mpp-information-session-2)<br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
 Room 206
+
+MPP +1 - Tuesday, March 20th<br>
+12:00-1:30 P.M. 
+Main Campus: 914 Gladfelter Hall (Weigley Room)<br>
+
+___
 
 ## Frequently Asked Questions
 This guide gives answers to many of the questions we receive about Temple’s MPP program that are not addressed elsewhere on our website. If your question isn't included here, feel free to reach us at [MPP@temple.edu](mailto:MPP@temple.edu). We will get back to you as quickly as possible.
