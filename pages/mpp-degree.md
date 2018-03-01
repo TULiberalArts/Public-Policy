@@ -98,5 +98,5 @@ Students admitted to the MPP program can transfer up to 6 credits. The credits m
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ## Graduate Application Deadlines
-- **March 1** - Fall Semester
+- **March 1** - Fall Semester- **The application deadline has been extended to April 1!**
 - **Nov. 1** - Spring Semester
