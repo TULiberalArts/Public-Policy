@@ -37,7 +37,7 @@ The Master of Public Policy program offers an affordable education just steps fr
 
 Careers aren’t shaped solely in classrooms. Students apply what they learn in class to internships or to the jobs that many already have in public service. The MPP program also sponsors a variety of extracurricular events including candidate forums, guest speakers, panels of experts on policy issues and public service careers workshops.
 
-- View a schedule of our **[Upcoming Information Sessions](public-policy/next-stops#upcominginformationsessions/)**
+- View a schedule of our **[Upcoming Information Sessions](public-policy/next-stops#upcoming-info-sessions)**
 
 Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. **The application deadline has been extended to April 1!**
 
