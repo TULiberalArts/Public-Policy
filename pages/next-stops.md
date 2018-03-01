@@ -27,7 +27,7 @@ Room 206
 [Thursday, March 15th](https://events.temple.edu/mpp-information-session-1)<br>
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
-Room 206
+Room 206 <br>
 **Please Note:The application deadline has been extended to April 1!**
 
 [Wednesday, April 11th](https://events.temple.edu/mpp-information-session-2)<br>
