@@ -39,7 +39,8 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 
 - View a schedule of our **[Upcoming Information Sessions](/public-policy/next-stops#upcoming-info-sessions)**
 
-Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. **The application deadline has been extended to April 1!**
+Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+- **The regular application cycle for Fall 2018 applications is now closed. However, we are still accepting a limited number of applications on a rolling basis. Please e-mail us at [MPP@temple.edu](mailto:mpp@temple.edu) for inquiries.**
 
 ## Faculty with Real-World Experience
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
