@@ -39,7 +39,7 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 
 - View a schedule of our **[Upcoming Information Sessions](/public-policy/next-stops#upcoming-info-sessions)**
 
-Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 - **The regular application cycle for Fall 2018 applications is now closed. However, we are still accepting a limited number of applications on a rolling basis. Please e-mail us at [MPP@temple.edu](mailto:mpp@temple.edu) for inquiries.**
 
 ## Faculty with Real-World Experience
@@ -83,7 +83,7 @@ We now offer a dual degree program that allows graduate students to earn both an
 [Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
 ## Academic Support and Advising
-![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.img-right} 
+![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.img-right}
 As a student working toward your MPP, you will receive support and guidance from our program and Temple University. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
 
 ## Temple Graduate School Funding
@@ -101,5 +101,5 @@ Students admitted to the MPP program can transfer up to 6 credits. The credits m
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ## Graduate Application Deadlines
-- **March 1** - Fall Semester- **The application deadline has been extended to April 1!**
+- **March 1** - Fall Semester- **The application deadline has been extended to June 1!**
 - **Nov. 1** - Spring Semester

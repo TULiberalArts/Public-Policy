@@ -28,7 +28,7 @@ Room 206
 5 - 7 P.M. <br>
 Temple Center City Campus <br>
 Room 206 <br>
-**Please Note:The application deadline has been extended to April 1!**
+**Please Note:The application deadline has been extended to June 1!**
 
 [Wednesday, April 11th](https://events.temple.edu/mpp-information-session-2)<br>
 5 - 7 P.M. <br>
@@ -36,7 +36,7 @@ Temple Center City Campus <br>
 Room 206
 
 MPP +1 - Tuesday, March 20th<br>
-12:00-1:30 P.M.<br> 
+12:00-1:30 P.M.<br>
 Main Campus: 914 Gladfelter Hall (Weigley Room)
 
 ___
