@@ -5,6 +5,8 @@ title: Public Policy
 baseurl: /public-policy
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url sptits sitemap
+url: https://www.cla.temple.edu/public-policy
 
 
 # Program Information
@@ -58,7 +60,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/public-policy
-program_events: https://events.temple.edu/department/public-policy 
+program_events: https://events.temple.edu/department/public-policy
 
 
 # Google Tag Manager OR Google Analytics
