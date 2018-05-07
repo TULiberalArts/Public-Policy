@@ -37,7 +37,7 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 
 - View a schedule of our **[Upcoming Information Sessions](/public-policy/next-stops#upcoming-info-sessions)**
 
-Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 - **The regular application cycle for Fall 2018 applications is now closed. However, we are still accepting a limited number of applications on a rolling basis. Please e-mail us at [MPP@temple.edu](mailto:mpp@temple.edu) for inquiries.**
 
 ## Faculty with Real-World Experience
