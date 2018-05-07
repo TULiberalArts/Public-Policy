@@ -5,9 +5,7 @@ layout: page
 description: >-
   Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our
   instructors are well-connected experts in politics and policy.  
-keywords: >-
-  Public Policy Program, Master in Public Policy, Public Policy Major, Public
-  Policy School
+keywords: 'Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School'
 published: true
 sidebar: true
 sidebar-content: |
@@ -84,7 +82,7 @@ We now offer a dual degree program that allows graduate students to earn both an
 
 ## Academic Support and Advising
 ![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.img-right}
-As a student working toward your MPP, you will receive support and guidance from our program and Temple University. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
+As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities. Here is a [brief summary](https://liberalarts.temple.edu/sites/liberalarts/files/MPP Resources External Version.pdf) of the ways we promote professional development with our students. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
 
 ## Temple Graduate School Funding
 Like most other Master’s degree programs, we generally do not have scholarships or other assistantships for MPP students. However, the cost of our program is very competitive when compared to that of other similar degrees in the region, particularly if you are eligible for in-state tuition. Some employers subsidize their employees’ educational expenses. Otherwise, most students finance their own educations or borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience.
