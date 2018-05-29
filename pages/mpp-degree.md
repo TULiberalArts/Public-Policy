@@ -8,7 +8,7 @@ title: MPP Degree
 description: >-
   Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our
   instructors are well-connected experts in politics and policy.  
-keywords: 'Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School'
+keywords: ' Master in Public Policy, Public Policy Major, Public Policy School'
 # custom variables
 sidebar: true
 sidebar-content: |
