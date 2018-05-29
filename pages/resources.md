@@ -1,6 +1,9 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
 published: false
+# meta-data variables
+title: Resources
+# custom variables
 ---

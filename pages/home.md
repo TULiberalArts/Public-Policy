@@ -1,17 +1,20 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
   The Department of Political Science offers a Master in Public Policy in Philadelphia. Advance your career in government or non-profit organizations.
 keywords: >-
   Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
+# custom variables
 feature: true
 feature-title: Master Policy Where Policy is Made
 feature-image: hero_PoliticalScience2.png
 feature-body: >-
   Our Master of Public Policy (MPP) program trains students and practitioners who seek successful careers in the public sector or in private or non-profit organizations that work on a continuous basis with government agencies — steps away from City Hall.
-published: true
 ---
 ## Become an Agent for Change
 Advance your career. Enhance your community. Develop the analytic skills to be able to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state, and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. We train generalists who combine technical competency with a sophisticated understanding of the policy process. If you are interested in social and quality of life issues throughout Philadelphia and beyond, Temple offers a graduate program in public policy led by full-time faculty and working practitioners.

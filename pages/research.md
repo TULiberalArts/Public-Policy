@@ -1,12 +1,15 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
+published: true
+# meta-data variables
+title: Research
 description: >-
   Temple's Public Policy faculty and the Institute for Public Affairs conducts research relevant to addressing social and quality of life issues.
 keywords: >-
   Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research
-published: true
+# custom variables
 ---
 ## Affiliated Centers
 

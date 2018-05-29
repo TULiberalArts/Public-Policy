@@ -1,11 +1,14 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: page
+permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 description: >-
   Careers for students who study Public Policy include working in public health, social services, environmental protection and public education.  
 keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs'
-published: true
+# custom variables
 ---
 ![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/resized temple-mpp-degree-info-session.jpg){:.img-right}
 ## Advance your career. Enhance your community.
