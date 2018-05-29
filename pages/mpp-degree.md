@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: page
 permalink: /mpp-degree/
 published: true
 # meta-data variables
