@@ -1,33 +1,17 @@
 ---
-title: MPP Degree
+# global predefined variables
+layout: tla_page
 permalink: /mpp-degree/
-layout: page
+published: true
+# meta-data variables
+title: MPP Degree
 description: >-
   Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our
   instructors are well-connected experts in politics and policy.  
 keywords: 'Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School'
-published: true
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Dr. Gary Mucciaroni  
-   460 Gladfelter Hall  
-   [(215) 204-6195](tel:2152046195)  
-   [gmucciar@temple.edu](mailto:gmucciar@temple.edu)  
-
-   ___
-
-   **Assistant Director:**  
-   Jeff Antsen  
-   424 Gladfelter Hall  
-   [(215) 204-7817](tel:2152047817)  
-   [jeff.antsen@temple.edu](mailto:jeff.antsen@temple.edu)  
-
-   ___
-
-   **Coordinator:**  
-   Tanya Taylor    
-   [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 ## Earn an MPP at Temple University
 ![MPP Degree Program at Temple University]({{site.baseurl}}/media/mpp-degree-temple.jpg){:.img-right}
