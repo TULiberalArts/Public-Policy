@@ -7,8 +7,7 @@ published: true
 title: Research
 description: >-
   Temple's Public Policy faculty and the Institute for Public Affairs conducts research relevant to addressing social and quality of life issues.
-keywords: >-
-  Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research
+keywords: 'Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research'
 # custom variables
 ---
 ## Affiliated Centers
