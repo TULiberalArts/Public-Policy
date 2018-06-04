@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Careers for students who study Public Policy include working in public health, social services, environmental protection and public education.  
+  Enhance your community with a degree in Public Policy from Temple University! Learn about our upcoming 
+  info sessions, read through our FAQs, and look at the College of Liberal Arts’ other resources. 
 keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Policy Jobs'
 # custom variables
 ---
