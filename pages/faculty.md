@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Faculty
 description: >-
-  Our Public Policy faculty conduct research relevant to addressing social and quality of life issues throughout Philadelphia and beyond.
+   Meet our faculty in the Public Policy department of Temple University’s College of Liberal Arts.
 keywords: 'Public Policy Program, Master in Public Policy, MPP faculty, Temple Political Science faculty'
 # custom variables
 ---
