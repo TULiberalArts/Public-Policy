@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  The Department of Political Science offers a Master in Public Policy in Philadelphia. Advance your career in government or non-profit organizations.
+  Make your career aspirations of working in Public Policy a reality by earning your
+  BA or MA in Public Policy from the College of Liberal Arts at Temple University.
 keywords: >-
   Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
 # custom variables
