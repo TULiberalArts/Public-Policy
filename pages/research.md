@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >-
-  Temple's Public Policy faculty and the Institute for Public Affairs conducts research relevant to addressing social and quality of life issues.
+   Read up on College of Liberal Arts faculty publications, and learn more about Temple University’s 
+   affiliated centers, Institute for Public Affairs and University Community Collaborative.
 keywords: 'Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research'
 # custom variables
 ---
