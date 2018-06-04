@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: MPP Degree
 description: >-
-  Earn a Master of Public Policy just steps from Philadelphia's City Hall. Our
-  instructors are well-connected experts in politics and policy.  
+  Earn a Master of Public Policy through the College of Liberal Arts at Temple University’s Center City Campus. 
+  Learn about our MPP-MPH dual degree program, program curriculum, course sequence, and how to apply.  
 keywords: 'Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School'
 # custom variables
 sidebar: true
