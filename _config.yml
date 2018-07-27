@@ -8,6 +8,10 @@ production: https://www.cla.temple.edu
 # url sptits sitemap
 url: https://www.cla.temple.edu/public-policy
 
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -25,6 +29,23 @@ address:
   city: Philadelphia, PA 19122
   email: public-policy@temple.edu
   phone:
+  
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+program_news: https://liberalarts.temple.edu/news/public-policy
+program_events: https://events.temple.edu/department/public-policy
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/public-policy/csv
+news-feed: https://liberalarts.temple.edu/articles/public-policy/csv
+articles-feed: https://liberalarts.temple.edu/articles/public-policy/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/public-policy/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/public-policy/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -51,34 +72,10 @@ social:
   linkedin:
   # Slack - Paste the FULL URL below
   slack:
+  # Google Tag Manager OR Google Analytics
+  google_analytics:
+  google_tag_manager: GTM-58ZL5B
 
-# University & College Information
-university:
-  name: Temple University
-  url: https://temple.edu/
-college:
-  name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-program_news: https://liberalarts.temple.edu/news/public-policy
-program_events: https://events.temple.edu/department/public-policy
-
-
-# Google Tag Manager OR Google Analytics
-google_analytics:
-
-
-google_tag_manager: GTM-58ZL5B
-
-# CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/public-policy/csv
-news-feed: https://liberalarts.temple.edu/articles/public-policy/csv
-articles-feed: https://liberalarts.temple.edu/articles/public-policy/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/public-policy/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/public-policy/csv
-
-# Development Config
-# If you do not have access to 'tutheme', use 'minima' instead.
-theme: tutheme
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
