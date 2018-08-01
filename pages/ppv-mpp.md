@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_ppv_page
 permalink: /mpp/
-published: false
+published: true
 # meta-data variables
 title: Master of Public Policy
 description: >-
