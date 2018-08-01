@@ -16,7 +16,6 @@ ppv_form_content: forms/ppv-mpp.html
 sidebar: true
 sidebar_content: sidebars/ppv-mpp.html
 ---
-
 Advance your career.
 {:.img-right}
 
