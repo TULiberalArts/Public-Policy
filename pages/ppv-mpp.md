@@ -6,8 +6,8 @@ published: false
 # meta-data variables
 title: Master of Public Policy
 description: >-
-  An ideal program for professionals working in
-keywords: 'masters, Geographic Information Systems, professional'  
+ Become an agent for change
+keywords: 'masters, public policy, professional'  
 # custom variables
 hero: true
 hero_content: hero/ppv-mpp.html
@@ -16,40 +16,18 @@ ppv_form_content: forms/ppv-mpp.html
 sidebar: true
 sidebar_content: sidebars/ppv-mpp.html
 ---
-Temple University's
+Become an agent for change
 
-# Professional Science Masters & GIS Graduate Certificate
+Advance your career.
 
-Get educated today for tomorrow's jobs.
+##Enhance your community.
+Temple University’s public policy masters degree trains you to assess, develop and evaluate government programs and activities. Graduates are prepared to bring about social justice in careers in the public sector or in private or non-profit organizations that work on a continuous basis with government agencies.
 
-Enhance your community.
+Whether you’re a recent college graduate or already have a career, our masters of public policy degree will expand your technical and analytical skills. Equipped with these skills, you’ll be ready to address some of the biggest problems at the federal, state and local levels by introducing effective solutions.
 
-Interested in boosting your career prospects with a versatile degree in geographic information systems (GIS)? Temple University’s professional science master degree and the graduate certificate in geographic information systems produce GIS experts every year.
+And at Temple, you’ll get an affordable education at a convenient location—just steps from Philadelphia’s City hall. Request information today on the short form above to get started!
 
-## Professional Science Master's (PSM) in GIS
+## A program with influence
+Members of our faculty bring to years of academic and real-world experience to their master of public policy classes. They have backgrounds as policymakers; agency heads and supervisors; budget and finance managers; leaders of nonprofit organizations and consultants; and senior advisors to governors, mayors, and legislatures.
 
-Our geographic information system master degree program is a one-year, 30-credit professional degree that quickly teaches you the skills and knowledge you need to enter or quickly return to a thriving career. As a student, you’ll learn cutting-edge GIS techniques in spatial analysis, programming and design through courses like:
-
-+ Spatial Database Design
-
-+ Cartographic Design
-
-+ GIS Application Development
-
-+ Geovisualization
-
-If you’re interested in GIS and have already completed a bachelor’s degree in any field, you’re eligible to enroll, so request info through the quick form above today!
-
-## GIS Graduate Certificate
-
-Looking to hone your skills and acquire a new credential in even less time? Temple’s GIS graduate certificate is a flexible, 12-credit program with all evening courses. That means you have the option to finish at your own pace while you’re employed. As a student, you’ll be trained in spatial thinking and modern GIS applications. You’ll also learn to collect, model, analyze and visualize data through courses like:
-
-+ Remote Sensing
-
-+ Advanced Statistics for Urban Applications
-
-+ Spatial Database Design
-
-+ Web Mapping and Map Servers
-
-The only thing you need to enroll is an undergraduate degree. Just request info to get started—no application required!
+Outside the classroom, our professors conduct research addressing a wide variety of social issues and quality of life improvements throughout the Commonwealth and the Philadelphia region. Masters of public policy degree students are encouraged to take part in this research, empowering you to affect real change while you learn.
