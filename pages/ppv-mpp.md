@@ -17,7 +17,7 @@ sidebar: true
 sidebar_content: sidebars/ppv-mpp.html
 ---
 Advance your career.
-{:.img-right}
+{:.fake-h2}
 
 ## Enhance your community.
 Temple University’s public policy masters degree trains you to assess, develop and evaluate government programs and activities. Graduates are prepared to bring about social justice in careers in the public sector or in private or non-profit organizations that work on a continuous basis with government agencies.
