@@ -15,33 +15,16 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 ## Advance your career. Enhance your community.
 Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
 
-## Upcoming Info Sessions
-The information sessions are from 5-7pm and there will be a full presentation starting at 5:40pm.  If you prefer to attend via WebEx, please RSVP to [mpp@temple.edu](mailto:mpp@temple.edu)
+## Upcoming Information Sessions
+**Main Campus** - Sessions are from 11:40am – 12:30pm and from 12:40pm – 1:30pm.
 
-[Monday, January 22nd](https://events.temple.edu/mpp-information-session)<br>
-5 - 7 P.M. <br>
-Temple Center City Campus <br>
-Room 206
+- Tuesday, October 16th
+- Tuesday, November 27th
 
-[Thursday, February 15th](https://events.temple.edu/mpp-information-session-0)<br>
-5 - 7 P.M. <br>
-Temple Center City Campus <br>
-Room 206
+**Center City Campus** - Sessions are from 5:00 -7:00pm. A full presentation begins at 5:40pm. If you prefer to attend via WebEx, please RSVP to [mpp@temple.edu](mpp@temple.edu).
 
-[Thursday, March 15th](https://events.temple.edu/mpp-information-session-1)<br>
-5 - 7 P.M. <br>
-Temple Center City Campus <br>
-Room 206 <br>
-**Please Note:The application deadline has been extended to June 1!**
-
-[Wednesday, April 11th](https://events.temple.edu/mpp-information-session-2)<br>
-5 - 7 P.M. <br>
-Temple Center City Campus <br>
-Room 206
-
-MPP +1 - Tuesday, March 20th<br>
-12:00-1:30 P.M.<br>
-Main Campus: 914 Gladfelter Hall (Weigley Room)
+- Wednesday, October 24th
+- Wednesday, November 28th
 
 ___
 
