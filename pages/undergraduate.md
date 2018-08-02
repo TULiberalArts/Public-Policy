@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /plus-one/
+permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Plus 1
