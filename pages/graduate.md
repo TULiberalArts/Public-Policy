@@ -22,42 +22,52 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 - View a schedule of our **[Upcoming Information Sessions](/public-policy/next-stops#upcoming-info-sessions)**
 
 Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-- **The regular application cycle for Fall 2018 applications is now closed. However, we are still accepting a limited number of applications on a rolling basis. Please e-mail us at [MPP@temple.edu](mailto:mpp@temple.edu) for inquiries.**
 
 ## Faculty with Real-World Experience
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
 
 ## The MPP Curriculum
 ![Photo of Elise]({{site.baseurl}}/media/resize- Elise Chor.jpg){:.img-right}
-The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years. If you enroll part-time, the program takes between three and five years. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
+The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years and in as little as a year and a half if they enter in the fall semester and take courses in the summer. If you enroll part-time, the program takes between three and five years. Our schedule of evening classes make it possible for our students to work during the daytime. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
 
 ## Course Sequence
 **Fall Semester First Year**
 - [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
-- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
-- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
+- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
+- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
 
 **Spring Semester First Year**
-- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
 - [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
-- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
+- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
+
+**Summer Semester First Year (or, Spring Semester Second Year)**
+- Elective
+- Elective
+- Internship or elective
 
 **Fall Semester Second Year**
-- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
-- [Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
-- Elective (open to student choice)
-
-**Spring Semester Second Year**
+- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
 - [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
-- Elective (open to student choice)
-- Elective (open to student choice)
+- [Elective or Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
 ## Admission Requirements
-Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If your GPA exceeds 3.3 or you have several years of relevant career experience working with governmental agencies, it is possible to waive the GRE exam requirement. Unless you specifically ask us for a GRE waiver, we will assume that you intend to send us GRE scores, and wait for them before we review your application. If you wish to inquire about your competitiveness for admission or whether you are eligible for a GRE waiver, send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
+Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
 
-Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements and instructions on how to apply.
+
+### Graduate Application Deadlines
+
+_Fall Semester - for Fall 2019 admission_
+- **March 1** - For MPP partial scholarship award consideration
+- **April 15** – Guarantees full consideration of application
+- **June 1** – Late application deadline
+
+_Spring Semester - for Spring 2019 admission_
+- **Nov. 1** – Guarantees full consideration of application
+- **Dec. 6** – Late Application deadline
 
 ## New MPP-MPH Dual Degree Program
 We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. Complete both degrees in 3 years by earning 57 credits.

@@ -6,12 +6,12 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Earn your undergraduate and Master of Public Policy in five years with Temple University’s Four Plus One Accelerated Degree 
+  Earn your undergraduate and Master of Public Policy degrees in five years with Temple University’s Four Plus One Accelerated Degree 
   program. Learn more about our Washington and Pennsylvania Capital Semester programs from the College of Liberal Arts!
 keywords: 'Public Policy Program, Master in Public Policy, Accelerated Degree Program, Four Plus One Program'
 # custom variables
 ---
-## Earn Your Undergraduate and MPP Degree in Five Years
+## Earn Your Undergraduate and MPP Degrees in Five Years
 ![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/mpp-accelerated-degree-program-temple.png){:.img-right}
 The Master of Public Policy (MPP) Four Plus One program allows promising students to complete both an undergraduate and MPP degree in five years. Normally, completing each degree separately takes six years. You can apply for the accelerated degree program as a junior or senior. If you are admitted as a junior, you will take four 3-credit courses (12 credits total) as an undergraduate and take the remaining 24 credits as a full-time MPP student in the summer following graduation and during your Plus 1 year. If you enter the +1 program as a senior, you will take three 3-credit courses (9 credits total) in your final year as an undergraduate and the remaining 27 credits after as a full-time MPP student during the summer following graduation and your Plus 1 year.
 
