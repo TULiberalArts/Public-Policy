@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /mpp-degree/
+permalink: /graduate/
 published: true
 # meta-data variables
-title: MPP Degree
+title: Graduate
 description: >-
   Earn a Master of Public Policy through the College of Liberal Arts at Temple University’s Center City Campus. 
   Learn about our MPP-MPH dual degree program, program curriculum, course sequence, and how to apply.  

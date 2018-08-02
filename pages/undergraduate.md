@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /plus-one/
+permalink: /undergraduate/
 published: true
 # meta-data variables
-title: Plus 1
+title: Undergraduate
 description: >-
   Earn your undergraduate and Master of Public Policy in five years with Temple University’s Four Plus One Accelerated Degree 
   program. Learn more about our Washington and Pennsylvania Capital Semester programs from the College of Liberal Arts!
