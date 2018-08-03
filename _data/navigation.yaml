@@ -1,7 +1,7 @@
-- text: Graduate
-  url: /mpp-degree/
 - text: Undergraduate
   url: /undergraduate/
+- text: Graduate
+  url: /graduates/
 - text: Faculty
   url: /faculty/
 - text: Research
