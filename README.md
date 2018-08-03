@@ -6,7 +6,7 @@ Public Policy is statically generated with [Jekyll](https://jekyllrb.com) and ho
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/liberal-studies/ |
+| Development | https://develop.cla.temple.edu/public-policy/ |
 | Production | https://www.cla.temple.edu/public-policy/ |
 
 ## Content Structure
