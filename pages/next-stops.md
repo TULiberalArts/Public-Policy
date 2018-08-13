@@ -23,7 +23,7 @@ Careers in public policy include appointed public positions, consultancy roles a
 
 **Center City Campus** - Sessions are from 5:00 -7:00pm. A full presentation begins at 5:40pm. If you prefer to attend via WebEx, please RSVP to [mpp@temple.edu](mpp@temple.edu).
 
-- [Wednesday, October 24th](http://events.temple.edu/mpp-information-session-3)
+- Wednesday, October 24th
 - Wednesday, November 28th
 
 ___
