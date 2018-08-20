@@ -56,7 +56,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 ## Admission Requirements
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
 
-Please visit the [Public Policy Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/public-policy) to learn more about graduate program requirements and instructions on how to apply.
+Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ### Graduate Application Deadlines
 
