@@ -18,13 +18,13 @@ Careers in public policy include appointed public positions, consultancy roles a
 ## Upcoming Information Sessions
 **Main Campus** - Sessions are from 11:40am – 12:30pm and from 12:40pm – 1:30pm.
 
-- Tuesday, October 16th
-- Tuesday, November 27th
+- [Tuesday, October 16th](https://events.temple.edu/mpp-accelerated-ba-mpp-program-our-1)
+- [Tuesday, November 27th](https://events.temple.edu/mpp-accelerated-ba-mpp-program-our-1-0)
 
 **Center City Campus** - Sessions are from 5:00 -7:00pm. A full presentation begins at 5:40pm. If you prefer to attend via WebEx, please RSVP to [mpp@temple.edu](mpp@temple.edu).
 
 - [Wednesday, October 24th](https://events.temple.edu/mpp-information-session-3)
-- Wednesday, November 28th
+- [Wednesday, November 28th](https://events.temple.edu/mpp-information-session-4)
 
 ___
 
