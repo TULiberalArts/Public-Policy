@@ -15,8 +15,6 @@ ppv_form: true
 ppv_form_content: forms/ppv-mpp.html
 sidebar: true
 sidebar_content: sidebars/ppv-mpp.html
-event_snippit: true
-event_snippit_content: google/event_snippit.js
 ---
 Advance your career.
 {:.fake-h2}
