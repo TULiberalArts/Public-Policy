@@ -14,7 +14,7 @@ sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
 ## Earn an MPP at Temple University
-![MPP Degree Program at Temple University]({{site.baseurl}}/media/mpp-degree-temple.jpg){:.img-right}
+![MPP Degree Program at Temple University]({{site.baseurl}}/media/mpp-degree-temple.jpg){:.responsive-img .img-right}
 The Master of Public Policy program offers an affordable education just steps from Philadelphia's City Hall at [Temple's Center City Campus](https://www.temple.edu/tucc/){:target=“_blank”} in the evening. Whether you are a recent college graduate or you've already started a career, the MPP program combines a robust research environment and real-world experience to help students learn the technical and analytic skills needed for successful careers in non-profit organizations, or in the private or public sector. Learn to assess, develop and evaluate the effectiveness of programs and activities of governments at the federal, local and state levels.
 
 Careers aren’t shaped solely in classrooms. Students apply what they learn in class to internships or to the jobs that many already have in public service. The MPP program also sponsors a variety of extracurricular events including candidate forums, guest speakers, panels of experts on policy issues and public service careers workshops.
@@ -27,7 +27,7 @@ Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/gr
 Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
 
 ## The MPP Curriculum
-![Photo of Elise]({{site.baseurl}}/media/resize- Elise Chor.jpg){:.img-right}
+![Photo of Elise]({{site.baseurl}}/media/resize- Elise Chor.jpg){:.responsive-img .img-right}
 The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years and in as little as a year and a half if they enter in the fall semester and take courses in the summer. If you enroll part-time, the program takes between three and five years. Our schedule of evening classes make it possible for our students to work during the daytime. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
 
 ## Course Sequence
@@ -75,7 +75,7 @@ We now offer a dual degree program that allows graduate students to earn both an
 [Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
 ## Academic Support and Advising
-![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.img-right}
+![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.responsive-img .img-right}
 As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities. Here is a [brief summary](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) of the ways we promote professional development with our students. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
 
 ## Temple Graduate School Funding
