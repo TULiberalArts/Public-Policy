@@ -12,7 +12,7 @@ keywords: >-
   Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Master Policy Where Policy is Made
 feature-image: hero_PoliticalScience2.png

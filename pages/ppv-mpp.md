@@ -13,8 +13,8 @@ hero: true
 hero_content: hero/ppv-mpp.html
 ppv_form: true
 ppv_form_content: forms/ppv-mpp.html
-sidebar: true
-sidebar_content: sidebars/ppv-mpp.html
+
+sidebar: sidebars/ppv-mpp.html
 ---
 Advance your career.
 {:.fake-h2}

@@ -10,8 +10,8 @@ description: >-
   Learn about our MPP-MPH dual degree program, program curriculum, course sequence, and how to apply.  
 keywords: 'Public Policy Program, Master in Public Policy, Public Policy Major, Public Policy School'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 ## Earn an MPP at Temple University
 ![MPP Degree Program at Temple University]({{site.baseurl}}/media/mpp-degree-temple.jpg){:.responsive-img .img-right}
