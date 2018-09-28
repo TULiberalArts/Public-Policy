@@ -9,11 +9,8 @@ description: >-
  Become an agent for change
 keywords: 'masters, public policy, professional'  
 # custom variables
-hero: true
-hero_content: hero/ppv-mpp.html
-ppv_form: true
-ppv_form_content: forms/ppv-mpp.html
-
+hero: hero/ppv-mpp.html
+ppv_form: forms/ppv-mpp.html
 sidebar: sidebars/ppv-mpp.html
 ---
 Advance your career.
