@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Earn your undergraduate and Master of Public Policy degrees in five years with Temple University’s Four Plus One Accelerated Degree 
+  Earn your undergraduate and Master of Public Policy degrees in five years with Temple University’s Four Plus One Accelerated Degree
   program. Learn more about our Washington and Pennsylvania Capital Semester programs from the College of Liberal Arts!
 keywords: 'Public Policy Program, Master in Public Policy, Accelerated Degree Program, Four Plus One Program'
 # custom variables
@@ -21,6 +21,6 @@ As an added bonus, the MPP credits you take as an undergraduate count toward bot
 Please visit the [Public Policy Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-political-science-ms-public-policy) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Capital Semester in Harrisburg or Washington DC
-The [Washington Semester](http://www.cla.temple.edu/ipa/the-washington-semester/) and the [Pennsylvania Capital Semester](http://www.cla.temple.edu/ipa/about/the-pennsylvania-capital-semester/) provides you an opportunity to gain valuable career experience in the nation's capital, while remaining a full-time student. If you are accepted into the +1 accelerated degree program, your MPP internship requirement is fulfilled by your semester or summer in Washington/Harrisburg by registering for PLCY 5085. In addition, if you participate in the Capital Semester program, you must make up the required MPP course you would take at Temple during your +1 year.
+The [Washington Semester](https://www.cla.temple.edu/institute-for-public-affairs/the-washington-semester/) and the [Pennsylvania Capital Semester](https://www.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/) provides you an opportunity to gain valuable career experience in the nation's capital, while remaining a full-time student. If you are accepted into the +1 accelerated degree program, your MPP internship requirement is fulfilled by your semester or summer in Washington/Harrisburg by registering for PLCY 5085. In addition, if you participate in the Capital Semester program, you must make up the required MPP course you would take at Temple during your +1 year.
 
 To learn more about this accelerated degree offering, please visit the [Public Policy Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-political-science-ms-public-policy) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
