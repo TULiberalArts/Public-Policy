@@ -26,6 +26,9 @@ Careers in public policy include appointed public positions, consultancy roles a
 - [Wednesday, October 24th](https://events.temple.edu/mpp-information-session-3)
 - [Wednesday, November 28th](https://events.temple.edu/mpp-information-session-4)
 
+## Temple University Off Campus Housing
+Temple University now has a new off-campus housing service! You can visit the new [website](https://offcampus.temple.edu/) to learn about all of the new off campus housing options, locations and see virtual tours of new units! 
+
 ___
 
 ## Frequently Asked Questions
