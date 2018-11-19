@@ -24,11 +24,11 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Faculty with Real-World Experience
-Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. You can focus on either public management or public policy analysis.
+Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. Our diverse program and elective offerings allow you to focus your MPP degree in one of several areas, including: public policy analysis, health policy, criminal justice policy, urban policy, geographic information systems, education policy, or public management.
 
 ## The MPP Curriculum
 ![Photo of Elise]({{site.baseurl}}/media/resize- Elise Chor.jpg){:.responsive-img .img-right}
-The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years and in as little as a year and a half if they enter in the fall semester and take courses in the summer. If you enroll part-time, the program takes between three and five years. Our schedule of evening classes make it possible for our students to work during the daytime. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public problem policies.
+The 36 credit MPP curriculum consists of 8 required courses, an internship and 3 electives. Full-time students are able to complete the program in two years and in as little as a year and a half if they enter in the fall semester and take courses in the summer. If you enroll part-time, the program takes between three and five years. Our schedule of evening classes make it possible for our students to work during the daytime. You will gain practical experience in public and nonprofit sector organizations and work on real-world projects and programs designed to address public policy problems.
 
 ## Course Sequence
 **Fall Semester First Year**
@@ -57,6 +57,8 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
 
 The MPP program uses the Interfolio application system for managing additional application materials like your statement of purpose, resume and letters of recommendation. Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) for instructions on how to access and use this system and to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+
+- We do not require the Graduate Record Exam (GRE) for applications to the MPP program. Applicants are still welcome to submit scores if they have already taken the exam for another reason, or if they would prefer to
 
 ### Graduate Application Deadlines
 
