@@ -16,7 +16,7 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
 
 ## Upcoming Information Sessions
-**Main Campus** - Sessions are from 11:40am – 12:30pm and from 12:40pm – 1:30pm.
+**Main Campus** - Sessions are from 10:40 - 11:30 and from 11:40 - 12:30.
 
 - [Tuesday, November 27th](https://events.temple.edu/mpp-accelerated-ba-mpp-program-our-1-0)
 - [Thursday, February 7th](https://events.temple.edu/accelerated-ba-mpp-program-our-1)
