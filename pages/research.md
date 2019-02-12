@@ -84,7 +84,7 @@ ___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
-![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-left}
+![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-right}
 
 - Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
 
