@@ -52,7 +52,7 @@ ___
 ___
 
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
-![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/resizedelise-chor_mpp (1).jpg){:.img-left}
+![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/resizedelise-chor_mpp (1).jpg){:.img-right}
 
 - Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
   _Child Development_.
