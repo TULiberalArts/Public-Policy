@@ -28,7 +28,7 @@ Recent research from the Institute for Public Affairs includes the following.
 - Proposing legislative steps to improve the efficiency and effectiveness of Pennsylvania’s fragmented system of municipal governments
 - Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
-![University Community Collaborative]({{site.baseurl}}/media/resizedUCC-youth-programming.jpg){:.img-right}
+![University Community Collaborative]({{site.baseurl}}/media/resized2UCC-youth-programming.jpg){:.img-right}
 ### University Community Collaborative
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people on their journeys to become confident, effective civic-minded leaders. Engaging approximately 130 youth per year (ages 14-24), UCC's programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 
