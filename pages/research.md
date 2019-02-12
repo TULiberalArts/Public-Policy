@@ -32,68 +32,66 @@ Recent research from the Institute for Public Affairs includes the following.
 ![University Community Collaborative]({{site.baseurl}}/media/resizedUCC-youth-programming.jpg){:.img-right}
 The [University Community Collaborative](http://uccollab.org/) (UCC) prepares and supports young people on their journeys to become confident, effective civic-minded leaders. Engaging approximately 130 youth per year (ages 14-24), UCC's programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.
 
-## Faculty Publications
 ___
+
+## Faculty Publications
 
 ### [Andrew Buss](http://andrewbuss.cgpublisher.com/) <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/andrew-buss-mpp.jpg){:.img-right}
 
-Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
+- Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
-Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
+- Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
 
-Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
+- Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
 
-Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
+- Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
 
-Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
+- Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
 
 ___
-
 
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
-![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/elise-chor_mpp.jpg){:.img-left}
+![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/resizedelise-chor_mpp (1).jpg){:.img-left}
 
-Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
+- Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
   _Child Development_.
 
-Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
+- Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
-Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
+- Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
 
 ___
-
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
 
 ![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
 
-Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
+- Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
 
-Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
+- Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
 
-Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270.
+- Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270.
 
-Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality governance, and reflective practice. Cambridge, MA: The MIT Press. <br>
+- Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality governance, and reflective practice. Cambridge, MA: The MIT Press. <br>
 _Winner 2014, Best Edited Book by International Planning History_
 
-Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976.
+- Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976.
 
-Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
+- Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
 
 ___
-
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
 
 ![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-left}
 
-Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
+- Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
 
-Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
+- Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
 
-Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015). Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. _Drug and Alcohol Dependence_, 152, 230-238.
+- Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015). Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. _Drug and Alcohol Dependence_, 152, 230-238.
 
-Stahler, G.J., Mennis, J., Belenko, S., Welsh, W. N., Hiller, M. L., & Zajac, G. (2013). Predicting Recidivism for Released State Prison Offenders. Criminal Justice and Behavior, 40(6), 690-711.
+- Stahler, G.J., Mennis, J., Belenko, S., Welsh, W. N., Hiller, M. L., & Zajac, G. (2013). Predicting Recidivism for Released State Prison Offenders. Criminal Justice and Behavior, 40(6), 690-711.
 
-Stahler, G.J., Mennis, J., Cotlar, R., Baron, D.A. (2009). The influence of the neighborhood environment on treatment continuity and rehospitalization for dually diagnosed patients discharged from acute inpatient care. _American Journal of Psychiatry_, 166, 1258-1268.
+- Stahler, G.J., Mennis, J., Cotlar, R., Baron, D.A. (2009). The influence of the neighborhood environment on treatment continuity and rehospitalization for dually diagnosed patients discharged from acute inpatient care. _American Journal of Psychiatry_, 166, 1258-1268.
