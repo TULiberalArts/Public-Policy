@@ -32,14 +32,14 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 ## Course Sequence
 **Fall Semester First Year**
-- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
-- [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
-- [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [The Policymaking Process – PLCY 8118](https://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
+- [Bureaucratic Organization and Public Management – PLCY 8123](https://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
+- [Political Statistics – PLCY / POLS 8001](https://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
 
 **Spring Semester First Year**
-- [Economics of the Public Sector – ECON 8122](http://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
-- [Policy Analysis – PLCY 8119](http://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
-- [Program Evaluation – GUS 5165](http://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
+- [Economics of the Public Sector – ECON 8122](https://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
+- [Policy Analysis – PLCY 8119](https://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
+- [Program Evaluation – GUS 5165](https://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
 
 **Summer Semester First Year (or, Spring Semester Second Year)**
 - Elective
@@ -47,9 +47,9 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 - Internship or elective
 
 **Fall Semester Second Year**
-- [State and Local Budgeting – PLCY 8128](http://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
-- [Policy Analysis Project – PLCY 8127](http://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
-- [Elective or Internship – POLS 5085](http://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
+- [State and Local Budgeting – PLCY 8128](https://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
+- [Policy Analysis Project – PLCY 8127](https://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
+- [Elective or Internship – POLS 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 
 [Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
