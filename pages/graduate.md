@@ -51,7 +51,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 - [Policy Analysis Project – PLCY 8127](https://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
 - [Elective or Internship – POLS 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 
-[Learn More about the MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
+Learn More about the [MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
 ## Admission Requirements
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
@@ -74,7 +74,7 @@ _Spring Semester - for Spring 2019 admission_
 ## New MPP-MPH Dual Degree Program
 We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. This program is currently being modified, to conform with improvements to the MPH curriculum. We plan to enable MPP-MPH dual degree students to graduate in 3 years by earning approximately 57 credits.
 
-[Learn More about the Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
+Learn More about the [Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
 ## Academic Support and Advising
 ![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.responsive-img .img-right}
