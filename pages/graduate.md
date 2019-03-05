@@ -32,7 +32,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 ## Course Sequence
 **Fall Semester First Year**
-- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
+- [The Policymaking Process – PLCY 8118](http://bulletin.temple.edu/search/?P=PLCY%208118)
 - [Bureaucratic Organization and Public Management – PLCY 8123](http://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
 - [Political Statistics – PLCY / POLS 8001](http://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
 
