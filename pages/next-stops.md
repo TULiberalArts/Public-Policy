@@ -27,33 +27,34 @@ Careers in public policy include appointed public positions, consultancy roles a
 - [Thursday, March 14th](https://events.temple.edu/mpp-degree-information-session-0)
 - [Wednesday, April 10th](https://events.temple.edu/mpp-degree-information-session-1)
 
-![December Graduates]({{site.baseurl}}/media/resizeddecember2018graduates.jpg){:.responsive-img .img-right}
+___
+
+![December Graduates]({{site.baseurl}}/media/resized2december2018graduates.jpg){:.responsive-img .img-right}
 ## Congratulations to our most recent MPP Graduates!
 At Temple’s January 31st commencement at the Performing Arts Center, degrees were conferred upon five new MPP graduates. Pictured here from left to right they are Lexi White, Tiffany White, Billy Folinusz, Emily Watts and Natalie Cramer. After the ceremony the five newest MPP alums and their family members were toasted at a reception. We wish them all the best and look forward to hearing about their future successes!
-
 
 ## Alumni Spotlight
 May 2018 and January 2019 Graduates Take on New Employment Opportunities! Members of our very first classes of 9 and 5 MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
 
 - **Brian Clinton**<br/>
   Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of   Philadelphia.<br/>
-  MPP from Temple in 2018<br/>
+  _MPP from Temple in 2018_<br/>
 
 - **Sarah DeNault**<br/>
   Appointed a Senior Analyst with responsibilities for conducting economic, policy, statistical, and program research at Econsult         Solutions. She was formerly a Victims Assistant Coordinator worked with the Office of Victim Advocate in the Commonwealth of             Pennsylvania’s Board of Probation and Parole in the Dept. of Corrections. <br/>
-  MPP from Temple in 2018<br/>
+   _MPP from Temple in 2018_<br/>
   
 - **Patrick Kerr**<br/>
   Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a project manager with Character Lab, a non-     profit organization that uses cutting edge social science and medical research to understand and develop traits in children that         contribute to positive outcomes later in life.<br/>
-  MPP from Temple in 2018<br/>
+   _MPP from Temple in 2018 _<br/>
   
 - **Emily Watts**<br/>
   Formerly Communications Specialist II at McCormick Taylor is taking a post with PennDOT where she will be a Policy Specialist.<br/>
-  MPP from Temple in 2019<br/>
+   _MPP from Temple in 2019 _<br/>
   
 - **Megan Zak**<br/>
   Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Part-Time MBA   Program in the Fox School of Business.<br/>
-  MPP from Temple in 2018<br/>  
+   _MPP from Temple in 2018 _<br/>  
 
 ___
 
