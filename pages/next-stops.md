@@ -128,6 +128,8 @@ All of our instructors are personable, helpful folks and are happy to work with 
 **Q: Is the MPP program accredited?**
 The MPP Program is not currently accredited, because it is still a new program. Very few MPP programs are currently accredited. We may  apply for accreditation with NASPAA (Network of Schools of Public Policy and Administration) after we are eligible in a few years.
 
+___
+
 ## Temple University Off Campus Housing
 Temple University now has a new off-campus housing service! You can visit the new [website](https://offcampus.temple.edu/) to learn about all of the new off campus housing options, locations and see virtual tours of new units! 
 
