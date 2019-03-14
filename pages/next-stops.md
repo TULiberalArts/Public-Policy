@@ -46,15 +46,15 @@ May 2018 and January 2019 Graduates Take on New Employment Opportunities! Member
   
 - **Patrick Kerr**<br/>
   Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a project manager with Character Lab, a non-     profit organization that uses cutting edge social science and medical research to understand and develop traits in children that         contribute to positive outcomes later in life.<br/>
-   _MPP from Temple in 2018 _<br/>
+   _MPP from Temple in 2018_<br/>
   
 - **Emily Watts**<br/>
   Formerly Communications Specialist II at McCormick Taylor is taking a post with PennDOT where she will be a Policy Specialist.<br/>
-   _MPP from Temple in 2019 _<br/>
+   _MPP from Temple in 2019_<br/>
   
 - **Megan Zak**<br/>
   Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Part-Time MBA   Program in the Fox School of Business.<br/>
-   _MPP from Temple in 2018 _<br/>  
+   _MPP from Temple in 2018_<br/>  
 
 ___
 
