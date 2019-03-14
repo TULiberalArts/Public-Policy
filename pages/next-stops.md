@@ -29,9 +29,9 @@ Careers in public policy include appointed public positions, consultancy roles a
 
 ___
 
-![December Graduates]({{site.baseurl}}/media/resized2december2018graduates.jpg){:.responsive-img .img-right}
-## Congratulations to our most recent MPP Graduates!
-At Temple’s January 31st commencement at the Performing Arts Center, degrees were conferred upon five new MPP graduates. Pictured here from left to right they are Lexi White, Tiffany White, Billy Folinusz, Emily Watts and Natalie Cramer. After the ceremony the five newest MPP alums and their family members were toasted at a reception. We wish them all the best and look forward to hearing about their future successes!
+![December Graduates]({{site.baseurl}}/media/resized3december2018graduates.jpg){:.responsive-img .img-right}
+## Congratulations to our Most Recent MPP Graduates!
+At Temple’s January 31st commencement at the Performing Arts Center, degrees were conferred upon five new MPP graduates. Pictured here from left to right they are **_Lexi White, Tiffany White, Billy Folinusz, Emily Watts_** and **_Natalie Cramer_**. After the ceremony the five newest MPP alums and their family members were toasted at a reception. We wish them all the best and look forward to hearing about their future successes!
 
 ## Alumni Spotlight
 May 2018 and January 2019 Graduates Take on New Employment Opportunities! Members of our very first classes of 9 and 5 MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
