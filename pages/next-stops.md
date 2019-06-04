@@ -16,22 +16,22 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
 
 ## Upcoming Information Sessions
-**Main Campus** - Sessions are from 10:40 - 11:30 and from 11:40 - 12:30.
-
-- [Thursday, February 7th](https://events.temple.edu/accelerated-ba-mpp-program-our-1)
-- [Tuesday, March 19th](https://events.temple.edu/accelerated-ba-mpp-program-our-1-0)
-
-**Center City Campus** - Sessions are from 5:00 -7:00pm. A full presentation begins at 5:40pm. If you prefer to attend via WebEx, please RSVP to [mpp@temple.edu](mpp@temple.edu).
-
-- [Thursday, January 24th](https://events.temple.edu/mpp-degree-information-session)
-- [Thursday, March 14th](https://events.temple.edu/mpp-degree-information-session-0)
-- [Wednesday, April 10th](https://events.temple.edu/mpp-degree-information-session-1)
+**Main Campus**<br>
+We offer several information sessions each semester, in advance of each admissions cycle. Check back soon for the dates of information sessions for our 2020 admissions cycles! Information sessions take place both on Temple’s Main Campus, and also at Temple’s Center City campus (the host campus of the MPP program).
 
 ___
 
-![December Graduates]({{site.baseurl}}/media/resized3december2018graduates.jpg){:.responsive-img .img-right}
+![May Graduates]({{site.baseurl}}/media/resizedS19_grads.jpg){:.responsive-img .img-right}
 ## Congratulations to our Most Recent MPP Graduates!
-At Temple’s January 31st commencement at the Performing Arts Center, degrees were conferred upon five new MPP graduates. Pictured here from left to right they are **_Lexi White, Tiffany White, Billy Folinusz, Emily Watts_** and **_Natalie Cramer_**. After the ceremony the five newest MPP alums and their family members were toasted at a reception. We wish them all the best and look forward to hearing about their future successes!
+At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon thirteen new MPP graduates. Twelve of them are pictured here from left to right: _Tom Holroyd, Rena Pacheco, Jared Moser, Kyle Purchase, Aaron Bailey, Sarah Mueller, Peter Genao, Amanda Warren, Julie Blust, Jessica Maneely, Jonathan White, and Melissa Piccoli_.
+
+These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
+
+
+![May Graduates]({{site.baseurl}}/media/resizedS19_awards2.jpg){:.responsive-img .img-right}
+After the ceremony our newest MPP alums and their family members were toasted at a reception. Additionally, two MPP alumni were awarded the MPP Public Service Award – _Billy Folinusz and Lexi White_. We wish them all the best and look forward to hearing about their future successes!
+
+___
 
 ## Alumni Spotlight
 May 2018 and January 2019 Graduates Take on New Employment Opportunities! Members of our very first classes of 9 and 5 MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
