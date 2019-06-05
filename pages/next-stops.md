@@ -27,8 +27,6 @@ At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon t
 
 These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
 
-___
-
 ![May Graduates]({{site.baseurl}}/media/resized3S19_awards.jpg){:.responsive-img .img-left}
 After the ceremony our newest MPP alums and their family members were toasted at a reception. Additionally, two MPP alumni were awarded the MPP Public Service Award – _Billy Folinusz and Lexi White_. We wish them all the best and look forward to hearing about their future successes!
 
