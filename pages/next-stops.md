@@ -22,13 +22,14 @@ We offer several information sessions each semester, in advance of each admissio
 ___
 
 ![May Graduates]({{site.baseurl}}/media/resized450S19_grads.jpg){:.responsive-img .img-right}
-These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
 ## Congratulations to our Most Recent MPP Graduates!
 At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon thirteen new MPP graduates. Twelve of them are pictured here from left to right: _Tom Holroyd, Rena Pacheco, Jared Moser, Kyle Purchase, Aaron Bailey, Sarah Mueller, Peter Genao, Amanda Warren, Julie Blust, Jessica Maneely, Jonathan White, and Melissa Piccoli_.
 
+These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
+
 ___
 
-![May Graduates]({{site.baseurl}}/media/resizedS19_awards2.jpg){:.responsive-img .img-left}
+![May Graduates]({{site.baseurl}}/media/resized3S19_awards.jpg){:.responsive-img .img-left}
 After the ceremony our newest MPP alums and their family members were toasted at a reception. Additionally, two MPP alumni were awarded the MPP Public Service Award – _Billy Folinusz and Lexi White_. We wish them all the best and look forward to hearing about their future successes!
 
 
