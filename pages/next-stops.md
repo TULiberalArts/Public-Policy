@@ -19,14 +19,14 @@ Careers in public policy include appointed public positions, consultancy roles a
 **Main Campus**<br>
 Two information sessions will be hosted at Temple's Main Campus, on the 9th floor of Gladfelter Hall in the Russel Weigley Room (914). On each date two concurrent sessions will be held - one starting at 2pm, and the next starting at 3pm. Please join us for whichever is most convenient for you. These information sessions usually focus on the MPP +1 program, but will be tailored to fit the interests of the attendees.
 
-- October 30
-- December 2
+- [October 30](https://events.temple.edu/mpp-info-session-1030-tu-main)
+- [December 2](https://events.temple.edu/mpp-info-session-122-tu-main)
 
 **Center City Campus:**<br>
 Two information sessions will be hosted at Temple's Center City Campus, TUCC, in room 206. On each date, an open house will be held from 5:00 to 5:40pm, with a full presentation of the program to follow at 5:40. These information sessions broadly include all aspects of the MPP program, including our dual-degree offerings.
 
-- October 23 
-- December 5
+- [October 23](https://events.temple.edu/mpp-info-session-1023-tucc) 
+- [December 5](https://events.temple.edu/mpp-info-session-125-tucc)
 
 ___
 
