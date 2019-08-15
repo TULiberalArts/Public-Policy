@@ -65,11 +65,13 @@ The MPP program uses the Interfolio application system for managing additional a
 _Fall Semester - for Fall 2020 admission_
 - **March 1** - For MPP partial scholarship award consideration
 - **April 5** – Guarantees full consideration of application
-- **July 1** – Late application deadline
+- **June 15** – Late application deadline
 
 _Spring Semester - for Spring 2019 admission_
 - **Nov. 1** – Guarantees full consideration of application
 - **Dec. 6** – Late Application deadline
+
+_Application must be completed and all supplemental materials correctly submitted in order to be eligible for consideration on the deadlines listed above._
 
 ## New MPP-MPH Dual Degree Program
 We plan to offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. This program is currently being modified, to conform with improvements to the MPH curriculum. We plan to enable MPP-MPH dual degree students to graduate in 3 years by earning approximately 57 credits.
@@ -78,7 +80,7 @@ Learn More about the [Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/
 
 ## Academic Support and Advising
 ![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.responsive-img .img-right}
-As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities. Here is a [brief summary](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) of the ways we promote professional development with our students. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask [Jeff Antsen](mailto:Jeff.Antsen@temple.edu), the Assistant Director.
+As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities. Here is a [brief summary](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) of the ways we promote professional development with our students. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask the [Assistant Director](mailto:mpp@temple.edu).
 
 ## Temple Graduate School Funding
 The cost of our program is very competitive when compared to that of other similar degrees in the region, particularly if you are eligible for in-state tuition. Some employers subsidize their employees’ educational expenses. Otherwise, most students finance their own educations or borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience.
