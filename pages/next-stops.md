@@ -37,14 +37,12 @@ At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon t
 
 These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
 
-
 After the ceremony our newest MPP alums and their family members were toasted at a reception. Additionally, two MPP alumni were awarded the MPP Public Service Award – _Billy Folinusz and Lexi White_. We wish them all the best and look forward to hearing about their future successes!
-
 
 ___
 
 ## Alumni Spotlight
-May 2018 and January 2019 Graduates Take on New Employment Opportunities! Members of our very first classes of 9 and 5 MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
+May 2018, January 2019 and May209 Graduates Take on New Employment Opportunities! Members of our first classes of MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
 
 - **Brian Clinton**<br/>
   Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of   Philadelphia.<br/>
