@@ -42,19 +42,50 @@ After the ceremony our newest MPP alums and their family members were toasted at
 ___
 
 ## Alumni Spotlight
-May 2018, January 2019 and May209 Graduates Take on New Employment Opportunities! Members of our first classes of MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
+May 2018, January 2019 and May 2019 Graduates Take on New Employment Opportunities! Members of our first classes of MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
 
+- **Brian Clinton**<br/>
+Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
+_MPP from Temple in 2018_<br/>
+    
 - **Kyle Purchase**<br/>
-  Appointed staff member to Rep. Martina A. White, Pennsylvania House of Representatives, District 170<br/>
-  _MPP from Temple in 2019_<br/>
+Appointed staff member to Rep. Martina A. White, Pennsylvania House of Representatives, District 170<br/>
+_MPP from Temple in 2019_<br/>
+	
+- **Sarah DeNault**<br/>
+Appointed a Senior Analyst with responsibilities for conducting economic, policy, statistical, and program research at Econsult Solutions. She was formerly a Victims Assistant Coordinator worked with the Office of Victim Advocate in the Commonwealth of Pennsylvania’s Board of Probation and Parole in the Dept. of Corrections.
+
+- **Dashiel Sears**<br/>
+Appointed Senior Associate, National League of Cities, Washington, DC<br/>
+ _MPP from Temple in 2018_<br/>
+	
+- **Patrick Kerr**<br/>
+Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a project manager with Character Lab, a non-     profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
+_MPP from Temple in 2018_<br/>
+	
+- **Emily Watts**<br/>
+Formerly Communications Specialist II at McCormick Taylor is taking a post with PennDOT where she will be a Policy Specialist.<br/>
+_MPP from Temple in 2019_<br/>
+	
+- **Megan Zak**<br/>
+Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Part-Time MBA   Program in the Fox School of Business.<br/>
+_MPP from Temple in 2018_<br/>  
+	
+- **Tom Holroyd**<br/>
+Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
+_MPP from Temple in 2019_<br/>   
+	
+- **Kyle Purchase**<br/>
+Appointed staff member to Rep. Martina A. White, Pennsylvania House of Representatives, District 170<br/>
+_MPP from Temple in 2019_<br/>
 
 - **Dashiel Sears**<br/>
   Appointed Senior Associate, National League of Cities, Washington, DC<br/>
-   _MPP from Temple in 2018_<br/>
+_MPP from Temple in 2018_<br/>
    
 - **Tom Holroyd**<br/>
   Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
-   _MPP from Temple in 2019_<br/>   
+_MPP from Temple in 2019_<br/>   
    
 ___
 
