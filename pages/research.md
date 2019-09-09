@@ -10,6 +10,7 @@ description: >-
    affiliated centers, Institute for Public Affairs and University Community Collaborative.
 keywords: 'Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research'
 # custom variables
+sidebar: sidebars/graduate.html
 ---
 ## Affiliated Centers
 
