@@ -75,18 +75,6 @@ _MPP from Temple in 2018_<br/>
 Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
 _MPP from Temple in 2019_<br/>   
 	
-- **Kyle Purchase**<br/>
-Appointed staff member to Rep. Martina A. White, Pennsylvania House of Representatives, District 170<br/>
-_MPP from Temple in 2019_<br/>
-
-- **Dashiel Sears**<br/>
-  Appointed Senior Associate, National League of Cities, Washington, DC<br/>
-_MPP from Temple in 2018_<br/>
-   
-- **Tom Holroyd**<br/>
-  Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
-_MPP from Temple in 2019_<br/>   
-   
 ___
 
 ## Temple University Off Campus Housing
