@@ -67,7 +67,7 @@ _Fall Semester - for Fall 2020 admission_
 - **April 5** – Guarantees full consideration of application
 - **June 15** – Late application deadline
 
-_Spring Semester - for Spring 2019 admission_
+_Spring Semester - for Spring 2020 admission_
 - **Nov. 1** – Guarantees full consideration of application
 - **Dec. 6** – Late Application deadline
 
