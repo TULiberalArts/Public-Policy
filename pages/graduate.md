@@ -37,7 +37,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 - [Political Statistics – PLCY / POLS 8001](https://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
 
 **Spring Semester First Year**
-- [Economics of the Public Sector – ECON 8122](https://bulletin.temple.edu/search/?P=ECON%208122){:target=“_blank”}
+- [Economic Decisions and Public Policy - ECON 5102 ](https://bulletin.temple.edu/search/?P=ECON%205102){:target=“_blank”}
 - [Policy Analysis – PLCY 8119](https://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
 - [Program Evaluation – GUS 5165](https://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
 
