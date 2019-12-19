@@ -74,7 +74,7 @@ _Spring Semester - for Spring 2020 admission_
 _Application must be completed and all supplemental materials correctly submitted in order to be eligible for consideration on the deadlines listed above._
 
 ## New MPP-MPH Dual Degree Program
-We plan to offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. This program is currently being modified, to conform with improvements to the MPH curriculum. We plan to enable MPP-MPH dual degree students to graduate in 3 years by earning approximately 57 credits.
+We offer a dual degree program that allows graduate students to earn both a Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combatting epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. MPP-MPH dual degree students are able to graduate in 3 years by earning 57 credits.
 
 Learn More about the [Dual Degree MPP-MPH](https://liberalarts.temple.edu/sites/liberalarts/files/MPP-MPH-website-copy%20%281%29.pdf)
 
