@@ -24,7 +24,7 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Faculty with Real-World Experience
-Our dynamic faculty bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. Our diverse program and elective offerings allow you to focus your MPP degree in one of several areas, including: public policy analysis, health policy, criminal justice policy, urban policy, geographic information systems, education policy, or public management.
+Our [dynamic faculty](https://www.cla.temple.edu/public-policy/faculty/) bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. Our diverse program and elective offerings allow you to focus your MPP degree in one of several areas, including: public policy analysis, health policy, criminal justice policy, urban policy, geographic information systems, education policy, or public management.
 
 ## The MPP Curriculum
 ![Photo of Elise]({{site.baseurl}}/media/resize- Elise Chor.jpg){:.responsive-img .img-right}
@@ -32,42 +32,47 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 ## Course Sequence
 **Fall Semester First Year**
-- [The Policymaking Process – PLCY 8118](https://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
-- [Bureaucratic Organization and Public Management – PLCY 8123](https://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
-- [Political Statistics – PLCY / POLS 8001](https://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [Political Statistics – POLS 8001](https://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [Economic Decisions and Public Policy - ECON 5102](https://bulletin.temple.edu/search/?P=POLS%208001){:target=“_blank”}
+- [Policy Analysis - PLCY 8119](https://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
 
 **Spring Semester First Year**
+- [The Policymaking Process – PLCY 8118](https://bulletin.temple.edu/search/?P=PLCY%208118){:target=“_blank”}
+- [Bureaucratic Organization and Public Management – PLCY 8123](https://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
+- [Elective or Internship – PLCY 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
+
 - [Economic Decisions and Public Policy - ECON 5102 ](https://bulletin.temple.edu/search/?P=ECON%205102){:target=“_blank”}
 - [Policy Analysis – PLCY 8119](https://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
-- [Program Evaluation – GUS 5165](https://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
-
-**Summer Semester First Year (or, Spring Semester Second Year)**
-- Elective
-- Elective
-- Internship or elective
 
 **Fall Semester Second Year**
+- [Program Evaluation – GUS 5165](https://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
 - [State and Local Budgeting – PLCY 8128](https://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
+- [Elective or Internship – PLCY 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
+
+**Spring Semester Second Year**
+- Elective
+- [Elective or Internship – PLCY 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 - [Policy Analysis Project – PLCY 8127](https://bulletin.temple.edu/search/?P=PLCY%208127){:target=“_blank”}
-- [Elective or Internship – POLS 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
+
+_Options are available to take electives during summer semesters. If students take summer courses it is possible to complete the degree in 15 months. Contact [mpp@temple.edu](mailto:mpp@temple.edu) for more details._
 
 Learn More about the [MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
 
 ## Admission Requirements
-Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
+Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission, send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
 
-The MPP program uses the Interfolio application system for managing additional application materials like your statement of purpose, resume and letters of recommendation. Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) for instructions on how to access and use this system and to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
+The MPP program uses the Interfolio application system for managing additional application materials like your statement of purpose, resume and letters of recommendation. Please visit the [Public Policy Graduate Bulletin](https://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) for instructions on how to access and use this system and to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. 
 
 - We do not require the Graduate Record Exam (GRE) for applications to the MPP program. Applicants are still welcome to submit scores if they have already taken the exam for another reason, or if they would prefer to.
 
 ### Graduate Application Deadlines
 
-_Fall Semester - for Fall 2020 admission_
+_Fall 2020 Admission_
 - **March 1** - For MPP partial scholarship award consideration
 - **April 5** – Guarantees full consideration of application
 - **June 15** – Late application deadline
 
-_Spring Semester - for Spring 2020 admission_
+_Spring 2021 Admission_
 - **Nov. 1** – Guarantees full consideration of application
 - **Dec. 6** – Late Application deadline
 
