@@ -17,22 +17,26 @@ Careers in public policy include appointed public positions, consultancy roles a
 
 ## Upcoming Information Sessions
 **Main Campus**<br>
-Two information sessions will be hosted at Temple's Main Campus, on the 9th floor of Gladfelter Hall in the Russel Weigley Room (914). On each date two concurrent sessions will be held - one starting at 2pm, and the next starting at 3pm. Please join us for whichever is most convenient for you. These information sessions usually focus on the MPP +1 program, but will be tailored to fit the interests of the attendees.
+We have several upcoming information sessions that will be hosted at Temple’s Main Campus in Gladfelter Hall. Click below for details and to RSVP:
 
-- [October 30](https://events.temple.edu/mpp-info-session-1030-tu-main)
-- [December 2](https://events.temple.edu/mpp-info-session-122-tu-main)
+- [February 4th, 11am](https://events.temple.edu/mpp-info-session-1)
+- [February 4th, 3:30pm and 4:30pm](https://events.temple.edu/mpp-info-session-2)
+- [March 18th, 11am](https://events.temple.edu/mpp-info-session-5)
+- [March 18th, 2pm and 3pm](https://events.temple.edu/mpp-info-session-6)
+
 
 **Center City Campus:**<br>
-Two information sessions will be hosted at Temple's Center City Campus, TUCC, in room 206. On each date, an open house will be held from 5:00 to 5:40pm, with a full presentation of the program to follow at 5:40. These information sessions broadly include all aspects of the MPP program, including our dual-degree offerings.
+We are hosting several information sessions at Temple University’s Center City (TUCC) building. On each date, an open house will be held from 5:00 to 5:30pm where prospective students will have a chance to mingle with MPP alums. A full presentation will be given by Professor Gary Mucciaroni will start at 5:30pm. 
 
-- [October 23](https://events.temple.edu/mpp-info-session-1023-tucc) 
-- [December 5](https://events.temple.edu/mpp-info-session-125-tucc)
+- January 23rd, 5pm 
+- [February 13th, 5pm](https://events.temple.edu/mpp-info-session-3)
+- [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
 
 ___
 
 ![May Graduates]({{site.baseurl}}/media/resized4S19_grads.jpg){:.responsive-img .img-right}
 ![May Graduates]({{site.baseurl}}/media/resized3S19_awards.jpg){:.responsive-img .img-right}
-## Congratulations to our Most Recent MPP Graduates!
+## Congratulations to our MPP Graduates!
 At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon thirteen new MPP graduates. Twelve of them are pictured here from left to right: _Tom Holroyd, Rena Pacheco, Jared Moser, Kyle Purchase, Aaron Bailey, Sarah Mueller, Peter Genao, Amanda Warren, Julie Blust, Jessica Maneely, Jonathan White, and Melissa Piccoli_.
 
 These alumni are joined by three MPP Faculty: _Joseph McLaughlin and Gary Mucciaroni (far left) and Pat Amberg-Blyskal (center front)_.
@@ -42,7 +46,7 @@ After the ceremony our newest MPP alums and their family members were toasted at
 ___
 
 ## Alumni Spotlight
-May 2018, January 2019 and May 2019 Graduates Take on New Employment Opportunities! Members of our first classes of MPP graduates are landing new jobs in a variety of public service settings. We wish them all great success!
+Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
 - **Brian Clinton**<br/>
 Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
@@ -81,16 +85,14 @@ ___
 Temple University now has a new off-campus housing service! You can visit the new [website](https://offcampus.temple.edu/) to learn about all of the new off campus housing options, locations and see virtual tours of new units! 
 
 ## Graduate Resources
-- [MPP FAQ's](https://drive.google.com/file/d/1WYBYQnDnijsGmn2w6jSWTXVXl-kAuR-e/view?usp=sharing)
-- [Graduate Student Handbook](http://bulletin.temple.edu/graduate/graduate-policies/)
-- [Graduate school forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate school funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate school policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to graduate school](http://www.temple.edu/grad/admissions/howtoapply.htm)
+- [MPP FAQ's](https://drive.google.com/file/d/19pzVGbSk0gU-cdCZY6rsVBoropeszuR3/view?usp=sharing)
+- [Graduate School Funding](https://sfs.temple.edu/apply/graduate-students)
+- [Graduate School Policies](https://bulletin.temple.edu/graduate/graduate-policies/)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
 ## Undergraduate Resources
+- [MPP +1 Accelerated Degree Program](https://liberalarts.temple.edu/ba-political-science-ms-public-policy)
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate funding](http://sfs.temple.edu/)
-- [Undergraduate policies and procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+- [Graduation Application Process](http://www.temple.edu/registrar/students/graduation)
+- [Undergraduate Funding](http://sfs.temple.edu/)
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
