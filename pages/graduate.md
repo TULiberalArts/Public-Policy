@@ -56,7 +56,7 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 
 _Options are available to take electives during summer semesters. If students take summer courses it is possible to complete the degree in 15 months. Contact [mpp@temple.edu](mailto:mpp@temple.edu) for more details._
 
-Learn More about the [MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text){:target=“_blank”}
+Learn More about the [MPP in Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#text)
 
 ## Admission Requirements
 Successful applicants to the MPP program have a minimum undergraduate GPA of 3.0. If you wish to inquire about your competitiveness for admission, send your resume and unofficial transcripts to [mpp@temple.edu](mailto:mpp@temple.edu).
