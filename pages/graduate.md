@@ -67,12 +67,12 @@ The MPP program uses the Interfolio application system for managing additional a
 
 ### Graduate Application Deadlines
 
-_Fall 2020 Admission_
+_**Fall 2020 Admission**_
 - **March 1** - For MPP partial scholarship award consideration
 - **April 5** – Guarantees full consideration of application
 - **June 15** – Late application deadline
 
-_Spring 2021 Admission_
+_**Spring 2021 Admission**_
 - **Nov. 1** – Guarantees full consideration of application
 - **Dec. 6** – Late Application deadline
 
