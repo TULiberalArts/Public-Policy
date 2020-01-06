@@ -51,24 +51,21 @@ Temple’s MPP graduates have taken on many new employment opportunities since c
 - **Brian Clinton**<br/>
 Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
 _MPP from Temple in 2018_<br/>
-    
-- **Kyle Purchase**<br/>
-Appointed staff member to Rep. Martina A. White, Pennsylvania House of Representatives, District 170<br/>
-_MPP from Temple in 2019_<br/>
 	
 - **Sarah DeNault**<br/>
-Appointed a Senior Analyst with responsibilities for conducting economic, policy, statistical, and program research at Econsult Solutions. She was formerly a Victims Assistant Coordinator worked with the Office of Victim Advocate in the Commonwealth of Pennsylvania’s Board of Probation and Parole in the Dept. of Corrections.
+First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
+_MPP from Temple in 2019_<br/>
 
 - **Dashiel Sears**<br/>
-Appointed Senior Associate, National League of Cities, Washington, DC<br/>
+Appointed Senior Associate, National League of Cities, Washington, DC.<br/>
  _MPP from Temple in 2018_<br/>
 	
 - **Patrick Kerr**<br/>
-Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a project manager with Character Lab, a non-     profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
+Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
 _MPP from Temple in 2018_<br/>
 	
 - **Emily Watts**<br/>
-Formerly Communications Specialist II at McCormick Taylor is taking a post with PennDOT where she will be a Policy Specialist.<br/>
+Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br/>
 _MPP from Temple in 2019_<br/>
 	
 - **Megan Zak**<br/>
