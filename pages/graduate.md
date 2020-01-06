@@ -41,9 +41,6 @@ The 36 credit MPP curriculum consists of 8 required courses, an internship and 3
 - [Bureaucratic Organization and Public Management – PLCY 8123](https://bulletin.temple.edu/search/?P=PLCY%208123){:target=“_blank”}
 - [Elective or Internship – PLCY 5085](https://bulletin.temple.edu/search/?P=PLCY%205085){:target=“_blank”}
 
-- [Economic Decisions and Public Policy - ECON 5102 ](https://bulletin.temple.edu/search/?P=ECON%205102){:target=“_blank”}
-- [Policy Analysis – PLCY 8119](https://bulletin.temple.edu/search/?P=PLCY%208119){:target=“_blank”}
-
 **Fall Semester Second Year**
 - [Program Evaluation – GUS 5165](https://bulletin.temple.edu/search/?P=GUS%205165){:target=“_blank”}
 - [State and Local Budgeting – PLCY 8128](https://bulletin.temple.edu/search/?P=PLCY%208128){:target=“_blank”}
