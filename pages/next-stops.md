@@ -32,6 +32,9 @@ We are hosting several information sessions at Temple University’s Center City
 - [February 13th, 5pm](https://events.temple.edu/mpp-info-session-3)
 - [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
 
+## Internship for Public Policy
+All MPP students are required to serve an internship and complete PLCY 5085 Internship in Public Policy. Past MPP students have served their internships at a number of different organizations, agencies and legislative offices. You can view the [list of past internship sites](https://templeu.instructure.com/courses/49566/pages/past-internships?module_item_id=1524968). 
+
 ___
 
 ![May Graduates]({{site.baseurl}}/media/resized4S19_grads.jpg){:.responsive-img .img-right}
