@@ -13,7 +13,7 @@ keywords: 'Public Policy Program, Master in Public Policy, Accelerated Degree Pr
 ---
 ## Earn Your Undergraduate and MPP Degrees in Five Years
 ![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/mpp-accelerated-degree-program-temple.png){:.responsive-img .img-right}
-The Master of Public Policy (MPP) Plus One (+1) program allows promising students to complete undergraduate and MPP degree's in five years. Normally, completing each degree separately takes six years. You can apply for the accelerated degree program as a junior or senior. If you are admitted as a junior, you will take four 3-credit courses (12 credits total) as an undergraduate and take the remaining 24 credits as a full-time MPP student in the summer following graduation and during your Plus One year. If you enter the +1 program as a senior, you will take three 3-credit courses (9 credits total) in your final year as an undergraduate and the remaining 27 credits after as a full-time MPP student during the summer following graduation and your Plus 1 year.
+The [Master of Public Policy (MPP) Plus One (+1) program](https://liberalarts.temple.edu/ba-political-science-ms-public-policy) allows promising students to complete undergraduate and MPP degree's in five years. Normally, completing each degree separately takes six years. You can apply for the accelerated degree program as a junior or senior. If you are admitted as a junior, you will take four 3-credit courses (12 credits total) as an undergraduate and take the remaining 24 credits as a full-time MPP student in the summer following graduation and during your Plus One year. If you enter the +1 program as a senior, you will take three 3-credit courses (9 credits total) in your final year as an undergraduate and the remaining 27 credits after as a full-time MPP student during the summer following graduation and your Plus 1 year.
 
 As an added bonus, the MPP credits you take as an undergraduate count toward both your graduate and bachelor's degree. All required MPP courses and select electives are held at the Center City campus in the evenings.
 
@@ -26,7 +26,6 @@ The [Washington Semester](https://www.cla.temple.edu/institute-for-public-affair
 To learn more about this accelerated degree offering, please visit the [Public Policy Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-political-science-ms-public-policy) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Undergraduate Resources
-- [MPP +1 Accelerated Degree Program](https://liberalarts.temple.edu/ba-political-science-ms-public-policy)
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
 - [Graduation Application Process](http://www.temple.edu/registrar/students/graduation)
 - [Undergraduate Funding](http://sfs.temple.edu/)
