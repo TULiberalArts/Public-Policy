@@ -33,7 +33,31 @@ We are hosting several information sessions at Temple University’s Center City
 - [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
 
 ## Internship for Public Policy
-All MPP students are required to serve an internship and complete PLCY 5085 Internship in Public Policy. Past MPP students have served their internships at a number of different organizations, agencies and legislative offices. You can view the [list of past internship sites](https://templeu.instructure.com/courses/49566/pages/past-internships?module_item_id=1524968). 
+All MPP students are required to serve an internship and complete [PLCY 5085 Internship in Public Policy](https://bulletin.temple.edu/search/?P=PLCY%205085). Past MPP students have served their internships at a number of different organizations, agencies and legislative offices. Previous MPP students have interned at a wide variety of organizations, including the following: 
+
+- [Alliance for Philadelphia Public Schools](https://appsphilly.net/)
+- [City of Philadelphia, Grants Office](https://www.phila.gov/finance/units-grants.html)
+- [Committee of Seventy](https://seventy.org/)
+- [Councilwoman Cherelle L. Parker](http://phlcouncil.com/cherelleparker/)
+- [Councilwoman Maria D. Quiñones-Sánchez](http://phlcouncil.com/mariaqsanchez/)
+- [Elder LGBT Initiative (William Way Community Center)](https://lgbtelderinitiative.org/)
+- [Global Philadelphia Association](https://globalphiladelphia.org/)
+- [Health Share Exchange, Saint Joseph's University](https://www.healthshareexchange.org/)
+- [Institute on Disabilities, Temple University](https://www.temple.edu/instituteondisabilities/)
+- [PA Attorney General](https://www.attorneygeneral.gov/)
+- [Philadelphia Cultural Alliance](https://www.philaculture.org/)
+- [Philadelphia District Attorney's Office](https://www.phila.gov/districtattorney/pages/default.aspx)
+- [PIDC](https://www.pidcphila.com/)
+- [Public Financial Management](https://www.pfm.com/)
+- [Research for Action](https://www.researchforaction.org/)
+- [Office of Senator Cory Booker](https://www.booker.senate.gov/)
+- [Office of State Representative Donna Bullock](https://www.pahouse.com/Bullock/)
+- [Office of State Representative Mary Jo Daley](https://www.pahouse.com/MDaley/)
+- [Office of State Representative Tim O'Neill](http://www.reponeal.com/)
+- [Strategic Communications/Real American Values](http://www.realamericanvalues.org/about-1.html)
+- [The Borgen Project](https://borgenproject.org/)
+- [United Nations, Department of Public Information](https://www.un.org/youthenvoy/2013/09/dpi-department-of-public-information/)
+- [Wojdak Government Relations](https://wojdak.com/)
 
 ___
 
@@ -81,18 +105,5 @@ _MPP from Temple in 2019_<br/>
 	
 ___
 
-## Temple University Off Campus Housing
-Temple University now has a new off-campus housing service! You can visit the new [website](https://offcampus.temple.edu/) to learn about all of the new off campus housing options, locations and see virtual tours of new units! 
-
-## Graduate Resources
-- [MPP FAQ's](https://drive.google.com/file/d/19pzVGbSk0gU-cdCZY6rsVBoropeszuR3/view?usp=sharing)
-- [Graduate School Funding](https://sfs.temple.edu/apply/graduate-students)
-- [Graduate School Policies](https://bulletin.temple.edu/graduate/graduate-policies/)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
-
-## Undergraduate Resources
-- [MPP +1 Accelerated Degree Program](https://liberalarts.temple.edu/ba-political-science-ms-public-policy)
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-- [Graduation Application Process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate Funding](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+## Apply to Temple
+Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
