@@ -28,7 +28,7 @@ We have several upcoming information sessions that will be hosted at Temple’s 
 **Center City Campus:**<br>
 We are hosting several information sessions at Temple University’s Center City (TUCC) building. On each date, an open house will be held from 5:00 to 5:30pm where prospective students will have a chance to mingle with MPP alums. A full presentation will be given by Professor Gary Mucciaroni will start at 5:30pm. 
 
-- [January 23rd, 5pm](https://events.temple.edu/12320-mpp-info-session) 
+- [January 23rd, 5pm](https://events.temple.edu/mpp-info-session-0) 
 - [February 13th, 5pm](https://events.temple.edu/mpp-info-session-3)
 - [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
 
