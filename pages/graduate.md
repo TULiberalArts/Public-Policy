@@ -100,3 +100,9 @@ Students admitted to the MPP program can transfer up to 6 credits. The credits m
 
 ## Apply to Temple
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+
+## Graduate Resources
+- [MPP FAQ's](https://drive.google.com/file/d/19pzVGbSk0gU-cdCZY6rsVBoropeszuR3/view?usp=sharing)
+- [Graduate School Funding](https://sfs.temple.edu/apply/graduate-students)
+- [Graduate School Policies](https://bulletin.temple.edu/graduate/graduate-policies/)
+- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
