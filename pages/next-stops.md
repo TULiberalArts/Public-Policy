@@ -75,6 +75,10 @@ ___
 ## Alumni Spotlight
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
+- **Helen Loughead**<br/>
+Left her position as Assistant Director of Development, Penn Medicine Development and Alumni Relations to become Assistant Budget Director, Analysis & Communications for the City of Philadelphia.<br/>
+_MPP from Temple in 2019_<br/>
+
 - **Brian Clinton**<br/>
 Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
 _MPP from Temple in 2018_<br/>
