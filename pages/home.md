@@ -26,7 +26,7 @@ Advance your career. Enhance your community. Develop the analytic skills to be a
 Members of our faculty bring to their teaching years of academic and real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Experienced Faculty"
     content="Our faculty are policymakers, agency heads, budget and finance managers, senior government advisors, and business and non-profit leaders."
     image=""
@@ -34,7 +34,7 @@ Members of our faculty bring to their teaching years of academic and real-world 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="MPP-MPH Dual Degree Program"
       content="We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH)."
       image=""
@@ -42,7 +42,7 @@ Members of our faculty bring to their teaching years of academic and real-world 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Information Sessions"
         content="Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session."
         image=""
