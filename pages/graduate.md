@@ -62,6 +62,8 @@ The MPP program uses the Interfolio application system for managing additional a
 
 - We do not require the Graduate Record Exam (GRE) for applications to the MPP program. Applicants are still welcome to submit scores if they have already taken the exam for another reason, or if they would prefer to.
 
+- The MPP program is pleased to be able to offer application fee waivers to current members and alumni of the following public service programs: AmeriCorps, City Year and Peace Corps. Please e-mail [mpp@temple.edu](mailto:mpp@temple.edu) to request a fee waiver prior to submitting your application.
+
 ### Graduate Application Deadlines
 
 _**Fall 2020 Admission**_
