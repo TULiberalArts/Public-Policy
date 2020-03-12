@@ -19,8 +19,6 @@ Careers in public policy include appointed public positions, consultancy roles a
 **Main Campus**<br>
 We have several upcoming information sessions that will be hosted at Temple’s Main Campus in Gladfelter Hall. Click below for details and to RSVP:
 
-- [February 4th, 11am](https://events.temple.edu/mpp-info-session-1)
-- [February 4th, 3:30pm and 4:30pm](https://events.temple.edu/mpp-info-session-2)
 - [March 18th, 11am](https://events.temple.edu/mpp-info-session-5)
 - [March 18th, 2pm and 3pm](https://events.temple.edu/mpp-info-session-6)
 
@@ -28,8 +26,6 @@ We have several upcoming information sessions that will be hosted at Temple’s 
 **Center City Campus:**<br>
 We are hosting several information sessions at Temple University’s Center City (TUCC) building. On each date, an open house will be held from 5:00 to 5:30pm where prospective students will have a chance to mingle with MPP alums. A full presentation will be given by Professor Gary Mucciaroni will start at 5:30pm. 
 
-- [January 23rd, 5pm](https://events.temple.edu/mpp-info-session-0) 
-- [February 13th, 5pm](https://events.temple.edu/mpp-info-session-3)
 - [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
 
 ## Internship for Public Policy
