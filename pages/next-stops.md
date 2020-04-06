@@ -16,17 +16,11 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
 
 ## Upcoming Information Sessions
-**Main Campus**<br>
-We have several upcoming information sessions that will be hosted at Temple’s Main Campus in Gladfelter Hall. Click below for details and to RSVP:
+**Virtual Information Sessions**<br>
+We have several upcoming information sessions that will be hosted via Zoom. Click below for details and to RSVP:
 
-- [March 18th, 11am](https://events.temple.edu/mpp-info-session-5)
-- [March 18th, 2pm and 3pm](https://events.temple.edu/mpp-info-session-6)
-
-
-**Center City Campus:**<br>
-We are hosting several information sessions at Temple University’s Center City (TUCC) building. On each date, an open house will be held from 5:00 to 5:30pm where prospective students will have a chance to mingle with MPP alums. A full presentation will be given by Professor Gary Mucciaroni will start at 5:30pm. 
-
-- [March 16th, 5pm](https://events.temple.edu/mpp-info-session-4)
+- [April 20th, 4pm-5pm](https://events.temple.edu/master-of-public-policy-information-session-420-at-4pm)
+- [April 20th, 5:30pm-6:30pm](https://events.temple.edu/master-of-public-policy-information-session-420-at-530pm)
 
 ## Internship for Public Policy
 All MPP students are required to serve an internship and complete [PLCY 5085 Internship in Public Policy](https://bulletin.temple.edu/search/?P=PLCY%205085). Past MPP students have served their internships at a number of different organizations, agencies and legislative offices. Previous MPP students have interned at a wide variety of organizations, including the following: 
