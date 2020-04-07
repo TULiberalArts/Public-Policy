@@ -65,37 +65,45 @@ ___
 ## Alumni Spotlight
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
+- **Eric Bumbaca**<br/>
+Left his position as a Program Coordinator at College Possible Philadelphia to become Director of Student Programs for The World Affairs Council of Philadelphia.<br/>
+_MPP from Temple in 2019_<br/>
+
+- **Victoria Cram**<br/>
+Left her position as a Congressional Aide for Congressman Brendan Boyle to become Chief of Staff for State Representative Kevin Boyle.<br/>
+_MPP from Temple in 2019_<br/>
+
+- **Sarah DeNault**<br/>
+First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
+_MPP from Temple in 2019_<br/>
+
+- **Tom Holroyd**<br/>
+Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
+_MPP from Temple in 2019_<br/> 
+
 - **Helen Loughead**<br/>
 Left her position as Assistant Director of Development, Penn Medicine Development and Alumni Relations to become Assistant Budget Director, Analysis & Communications for the City of Philadelphia.<br/>
+_MPP from Temple in 2019_<br/>
+
+- **Emily Watts**<br/>
+Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br/>
 _MPP from Temple in 2019_<br/>
 
 - **Brian Clinton**<br/>
 Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
 _MPP from Temple in 2018_<br/>
-	
-- **Sarah DeNault**<br/>
-First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
-_MPP from Temple in 2019_<br/>
+
+- **Patrick Kerr**<br/>
+Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
+_MPP from Temple in 2018_<br/>
 
 - **Dashiel Sears**<br/>
 Appointed Senior Associate, National League of Cities, Washington, DC.<br/>
  _MPP from Temple in 2018_<br/>
 	
-- **Patrick Kerr**<br/>
-Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
-_MPP from Temple in 2018_<br/>
-	
-- **Emily Watts**<br/>
-Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br/>
-_MPP from Temple in 2019_<br/>
-	
 - **Megan Zak**<br/>
 Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Part-Time MBA   Program in the Fox School of Business.<br/>
 _MPP from Temple in 2018_<br/>  
-	
-- **Tom Holroyd**<br/>
-Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
-_MPP from Temple in 2019_<br/>   
 	
 ___
 
