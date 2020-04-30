@@ -23,8 +23,6 @@ Please visit the [Public Policy Accelerated Degree Admissions](https://liberalar
 ## Capital Semester in Harrisburg or Washington DC
 The [Washington Semester](https://www.cla.temple.edu/institute-for-public-affairs/the-washington-semester/) and the [Pennsylvania Capital Semester](https://www.cla.temple.edu/institute-for-public-affairs/the-pennsylvania-capital-semester/) provides you an opportunity to gain valuable career experience in the nation's capital, while remaining a full-time student. If you are accepted into the +1 accelerated degree program, your MPP internship requirement is fulfilled by your semester or summer in Washington/Harrisburg by registering for PLCY 5085. In addition, if you participate in the Capital Semester program, you must make up the required MPP course you would take at Temple during your +1 year.
 
-To learn more about this accelerated degree offering, please visit the [Public Policy Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-political-science-ms-public-policy) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
 ## Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
 - [Graduation Application Process](http://www.temple.edu/registrar/students/graduation)
