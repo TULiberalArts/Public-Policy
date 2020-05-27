@@ -21,8 +21,6 @@ Careers aren’t shaped solely in classrooms. Students apply what they learn in 
 
 - View a schedule of our **[Upcoming Information Sessions](/public-policy/next-stops#upcoming-info-sessions)**
 
-Please visit the [Public Policy Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
-
 ## Faculty with Real-World Experience
 Our [dynamic faculty](https://www.cla.temple.edu/public-policy/faculty/) bring years of academic and real-world experience and expertise to their teaching as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. They conduct research relevant into social and quality of life issues throughout the Commonwealth and the Philadelphia region. Our diverse program and elective offerings allow you to focus your MPP degree in one of several areas, including: public policy analysis, health policy, criminal justice policy, urban policy, geographic information systems, education policy, or public management.
 
