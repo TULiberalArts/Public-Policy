@@ -89,7 +89,8 @@ As a student working toward your MPP, you will receive support and guidance from
   <p>  
   MPP staff meets with students’ through-out the program to discuss internship and employment needs. MPP staff coordinates with Temple Career Center staff to ensure available resources and programs are provided to MPP students.
   </p>
-</blockquote>
+  </blockquote>
+</details>
 
 <details>
   <summary><strong>Initial Semester in Program</strong></summary>
@@ -97,8 +98,10 @@ As a student working toward your MPP, you will receive support and guidance from
   <p>  
   During the first semester of the program MPP and Career Center staff provide a workshop for graduate students to discuss broadly job sector preferences (e.g. Public sector, private sector, or non-profit); areas of interest (e.g. education, health, social policy etc.); types of work (e.g. advocacy, research, legislative, administration, etc.) and geographical preferences.
   </p>
-</blockquote>
-  
+  </blockquote>
+</details> 
+
+<details>  
   <blockquote>  
     <p>  
     Students are encouraged to complete the following tasks during their first year in the MPP program:
@@ -108,6 +111,7 @@ As a student working toward your MPP, you will receive support and guidance from
 4. Visit the Career Center to have professional head-shot taken for Linked In profile. 
   </p>
  </blockquote>
+</details>
 
 <details>
   <summary><strong>End of First or Start of Second Semester in Program</strong></summary>
