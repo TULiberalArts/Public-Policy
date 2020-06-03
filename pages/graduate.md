@@ -81,8 +81,53 @@ We offer a dual degree program that allows graduate students to earn both a Mast
 Learn More about the [Dual Degree MPP-MPH](https://drive.google.com/file/d/1pAO92C30ajcnQGGR-JTZ2KLVyCZgTk6Q/view?usp=sharing)
 
 ## Academic Support and Advising
-![Photo of Pat]({{site.baseurl}}/media/resize Pat Borsuk.jpg){:.responsive-img .img-right}
-As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities. Here is a [brief summary](https://liberalarts.temple.edu/sites/liberalarts/files/MPP%20Resources%20External%20Version.pdf) of the ways we promote professional development with our students. All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask the [Assistant Director](mailto:mpp@temple.edu).
+As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the Temple Career Center and assisting with internship and permanent job search activities.
+
+<details>
+  <summary><strong>Career/Internship Planning</strong></summary>
+<blockquote>  
+  <p>  
+  MPP staff meets with students’ through-out the program to discuss internship and employment needs. MPP staff coordinates with Temple Career Center staff to ensure available resources and programs are provided to MPP students.
+  </p>
+</blockquote>
+
+<details>
+  <summary><strong>Initial Semester in Program</strong></summary>
+<blockquote>  
+  <p>  
+  During the first semester of the program MPP and Career Center staff provide a workshop for graduate students to discuss broadly job sector preferences (e.g. Public sector, private sector, or non-profit); areas of interest (e.g. education, health, social policy etc.); types of work (e.g. advocacy, research, legislative, administration, etc.) and geographical preferences.
+  </p>
+</blockquote>
+  
+  <blockquote>  
+    <p>  
+    Students are encouraged to complete the following tasks during their first year in the MPP program:
+1. Schedule a resume review with graduate coach in Career Center
+2. Schedule a mock interview appointment in Career Center
+3. Establish an employment profile in the Temple job search program (HANDSHAKE)
+4. Visit the Career Center to have professional head-shot taken for Linked In profile. 
+  </p>
+ </blockquote>
+
+<details>
+  <summary><strong>End of First or Start of Second Semester in Program</strong></summary>
+<blockquote>  
+  <p>  
+  Students requiring an internship will meet with MPP staff to discuss interests, needs (paid/unpaid), and time preferences for completion. One-on-one sessions are conducted to review potential locations for internships, review resume and cover letter submissions, and discuss preparation techniques for interviews.
+  </p>
+ </blockquote>
+</details>
+
+<details>
+  <summary><strong>Final Semester in Program</strong></summary>
+<blockquote>  
+  <p>  
+  Students will meet with MPP Director and staff to review job search preferences. Individual coaching is provided based on student’s interest areas and geographical preferences. Resume and cover letter reviews are provided, interview preparation is offered as appropriate.</a>
+  </p>
+ </blockquote>
+</details>
+
+All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask the [Assistant Director](mailto:mpp@temple.edu).
 
 ## Temple Graduate School Funding
 The cost of our program is very competitive when compared to that of other similar degrees in the region, particularly if you are eligible for in-state tuition. Some employers subsidize their employees’ educational expenses. Otherwise, most students finance their own educations or borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience.
