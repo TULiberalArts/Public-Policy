@@ -51,10 +51,10 @@ All MPP students are required to serve an internship and complete [PLCY 5085 Int
 ___
 
 ![May Graduates]({{site.baseurl}}/media/mpp2020congrats.jpg){:.responsive-img .img-right}
-## Congratulations to our MPP Graduates!
-At Temple’s May 9th commencement at Mitten Hall, degrees were conferred upon thirteen new MPP graduates. Twelve of them are pictured here from left to right: _Tom Holroyd, Rena Pacheco, Jared Moser, Kyle Purchase, Aaron Bailey, Sarah Mueller, Peter Genao, Amanda Warren, Julie Blust, Jessica Maneely, Jonathan White, and Melissa Piccoli_.
+## Congratulations to Our MPP Graduates!
+In 2020, Temple’s College of Liberal Arts conferred MPP degrees upon 20 graduates. Some of them are pictured to the right in our virtual Zoom graduation celebration.
 
-After the ceremony our newest MPP alums and their family members were toasted at a reception. Additionally, two MPP alumni were awarded the MPP Public Service Award – _Billy Folinusz and Lexi White_. We wish them all the best and look forward to hearing about their future successes!
+At the celebration, _Keshema Davidson_ served as the 2020 class speaker and shared remarks about what inspired her to enter public service. Additionally, two MPP alumni (_Jasmine Lamb_ and _Nathanael Brouhard_) were awarded the MPP Academic Achievement Award and _Cathy Roccia-Meier_ was awarded the MPP Public Service Award. We wish them all the best and look forward to hearing about their future successes!
 
 ___
 
