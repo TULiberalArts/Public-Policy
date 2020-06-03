@@ -99,8 +99,7 @@ As a student working toward your MPP, you will receive support and guidance from
   During the first semester of the program MPP and Career Center staff provide a workshop for graduate students to discuss broadly job sector preferences (e.g. Public sector, private sector, or non-profit); areas of interest (e.g. education, health, social policy etc.); types of work (e.g. advocacy, research, legislative, administration, etc.) and geographical preferences.
   </p>
   </blockquote> 
-
-<details>  
+ 
   <blockquote>  
     <p>  
     Students are encouraged to complete the following tasks during their first year in the MPP program:
