@@ -127,8 +127,7 @@ As a student working toward your MPP, you will receive support and guidance from
   Students will meet with MPP Director and staff to review job search preferences. Individual coaching is provided based on student’s interest areas and geographical preferences. Resume and cover letter reviews are provided, interview preparation is offered as appropriate.
   </p>
  </blockquote>
-</details> 
-<br>
+</details><br>
 
 All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask the [Assistant Director](mailto:mpp@temple.edu).
 
