@@ -132,24 +132,23 @@ As a student working toward your MPP, you will receive support and guidance from
 All of our instructors are personable, helpful folks and are happy to work with students on an individual basis. If you have general questions about how to register for classes, find academic buildings, or the like, you can also ask the [Assistant Director](mailto:mpp@temple.edu).
 
 ## Temple Graduate School Funding
-The cost of our program is very competitive when compared to that of other similar degrees in the region, particularly if you are eligible for in-state tuition. Some employers subsidize their employees’ educational expenses. Otherwise, most students finance their own educations or borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience.
+The cost of our program is very competitive when compared to similar degrees in the region, particularly if you’re eligible for in-state tuition. Some employers subsidize their employees’ educational expenses. Otherwise, most students finance their own education or borrow from the regular financial aid programs. Explore all available funding and apply early to make your education an affordable experience.
+
+We award a limited number of partial scholarships on a competitive basis. Applicants who wish to be considered for an award should have an undergraduate GPA of 3.5 or higher and should apply by March 1st to assure consideration.
 
 [Student Financial Services](https://sfs.temple.edu/)
-
-### MPP Funding
-We award a limited number of partial scholarships on a competitive basis. Applicants who wish to be considered for an award should have an undergraduate GPA of 3.5 or higher and should apply by March 1st to assure consideration.
 
 ## Tuition and Fees
 For more than 130 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other universities and see what we mean. Temple tuition rates vary by college or school, residency status, student level and more. Use the [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates) to estimate your tuition rate.
 
-## Transferring Credits from other MPP or MPA Programs into Temple
+## Transferring Credits from Other MPP or MPA Programs into Temple
 Students admitted to the MPP program can transfer up to 6 credits. The credits must have been earned at a reputable institution with a grade of B or better and Temple must have equivalent courses in its course inventory. Students who wish to transfer credits need to submit a transcript listing the courses to be transferred and set up an appointment with the MPP Director to discuss transferring into the program. Transfer students must apply to the MPP program and generally meet the same requirements as other applicants, although their performance in another MPP or MPA program will be given special consideration in the admissions decision. Questions about whether applicants qualify for waivers should be sent to [mpp@temple.edu](mailto:mpp@temple.edu). For more admission requirements, review the [Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/#admissiontext){:target=“_blank”}.
 
 ## Apply to Temple
 Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
 
 ## Graduate Resources
-- [MPP FAQ's](https://drive.google.com/file/d/19pzVGbSk0gU-cdCZY6rsVBoropeszuR3/view?usp=sharing)
+- [MPP FAQs](https://drive.google.com/file/d/19pzVGbSk0gU-cdCZY6rsVBoropeszuR3/view?usp=sharing)
 - [Graduate School Funding](https://sfs.temple.edu/apply/graduate-students)
 - [Graduate School Policies](https://bulletin.temple.edu/graduate/graduate-policies/)
 - [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
