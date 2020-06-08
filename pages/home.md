@@ -14,16 +14,18 @@ keywords: >-
 promotion-table: true
 
 feature: true
-feature-title: Master Policy Where Policy is Made
+feature-title: Master Policy Where Policy Is Made
 feature-image: hero_PoliticalScience2.png
 feature-body: >-
-  Our Master of Public Policy (MPP) program trains students and practitioners who seek successful careers in the public sector or in private or non-profit organizations that work on a continuous basis with government agencies — steps away from City Hall.
+  Our Master of Public Policy (MPP) program trains students and practitioners who seek successful careers in the public sector or in private or nonprofit organizations that work on a continuous basis with government agencies, in a program that’s just steps away from Philadelphia City Hall.
 ---
 ## Become an Agent for Change
-Advance your career. Enhance your community. Develop the analytic skills to be able to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state, and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. We train generalists who combine technical competency with a sophisticated understanding of the policy process. If you are interested in social and quality of life issues throughout Philadelphia and beyond, Temple offers a graduate program in public policy led by full-time faculty and working practitioners.
+Advance your career. Enhance your community. Develop the analytic skills to be able to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state, and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. 
 
-## Real World Insight from Experts
-Members of our faculty bring to their teaching years of academic and real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of non-profit organizations, policymakers and senior policy advisors. We are affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+We train generalists who combine technical competency with a sophisticated understanding of the policy process. Temple University’s public policy graduate degree is led by full-time faculty and working practitioners and is ideal for anyone interested in social and quality-of-life issues throughout Philadelphia and beyond.
+
+## Get Real-World Insights from Expert Instructors
+Members of our faculty have years of academic and real-world experience and expertise as agency heads and supervisors, budget and finance managers, consultants, leaders of nonprofit organizations, policymakers, and senior policy advisors. The program is also affiliated with the [Institute for Public Affairs](http://www.cla.temple.edu/ipa/), a research institute that conducts, supports and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
@@ -36,7 +38,7 @@ Members of our faculty bring to their teaching years of academic and real-world 
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
       title="MPP-MPH Dual Degree Program"
-      content="We now offer a dual degree program that allows graduate students to earn both an Master of Public Policy and a Master of Public Health (MPP-MPH)."
+      content="We now offer a dual degree program that allows graduate students to earn both a Master of Public Policy and a Master of Public Health (MPP-MPH)."
       image=""
       button-link="/public-policy/graduate#new-mpp-mph-dual-degree-program"
       button-text="Learn More" %}
@@ -44,7 +46,7 @@ Members of our faculty bring to their teaching years of academic and real-world 
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Information Sessions"
-        content="Looking for more information about the MPP Program? Join us live, or virtually via WebEx, for an upcoming MPP Information Session."
+        content="Looking for more information about the MPP Program? Join us live or virtually (via Zoom) for an upcoming MPP Information Session."
         image=""
         button-link="/public-policy/next-stops#upcoming-info-sessions"
         button-text="Learn More" %}
