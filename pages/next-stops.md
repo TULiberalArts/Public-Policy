@@ -12,17 +12,15 @@ keywords: 'Temple Master of Public Policy, Careers in Public Policy, Public Poli
 # custom variables
 ---
 ![Four Plus One Public Policy Degree Program]({{site.baseurl}}/media/resized temple-mpp-degree-info-session.jpg){:.responsive-img .img-right}
-## Advance your Career. Enhance your Community.
-Careers in public policy include appointed public positions, consultancy roles and non-profit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entrée into exciting and rewarding public policy jobs.
+## Advance Your Career. Enhance Your Community.
+Careers in public policy include appointed public positions, consultancy roles and nonprofit leadership positions that deal with budgeting and finance, economic development, environmental protection, public education, public health, social services and other policy fields. [Temple alumni](http://www.alumni.temple.edu/s/705/alumni/16/interior.aspx?sid=705&gid=1&pgid=3703) who already work in these fields provide important networks through which our graduates gain entry into exciting and rewarding public policy jobs.
 
 ## Upcoming Information Sessions
 **Virtual Information Sessions**<br>
-We have several upcoming information sessions that will be hosted via Zoom. Click below for details and to RSVP:
+We regularly hold several information sessions hosted via Zoom from September through May. Upcoming sessions will be listed here as they are announced.
 
-- [May 11, 4pm-5pm](https://events.temple.edu/mpp-info-session-monday-511)
-
-## Internship for Public Policy
-All MPP students are required to serve an internship and complete [PLCY 5085 Internship in Public Policy](https://bulletin.temple.edu/search/?P=PLCY%205085). Past MPP students have served their internships at a number of different organizations, agencies and legislative offices. Previous MPP students have interned at a wide variety of organizations, including the following: 
+## Public Policy Internships
+All Master of Public Policy (MPP) students are required to serve in an internship and complete [PLCY 5085 Internship in Public Policy](https://bulletin.temple.edu/search/?P=PLCY%205085). Past MPP students have served their internships at a number of different organizations, agencies and legislative offices:
 
 - [Alliance for Philadelphia Public Schools](https://appsphilly.net/)
 - [City of Philadelphia, Grants Office](https://www.phila.gov/finance/units-grants.html)
@@ -98,10 +96,10 @@ Appointed Senior Associate, National League of Cities, Washington, DC.<br/>
  _MPP from Temple in 2018_<br/>
 	
 - **Megan Zak**<br/>
-Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Part-Time MBA   Program in the Fox School of Business.<br/>
+Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Fox School of Business’s part-time MBA program.<br/>
 _MPP from Temple in 2018_<br/>  
 	
 ___
 
 ## Apply to Temple
-Ready to apply? [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
