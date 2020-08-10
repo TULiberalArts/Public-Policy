@@ -79,6 +79,10 @@ _MPP from Temple in 2019_<br/>
 Left her position as Assistant Director of Development, Penn Medicine Development and Alumni Relations to become Assistant Budget Director, Analysis & Communications for the City of Philadelphia.<br/>
 _MPP from Temple in 2019_<br/>
 
+- **Sarah Mueller**<br/>
+Selected for the highly competitive Joseph P. Kennedy, Jr. Disability Policy Fellowship with the Senate Health, Education, Labor and Pensions Committee
+_MPP from Temple in 2019_
+
 - **Emily Watts**<br/>
 Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br/>
 _MPP from Temple in 2019_<br/>
