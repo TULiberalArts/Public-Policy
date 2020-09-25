@@ -64,9 +64,9 @@ ___
 ## Alumni Spotlight
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
-- **Hannah Engber**<br/>
-Recently had her paper ["Rose’s Turn: How Women in Positions of Political Leadership Handle Terrorism on the Homefront"](https://articlegateway.com/index.php/JMPP/article/view/2931) published in the Journal of Management Policy and Practice.<br/>
-_MPP from Temple expected in 2021_<br/>
+- **Keshema Davidson**<br/>
+Was selected to participate in Committee of Seventy's highly competitive Buchholz Fellowship program. Keshema works as the Manager of Community Affairs at Cristo Rey Philadelphia High School.<br/>
+_MPP from Temple in 2020_<br/>
 
 - **Eric Bumbaca**<br/>
 Left his position as a Program Coordinator at College Possible Philadelphia to become Director of Student Programs for The World Affairs Council of Philadelphia.<br/>
@@ -107,10 +107,6 @@ _MPP from Temple in 2018_<br/>
 - **Dashiel Sears**<br/>
 Appointed Senior Associate, National League of Cities, Washington, DC.<br/>
  _MPP from Temple in 2018_<br/>
-	
-- **Megan Zak**<br/>
-Formerly a Student Services Coordinator in the College of Liberal Arts at Temple, is now the Assistant Director for the Fox School of Business’s part-time MBA program.<br/>
-_MPP from Temple in 2018_<br/>  
 	
 ___
 
