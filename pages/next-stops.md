@@ -34,10 +34,10 @@ All Master of Public Policy (MPP) students are required to serve in an internshi
 - [Councilwoman Maria D. Quiñones-Sánchez](http://phlcouncil.com/mariaqsanchez/)
 - [Elder LGBT Initiative (William Way Community Center)](https://lgbtelderinitiative.org/)
 - [Global Philadelphia Association](https://globalphiladelphia.org/)
+- [Greater Philadelphia Cultural Alliance](https://www.philaculture.org/)
 - [Health Share Exchange, Saint Joseph's University](https://www.healthshareexchange.org/)
 - [Institute on Disabilities, Temple University](https://www.temple.edu/instituteondisabilities/)
 - [PA Attorney General](https://www.attorneygeneral.gov/)
-- [Philadelphia Cultural Alliance](https://www.philaculture.org/)
 - [Philadelphia District Attorney's Office](https://www.phila.gov/districtattorney/pages/default.aspx)
 - [PIDC](https://www.pidcphila.com/)
 - [Public Financial Management](https://www.pfm.com/)
@@ -76,7 +76,7 @@ _MPP from Temple in 2019_<br/>
 Left her position as a Congressional Aide for Congressman Brendan Boyle to become Chief of Staff for State Representative Kevin Boyle.<br/>
 _MPP from Temple in 2019_<br/>
 
-- **Sarah DeNault**<br/>
+- **Sara DeNault**<br/>
 First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
 _MPP from Temple in 2019_<br/>
 
@@ -105,7 +105,7 @@ Formerly an Executive Assistant for the Committee on Sustainability Assessment, 
 _MPP from Temple in 2018_<br/>
 
 - **Dashiel Sears**<br/>
-Appointed Senior Associate, National League of Cities, Washington, DC.<br/>
+Appointed Senior Associate, National League of Cities, Washington, DC and then accepted a role as Regional Director-North America at International Association of Providers of AIDS Care.<br/>
  _MPP from Temple in 2018_<br/>
 	
 ___
