@@ -104,8 +104,8 @@ _MPP from Temple in 2018_<br/>
 Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
 _MPP from Temple in 2018_<br/>
 
-- **Dashiel Sears**<br/>
-Appointed Senior Associate, National League of Cities, Washington, DC and then accepted a role as Regional Director-North America at International Association of Providers of AIDS Care.<br/>
+- **Dashiell Sears**<br/>
+Appointed Senior Associate, National League of Cities, Washington, DC and then accepted a role as Director of Public Policy at the International Association of Providers of AIDS Care.<br/>
  _MPP from Temple in 2018_<br/>
 	
 ___
