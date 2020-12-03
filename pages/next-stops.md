@@ -111,3 +111,4 @@ ___
 
 ## Apply to Temple
 Ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
+
