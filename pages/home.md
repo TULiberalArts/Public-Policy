@@ -37,10 +37,10 @@ Members of our faculty have years of academic and real-world experience and expe
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="MPP-MPH Dual Degree Program"
-      content="We now offer a dual degree program that allows graduate students to earn both a Master of Public Policy and a Master of Public Health (MPP-MPH)."
+      title="New Minor in Public Policy!"
+      content="Thinking about a career in the public or nonprofit sector? Want to learn more about how to enhance communities through effective policy? Consider the new public policy minor to pair with your major."
       image=""
-      button-link="/public-policy/graduate#new-mpp-mph-dual-degree-program"
+      button-link="/public-policy/undergraduate#minor-in-public-policy"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
