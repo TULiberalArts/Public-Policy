@@ -19,9 +19,10 @@ Careers in public policy include appointed public positions, consultancy roles a
 **Virtual Information Sessions**<br>
 We regularly hold several information sessions hosted via Zoom from September through May. Additional information sessions will be scheduled for later dates in the spring semester.
 
-- [Wednesday, December 9th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-3)
-- [Tuesday, January 12th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-4)
 - [Wednesday, February 3rd at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-5)
+- [Tuesday, March 2nd at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-6)
+- [Wednesday, March 24th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-7)
+- [Wednesday, April 7th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-8)
 
 ## Public Policy Internships
 All Master of Public Policy (MPP) students are required to serve in an internship and complete [PLCY 5085 Internship in Public Policy](https://bulletin.temple.edu/search/?P=PLCY%205085). Past MPP students have served their internships at a number of different organizations, agencies and legislative offices:
