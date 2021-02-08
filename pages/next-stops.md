@@ -19,7 +19,6 @@ Careers in public policy include appointed public positions, consultancy roles a
 **Virtual Information Sessions**<br>
 We regularly hold several information sessions hosted via Zoom from September through May. Additional information sessions will be scheduled for later dates in the spring semester.
 
-- [Wednesday, February 3rd at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-5)
 - [Tuesday, March 2nd at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-6)
 - [Wednesday, March 24th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-7)
 - [Wednesday, April 7th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-8)
@@ -30,9 +29,11 @@ All Master of Public Policy (MPP) students are required to serve in an internshi
 - [Alliance for Philadelphia Public Schools](https://appsphilly.net/)
 - [City of Philadelphia, Grants Office](https://www.phila.gov/finance/units-grants.html)
 - [Committee of Seventy](https://seventy.org/)
+- [Councilmember Curtis Jones](https://phlcouncil.com/curtisjonesjr/)
+- [Councilmember Derek Green](https://phlcouncil.com/derekgreen/)
 - [Councilmember Isaiah Thomas](https://phlcouncil.com/isaiahthomas/)
 - [Councilmember Maria D. Quiñones-Sánchez](http://phlcouncil.com/mariaqsanchez/)
-- [Councilwoman Cherelle L. Parker](http://phlcouncil.com/cherelleparker/)
+- [Councilmember Cherelle L. Parker](http://phlcouncil.com/cherelleparker/)
 - [Elder LGBT Initiative (William Way Community Center)](https://lgbtelderinitiative.org/)
 - [Global Philadelphia Association](https://globalphiladelphia.org/)
 - [Greater Philadelphia Cultural Alliance](https://www.philaculture.org/)
