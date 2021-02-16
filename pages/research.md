@@ -87,7 +87,7 @@ ___
 
 ![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-right}
 
-- Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. A_ddictive Behaviors_, 58, 129-135.
+- Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. _Addictive Behaviors_, 58, 129-135.
 
 - Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
 
