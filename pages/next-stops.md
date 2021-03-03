@@ -73,8 +73,12 @@ ___
 ## Alumni Spotlight
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
+- **Sara Joseph**<br/>
+Left her position as a Forensic Intensive Recovery Specialist at the Defender Association of Philadelphia to become a Support Coordinator for the Philadelphia Bail Fund.<br>
+_MPP from Temple in 2021_
+
 - **Kristina Sladek**<br/>
-Left her position as Probation Officer Specialist with Chester County Juvenile Probation to become a Research Specialist with The Office of the Commissioner of Probation in The Trial Court of Massachusetts
+Left her position as Probation Officer Specialist with Chester County Juvenile Probation to become a Research Specialist with The Office of the Commissioner of Probation in The Trial Court of Massachusetts.<br>
 _MPP from Temple in 2020_
 
 - **Keshema Davidson**<br/>
