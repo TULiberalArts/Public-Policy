@@ -19,7 +19,6 @@ Careers in public policy include appointed public positions, consultancy roles a
 **Virtual Information Sessions**<br>
 We regularly hold several information sessions hosted via Zoom from September through May. Additional information sessions will be scheduled for later dates in the spring semester.
 
-- [Tuesday, March 2nd at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-6)
 - [Wednesday, March 24th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-7)
 - [Wednesday, April 7th at 5:30pm](https://events.temple.edu/master-of-public-policy-info-session-8)
 
