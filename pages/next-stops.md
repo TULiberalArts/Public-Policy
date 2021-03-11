@@ -73,6 +73,18 @@ ___
 ## Alumni Spotlight
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
+<details>
+  <summary><strong>Sara Joseph</strong></summary>
+<blockquote>  
+  <p>  
+  Left her position as a Forensic Intensive Recovery Specialist at the Defender Association of Philadelphia to become a Support Coordinator for the Philadelphia Bail Fund.<br>
+<li><i>MPP from Temple in 2021</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
+
+
+
 - **Sara Joseph**<br/>
 Left her position as a Forensic Intensive Recovery Specialist at the Defender Association of Philadelphia to become a Support Coordinator for the Philadelphia Bail Fund.<br>
 _MPP from Temple in 2021_
@@ -89,7 +101,7 @@ _MPP from Temple in 2020_
 Left his position as a Program Coordinator at College Possible Philadelphia to become Director of Student Programs for The World Affairs Council of Philadelphia.<br/>
 _MPP from Temple in 2019_
 
-- **Victoria Cram**<br/>
+- **Victoria Hood**<br/>
 Left her position as a Congressional Aide for Congressman Brendan Boyle to become Chief of Staff for State Representative Kevin Boyle.<br/>
 _MPP from Temple in 2019_
 
@@ -98,7 +110,7 @@ First worked as a Senior Research Analyst at Econsult Solutions and then accepte
 _MPP from Temple in 2019_
 
 - **Tom Holroyd**<br/>
-Appointed Legislative Director, Sen. Maria Collett, Pennsylvania Senate<br/>
+Appointed Legislative and Executive Director, Sen. Maria Collett, Pennsylvania Senate<br/>
 _MPP from Temple in 2019_
 
 - **Helen Loughead**<br/>
