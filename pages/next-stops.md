@@ -83,59 +83,125 @@ Temple’s MPP graduates have taken on many new employment opportunities since c
   </blockquote>
 </details>
 
+<details>
+  <summary><strong>Kristina Sladek</strong></summary>
+<blockquote>  
+  <p>  
+  Left her position as Probation Officer Specialist with Chester County Juvenile Probation to become a Research Specialist with The Office of the Commissioner of Probation in The Trial Court of Massachusetts.<br>
+<li><i>MPP from Temple in 2020</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
+<details>
+  <summary><strong>Keshema Davidson</strong></summary>
+<blockquote>  
+  <p>  
+  Was selected to participate in Committee of Seventy's highly competitive Buchholz Fellowship program. Keshema works as the Manager of Community Affairs at Cristo Rey Philadelphia High School.<br>
+<li><i>MPP from Temple in 2020</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Sara Joseph**<br/>
-Left her position as a Forensic Intensive Recovery Specialist at the Defender Association of Philadelphia to become a Support Coordinator for the Philadelphia Bail Fund.<br>
-_MPP from Temple in 2021_
+<details>
+  <summary><strong>Eric Bumbaca</strong></summary>
+<blockquote>  
+  <p>  
+  Left his position as a Program Coordinator at College Possible Philadelphia to become Director of Student Programs for The World Affairs Council of Philadelphia.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Kristina Sladek**<br/>
-Left her position as Probation Officer Specialist with Chester County Juvenile Probation to become a Research Specialist with The Office of the Commissioner of Probation in The Trial Court of Massachusetts.<br>
-_MPP from Temple in 2020_
+<details>
+  <summary><strong>Victoria Hood</strong></summary>
+<blockquote>  
+  <p>  
+  Left her position as a Congressional Aide for Congressman Brendan Boyle to become Chief of Staff for State Representative Kevin Boyle.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Keshema Davidson**<br/>
-Was selected to participate in Committee of Seventy's highly competitive Buchholz Fellowship program. Keshema works as the Manager of Community Affairs at Cristo Rey Philadelphia High School.<br/>
-_MPP from Temple in 2020_
+<details>
+  <summary><strong>Sara DeNault</strong></summary>
+<blockquote>  
+  <p>  
+  First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Eric Bumbaca**<br/>
-Left his position as a Program Coordinator at College Possible Philadelphia to become Director of Student Programs for The World Affairs Council of Philadelphia.<br/>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Tom Holroyd</strong></summary>
+<blockquote>  
+  <p>  
+  Appointed Legislative and Executive Director, Sen. Maria Collett, Pennsylvania Senate.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Victoria Hood**<br/>
-Left her position as a Congressional Aide for Congressman Brendan Boyle to become Chief of Staff for State Representative Kevin Boyle.<br/>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Helen Loughead</strong></summary>
+<blockquote>  
+  <p>  
+  Left her position as Assistant Director of Development, Penn Medicine Development and Alumni Relations to become Assistant Budget Director, Analysis & Communications for the City of Philadelphia.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Sara DeNault**<br/>
-First worked as a Senior Research Analyst at Econsult Solutions and then accepted a position as a Senior Associate, Finance, Policy and Data for the Office of the Philadelphia City Controller.<br>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Sarah Mueller</strong></summary>
+<blockquote>  
+  <p>  
+  Selected for the highly competitive Joseph P. Kennedy, Jr. Disability Policy Fellowship with the Senate Health, Education, Labor and Pensions Committee.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Tom Holroyd**<br/>
-Appointed Legislative and Executive Director, Sen. Maria Collett, Pennsylvania Senate<br/>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Emily Watts</strong></summary>
+<blockquote>  
+  <p>  
+  Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br>
+<li><i>MPP from Temple in 2019</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Helen Loughead**<br/>
-Left her position as Assistant Director of Development, Penn Medicine Development and Alumni Relations to become Assistant Budget Director, Analysis & Communications for the City of Philadelphia.<br/>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Brian Clinton</strong></summary>
+<blockquote>  
+  <p>  
+  Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br>
+<li><i>MPP from Temple in 2018</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Sarah Mueller**<br/>
-Selected for the highly competitive Joseph P. Kennedy, Jr. Disability Policy Fellowship with the Senate Health, Education, Labor and Pensions Committee<br/>
-_MPP from Temple in 2019_
+<details>
+  <summary><strong>Patrick Kerr</strong></summary>
+<blockquote>  
+  <p>  
+  Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br>
+<li><i>MPP from Temple in 2018</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 
-- **Emily Watts**<br/>
-Formerly Communications Specialist II at McCormick Taylor, Emily is now a Policy Specialist with PennDOT.<br/>
-_MPP from Temple in 2019_
-
-- **Brian Clinton**<br/>
-Left his position on the staff of Councilwoman Cherelle Parker to become Assistant Chief of Staff in the Mayor's Office of the City of Philadelphia.<br/>
-_MPP from Temple in 2018_
-
-- **Patrick Kerr**<br/>
-Formerly an Executive Assistant for the Committee on Sustainability Assessment, is now a Research Partnerships Manager with Character Lab, a non- profit organization that uses cutting edge social science and medical research to understand and develop traits in children that contribute to positive outcomes later in life.<br/>
-_MPP from Temple in 2018_
-
-- **Dashiell Sears**<br/>
-Appointed Senior Associate, National League of Cities, Washington, DC and then accepted a role as Director of Public Policy at the International Association of Providers of AIDS Care.<br/>
- _MPP from Temple in 2018_
+<details>
+  <summary><strong>Dashiell Sears</strong></summary>
+<blockquote>  
+  <p>  
+  Appointed Senior Associate, National League of Cities, Washington, DC and then accepted a role as Director of Public Policy at the International Association of Providers of AIDS Care.<br>
+<li><i>MPP from Temple in 2018</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
 	
 ___
 
