@@ -22,16 +22,12 @@ ___
 
 ## Faculty Publications
 
-### [Andrew Buss](http://andrewbuss.cgpublisher.com/) <br>
-![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/andrew-buss-mpp.jpg){:.img-right}
-
+### [Andrew Buss](http://andrewbuss.cgpublisher.com/)
 - Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
 ___
 
 ### [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise)
-![Elise Chor Temple MPP Faculty]({{site.baseurl}}/media/resizedelise-chor_mpp (1).jpg){:.img-right}
-
 - Chor, E. (2016). [Multigenerational Head Start Participation: An Unexpected Marker of Progress](http://onlinelibrary.wiley.com/doi/10.1111/cdev.12673/abstract).
   _Child Development_.
 
@@ -39,9 +35,7 @@ ___
 
 ___
 
-### [Gary Mucciaroni](https://liberalarts.temple.edu/academics/faculty/mucciaroni-gary)
-![Gary Mucciaroni]({{site.baseurl}}/media/resized Mucciaroni.jpg){:.img-right}
-
+### [Gary Mucciaroni](https://liberalarts.temple.edu/academics/faculty/mucciaroni-gary)<br>
 **New and Forthcoming Work on Abortion policy and LGBTQ Rights**<br>
 - _“Framing Morality Policy Issues: State Legislative Debates on Abortion Restrictions”_ Gary Mucciaroni (with Kathleen Ferraiolo and Meghan E. Rubado) Policy Sciences, online publication October 2018. [https://doi.org/10.1007/s11077-018-9336-2](https://doi.org/10.1007/s11077-018-9336-2)
 
@@ -57,8 +51,6 @@ ___
 ___
 
 ### [Joseph P. McLaughlin, Jr.](https://liberalarts.temple.edu/academics/faculty/mclaughlin-jr-joseph-p)
-![Joseph P. McLaughlin, Jr.]({{site.baseurl}}/media/McLaughlin-th.jpeg){:.img-right}
-
 - Lecture, _An Introduction to American Government,_ for 25 public officials from Vietnam in the Executive Leadership program, Fox School of Business, Temple University, 2019.
  
 - Lecture, _Failed Public Investments: Lessons Learned,_ for 25 public officials from Vietnam in the Executive Leadership program, Fox School of Business, Temple University, 2019.
@@ -74,8 +66,6 @@ ___
 ___
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
-![Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
-
 - Heckert, M. and Christina D. Rosan. “Creating GIS-Based Planning to Promote Equity Through Green Infrastructure.” _Frontiers in the Built Environment._ May 15, 2018. [https://doi.org/10.3389/fbuil.2018.00027](https://doi.org/10.3389/fbuil.2018.00027)
 
 - Rosan, Christina D. and Hamil Pearsall. _Growing a Sustainable City?: The Question of Urban Agriculture._ Toronto, CA: University of Toronto Press. November 2017. [https://utorontopress.com/us/growing-a-sustainable-city-2](https://utorontopress.com/us/growing-a-sustainable-city-2)
@@ -87,8 +77,6 @@ ___
 ___
 
 ### [Michael Sances](https://liberalarts.temple.edu/academics/faculty/sances-michael)
-![Michael Sances]({{site.baseurl}}/media/michaelsances.jpg){:.img-right}
-
 - “The Politics of Policy: The Initial Mass Political Effects of Medicaid Expansion in the States.” With Joshua Clinton. _American Political Science Review112(1): 167-185._ February 2018. 
 
 - Attribution Errors in Federalist Systems: When Voters Punish the President for Local Tax Increases.” _Journal of Politics 79(4): 1286-1301._ October 2017.
@@ -98,8 +86,6 @@ ___
 ___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
-![Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-right}
-
 - Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. _Addictive Behaviors_, 58, 129-135.
 
 - Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
