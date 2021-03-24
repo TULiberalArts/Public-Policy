@@ -59,11 +59,17 @@ ___
 ### [Joseph P. McLaughlin, Jr.](https://liberalarts.temple.edu/academics/faculty/mclaughlin-jr-joseph-p)
 ![Joseph P. McLaughlin, Jr.]({{site.baseurl}}/media/McLaughlin-th.jpeg){:.img-right}
 
-- “The Politics of Policy: The Initial Mass Political Effects of Medicaid Expansion in the States.” With Joshua Clinton. _American Political Science Review112(1): 167-185._ February 2018. 
+- Lecture, _An Introduction to American Government,_ for 25 public officials from Vietnam in the Executive Leadership program, Fox School of Business, Temple University, 2019.
+ 
+- Lecture, _Failed Public Investments: Lessons Learned,_ for 25 public officials from Vietnam in the Executive Leadership program, Fox School of Business, Temple University, 2019.
 
-- Attribution Errors in Federalist Systems: When Voters Punish the President for Local Tax Increases.” _Journal of Politics 79(4): 1286-1301._ October 2017.
+- Co-author with Jay Jennings and Stefanie Kasparek, The Pennsylvania Policy Database Project, in _Comparative Policy Agendas Theory, Tools Data,_ edited by Frank R. Baumgartner, Christian Breunig, and Emiliano Grossman. Oxford University Press, 2019.
 
-- “Who Pays for Government? Descriptive Representation and Exploitative Revenue Sources.” With Hye Young You. _Journal of Politics 79(3): 1090-1094._ July 2017.
+- Remembering Dan Elazar. Tribute Page, Center for the Study of Federalism, Lafayette College, 2016.
+
+- Co-editor, Special Issue on Education, _COMMONWEALTH, A Journal of Pennsylvania Politics and Policy._ 2016-17.
+
+- _My Life as a Thinker and Doer in Politics,_ Pennsylvania Political Science Association Annual Meeting, 2015.
 
 ___
 
