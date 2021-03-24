@@ -35,6 +35,17 @@ ___
 
 ___
 
+### [Matthew Knittel](https://liberalarts.temple.edu/academics/faculty/knittel-matthew)
+- How Would Small Business Owners Fare Under a Business Entity Tax?” _National Tax Journal 64(1)_ (December 2011), 949-75, (with Susan Nelson).
+
+- “Methodology to Identify Small Businesses and Their Owners.” _U.S. Department of Treasury, Office of Tax Analysis Technical Paper No. 4 (April 2011)_, (with Susan Nelson, Jason DeBacker, John Kitchen, James Pearce, Richard Prisanzano).
+
+- “The Implications of Tax Asymmetry for U.S. Corporations.” _National Tax Journal 63(1)_ (March 2010), 33-62, (with Michael Cooper).
+
+- “Understanding U.S. Corporate Tax Losses”, _NBER Working Paper No. 14405 (October 2008)_, (with Rosanne Altshuler, Alan Auerbach and Michael Cooper).
+
+___
+
 ### [Gary Mucciaroni](https://liberalarts.temple.edu/academics/faculty/mucciaroni-gary)<br>
 **New and Forthcoming Work on Abortion policy and LGBTQ Rights**<br>
 - _“Framing Morality Policy Issues: State Legislative Debates on Abortion Restrictions”_ Gary Mucciaroni (with Kathleen Ferraiolo and Meghan E. Rubado) Policy Sciences, online publication October 2018. [https://doi.org/10.1007/s11077-018-9336-2](https://doi.org/10.1007/s11077-018-9336-2)
