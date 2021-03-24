@@ -8,26 +8,11 @@ title: Research
 description: >-
    Read up on College of Liberal Arts faculty publications, and learn more about Temple University’s 
    affiliated centers, Institute for Public Affairs and University Community Collaborative.
-keywords: 'Institute for Public Affairs, Public Policy Research, Temple Public Policy, Public Policy Research'
+keywords: 'Public Policy Research, Temple Public Policy, Public Policy Research'
 # custom variables
 sidebar: sidebars/graduate.html
 ---
 ## Affiliated Centers
-
-### Institute for Public Affairs
-Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research that informs and improves public policy focusing on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania. Temple’s Public Policy faculty and the Institute for Public Affairs conducts relevant research that addresses social and quality-of-life issues throughout the Commonwealth and the Philadelphia region.
-
-Recent research from the Institute for Public Affairs includes:
-
-- Quantifying the economic costs of underachieving public schools
-- Measuring effectiveness of child care subsidies in helping parents stay in the workforce
-- Identifying ways to better manage the water supply and other common pool resources
-- Evaluating how different approaches to policing contribute to public safety
-- Exploring steps to improve regional cooperation in addressing a wide range of public policy issues in Southeastern Pennsylvania
-- Examining ways to improve public health
-- Identifying options to reform and fund state and local public pensions
-- Proposing legislative steps to improve the efficiency and effectiveness of Pennsylvania’s fragmented system of municipal governments
-- Cataloguing and evaluating potential changes in the structure and operations of the Pennsylvania General Assembly
 
 ![University Community Collaborative]({{site.baseurl}}/media/resized2UCC-youth-programming.jpg){:.img-right}
 ### University Community Collaborative
@@ -40,15 +25,7 @@ ___
 ### [Andrew Buss](http://andrewbuss.cgpublisher.com/) <br>
 ![Temple Public Policy Faculty Andrew Buss]({{site.baseurl}}/media/andrew-buss-mpp.jpg){:.img-right}
 
-- Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café.  _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
-
-- Buss, A. (2014). Innovating through Public Technology: Taking Data Democratization to the Next Level in Philadelphia. _Smart Cities for a Bright Sustainable Future – A Global Perspective Update._
-
-- Buss, A., Del Bianco, A., & Keck, L. (2013). Democratizing Design: Using Collaboration and Consensus Building as a Principle of Good Government. _International Journal of Design Management and Professional Practice_, 6(1), 47-59.
-
-- Buss, A., Keck, L. (2012). Pathways to Citizen Engagement: Transforming Urban Communities through Public Technology. _Access International Journal of Technology, Knowledge, and Society_, 8(2), 135-142.
-
-- Buss, Andrew (2011). After the Disaster: Revising Neighborhood Identity in Post-Katrina New Orleans. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 1(2), 47-62.
+- Buss, A., & Lardy, J. (2015). A New Community Space: The Culture of the Urban Bike Café. _Spaces and Flows: An International Journal of Urban and Extra Urban Studies_, 5(3-4), 13-25.
 
 ___
 
@@ -60,39 +37,65 @@ ___
 
 - Chor, E., Andresen, M.E., & Kalil, A.(2016). “The Impact of Universal Preschool on Family Behavior and Child Outcomes.” _Economics of Education Review_, 55, 168-181.
 
-- Kalil, A., Ryan, R., & Chor, E. (2014). Time Investments in Children across Family Structures. _Annals of the American Academy of Political and Social Science_, 654(1), 150-168.
+___
+
+### [Gary Mucciaroni](https://liberalarts.temple.edu/academics/faculty/mucciaroni-gary)
+![Gary Mucciaroni]({{site.baseurl}}/media/resized Mucciaroni.jpg){:.img-right}
+
+**New and Forthcoming Work on Abortion policy and LGBTQ Rights**<br>
+- _“Framing Morality Policy Issues: State Legislative Debates on Abortion Restrictions”_ Gary Mucciaroni (with Kathleen Ferraiolo and Meghan E. Rubado) Policy Sciences, online publication October 2018. [https://doi.org/10.1007/s11077-018-9336-2](https://doi.org/10.1007/s11077-018-9336-2)
+
+- _“Whither the LGBTQ Movement in a Post-Civil Rights Era?”_ In LGBTQ Politics: A Critical Reader. Edited by Marla Brettschneider, Susan Burgess and Christine Keating, Chapter 27. New York University Press, September, 2017. [https://nyupress.org/books/9781479834099/](https://nyupress.org/books/9781479834099/)
+
+- _“Will Victory Bring Change? A Mature Social Movement Faces the Future,”_ In After Marriage Equality, Edited by Carlos A. Ball, chapter 1. New York University Press, May, 2019 [https://nyupress.org/books/9781479800377/](https://nyupress.org/books/9781479800377/)
+
+- _“Morality Politics: Abortion and Gay Rights Politics in the U.S. and Canada,”_ (with Francesca Scala) In Differences That Matter: Politics, Institutions, and Public Policy in the United States and Canada, Edited by Colin Campbell, Paul J. Quirk and Mark Warren, eds., Chapter 12, Oxford University Press. April, 2019<br>
+
+**Work under review on the Politics of Labor and Industrial Relations**<br>
+- _Answers to the Labor Question: The Origins of Industrial Relations Regimes in the Anglophone World,_ 1880-1945. New book manuscript. A study comparing and contrasting the political and institutional origins of the state’s role in industrial relations in five nations.
+
+___
+
+### [Joseph P. McLaughlin, Jr.](https://liberalarts.temple.edu/academics/faculty/mclaughlin-jr-joseph-p)
+![Joseph P. McLaughlin, Jr.]({{site.baseurl}}/media/McLaughlin-th.jpeg){:.img-right}
+
+- “The Politics of Policy: The Initial Mass Political Effects of Medicaid Expansion in the States.” With Joshua Clinton. _American Political Science Review112(1): 167-185._ February 2018. 
+
+- Attribution Errors in Federalist Systems: When Voters Punish the President for Local Tax Increases.” _Journal of Politics 79(4): 1286-1301._ October 2017.
+
+- “Who Pays for Government? Descriptive Representation and Exploitative Revenue Sources.” With Hye Young You. _Journal of Politics 79(3): 1090-1094._ July 2017.
 
 ___
 
 ### [Christina Rosan](https://liberalarts.temple.edu/academics/faculty/rosan-christina)
+![Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
 
-![Temple Public Policy Faculty Christina Rosan]({{site.baseurl}}/media/christina-rosan.jpg){:.img-right}
+- Heckert, M. and Christina D. Rosan. “Creating GIS-Based Planning to Promote Equity Through Green Infrastructure.” _Frontiers in the Built Environment._ May 15, 2018. [https://doi.org/10.3389/fbuil.2018.00027](https://doi.org/10.3389/fbuil.2018.00027)
 
-- Rosan, Christina and Hamil Pearsall. Growing a Sustainable City. Urban Agriculture in Philadelphia. (Book contract with the University of Toronto Press).
+- Rosan, Christina D. and Hamil Pearsall. _Growing a Sustainable City?: The Question of Urban Agriculture._ Toronto, CA: University of Toronto Press. November 2017. [https://utorontopress.com/us/growing-a-sustainable-city-2](https://utorontopress.com/us/growing-a-sustainable-city-2)
 
-- Rosan, C.D. (2016). Governing the fragmented metropolis: planning for regional sustainability. Philadelphia Pa.: Univ. of Pennsylvania Press.
+- Rosan, Christina D. Governing the Fragmented Metropolis: _Planning for Regional Sustainability._ Philadelphia, PA: University of Pennsylvania Press. November 2016. [http://www.upenn.edu/pennpress/book/15593.html](http://www.upenn.edu/pennpress/book/15593.html)
 
-- Heckert, M., & Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. Urban Forestry & Urban Greening, 19, 263-270.
+- Heckert, M., and Rosan, C. D. (2016). Developing a green infrastructure equity index to promote equity planning. _Urban For. Urban Green._ 19, 263–270. [https://www.sciencedirect.com/science/article/pii/S1618866715001892](https://www.sciencedirect.com/science/article/pii/S1618866715001892)
 
-- Sanyal, B., Vale, L. J., & Rosan, C. (2012). Planning ideas that matter: livability, territoriality governance, and reflective practice. Cambridge, MA: The MIT Press. <br>
-_Winner 2014, Best Edited Book by International Planning History_
+___
 
-- Rosan, C. D. (2012). Can PlaNYC make New York City “greener and greater” for everyone?: sustainability planning and the promise of environmental justice. Local Environment, 17(9), 959-976.
+### [Michael Sances](https://liberalarts.temple.edu/academics/faculty/sances-michael)
+![Michael Sances]({{site.baseurl}}/media/michaelsances.jpg){:.img-right}
 
-- Davis, D. E., & Rosen, C. D. (2004). Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance. Social Movements in the Mexico City Airport Controversy: Globalization, Democracy, and the Power of Distance, 9(3), 279-293.
+- “The Politics of Policy: The Initial Mass Political Effects of Medicaid Expansion in the States.” With Joshua Clinton. _American Political Science Review112(1): 167-185._ February 2018. 
+
+- Attribution Errors in Federalist Systems: When Voters Punish the President for Local Tax Increases.” _Journal of Politics 79(4): 1286-1301._ October 2017.
+
+- “Who Pays for Government? Descriptive Representation and Exploitative Revenue Sources.” With Hye Young You. _Journal of Politics 79(3): 1090-1094._ July 2017.
 
 ___
 
 ### [Gerald Stahler](https://liberalarts.temple.edu/academics/faculty/stahler-gerald)
-
-![Temple Public Policy Faculty Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-right}
+![Gerald Stahler]({{site.baseurl}}/media/gerald-stahler-mpp.jpg){:.img-right}
 
 - Stahler, G. J., Mennis, J., & Ducette, J. P. (2016). Residential and outpatient treatment completion for substance use disorders in the U.S.: Moderation analysis by demographics and drug of choice. _Addictive Behaviors_, 58, 129-135.
 
 - Mennis, J., & Stahler, G. J. (2016). Racial and Ethnic Disparities in Outpatient Substance Use Disorder Treatment Episode Completion for Different Substances. Journal of Substance Abuse Treatment, 63, 25-33.
 
 - Welsh, W., Hsiu-Ju, L., Peters, R., Stahler, G.J., Lehman, W., Stein, L., Monico, L., Eggers, M., Abdel-Salam, S., Pierce, J., Hunt, E., Gallagher, C., Frisman, L. (2015). Effects of a strategy to improve offender assessment practices: Staff perceptions of implementation outcomes. _Drug and Alcohol Dependence_, 152, 230-238.
-
-- Stahler, G.J., Mennis, J., Belenko, S., Welsh, W. N., Hiller, M. L., & Zajac, G. (2013). Predicting Recidivism for Released State Prison Offenders. Criminal Justice and Behavior, 40(6), 690-711.
-
-- Stahler, G.J., Mennis, J., Cotlar, R., Baron, D.A. (2009). The influence of the neighborhood environment on treatment continuity and rehospitalization for dually diagnosed patients discharged from acute inpatient care. _American Journal of Psychiatry_, 166, 1258-1268.
