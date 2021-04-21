@@ -20,7 +20,7 @@ The following table shows the requirements for each degree if students pursue th
 ### Requirements for MPP and MPH Degrees - Taken as Separate Degrees
 
 {:.highlight}
-MPP | Credits | Total | 
+MPP | Credits | 
 -------- | ---------- | 
 8 required courses (3 credits each) | 24 | 
 3 electives (3 credits each) | 9 | 
@@ -28,7 +28,7 @@ MPP | Credits | Total |
 MPP Total | 36 | 
 
 {:.highlight}
-MPH | Credits | Total | 
+MPH | Credits |  
 -------- | ---------- | 
 7 required core courses (1.5 to 3 credits each) | 18 | 
 3 required concentration courses (3 credits each) | 9 | 
