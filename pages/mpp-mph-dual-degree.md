@@ -18,20 +18,18 @@ This degree is for individuals who seek to broaden their training beyond the tra
 
 The following table shows the requirements for each degree if students pursue them separately. The MPH requires 42 credits and the MPP requires 36 credits, or 78 credits in total.
 
-### Requirements for MPP and MPH Degrees - Taken as Separate Degrees<br>
+### Requirements for MPP and MPH Degrees - Taken as Separate Degrees
 
-**MPP**
 {:.highlight}
-Credits | Total | 
+MPP | Credits | Total | 
 -------- | ---------- | 
 8 required courses (3 credits each) | 24 | 
 3 electives (3 credits each) | 9 | 
 1 internship | 3 | 
-MPP Total | 36 | <br>
+MPP Total | 36 | 
 
-**MPH**
 {:.highlight}
-Credits | Total | 
+MPP | Credits | Total | 
 -------- | ---------- | 
 7 required core courses (1.5 to 3 credits each) | 18 | 
 3 required concentration courses (3 credits each) | 9 | 
