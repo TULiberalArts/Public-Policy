@@ -29,7 +29,7 @@ MPP | Credits | Total |
 MPP Total | 36 | 
 
 {:.highlight}
-MPP | Credits | Total | 
+MPH | Credits | Total | 
 -------- | ---------- | 
 7 required core courses (1.5 to 3 credits each) | 18 | 
 3 required concentration courses (3 credits each) | 9 | 
