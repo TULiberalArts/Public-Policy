@@ -40,7 +40,7 @@ For the full list of application requirements, instructions and deadlines, pleas
 ## New MPP-MPH Dual Degree Program
 We offer a dual degree program that allows graduate students to earn both a Master of Public Policy and a Master of Public Health (MPP-MPH). Federal, state and local governments play a large and growing role in public health by combating epidemics, funding research into public health problems and programs, issuing regulations, providing critical resources aimed at public education and training the public health workforce. Adding the MPP to the MPH will enhance your qualifications for jobs at the intersection of public policy and public health. MPP-MPH dual degree students are able to graduate in three years by earning 57 credits.
 
-Learn More about the [Dual Degree MPP-MPH](https://drive.google.com/file/d/1pAO92C30ajcnQGGR-JTZ2KLVyCZgTk6Q/view?usp=sharing)
+Learn More about the [Dual Degree MPP-MPH](https://www.cla.temple.edu/public-policy/graduate/mpp-mph/)
 
 ## Academic Support and Advising
 As a student working toward your MPP, you will receive support and guidance from our program and Temple University. The support and guidance includes a focus on employment readiness, working with the [Temple Career Center](https://www.temple.edu/provost/careercenter/) and assisting with internship and permanent job search activities.
