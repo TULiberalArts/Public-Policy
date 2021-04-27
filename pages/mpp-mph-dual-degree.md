@@ -88,4 +88,4 @@ Total | 12 |
 - **Total credits: 54**<br>
 
 ## How to Apply
-Students must apply to both the MPP and MPH separately and must be accepted by both programs in order to pursue the dual degree. They should indicate in their personal statement that is included with the online application that they intend to pursue the MPP‐MPH dual degree. If you have questions, please contact Samantha Apgar, MPP Assistant Director [mailto:samantha.apgar@temple.edu](samantha.apgar@temple.edu).
+Students must apply to both the MPP and MPH separately and must be accepted by both programs in order to pursue the dual degree. They should indicate in their personal statement that is included with the online application that they intend to pursue the MPP‐MPH dual degree. If you have questions, please contact Samantha Apgar, MPP Assistant Director [samantha.apgar@temple.edu](mailto:samantha.apgar@temple.edu).
