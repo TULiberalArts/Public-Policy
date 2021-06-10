@@ -70,6 +70,16 @@ ___
 Temple’s MPP graduates have taken on many new employment opportunities since completing the program! Read on to find out more about where our alums have gone.
 
 <details>
+  <summary><strong>Rei Horst</strong></summary>
+<blockquote>  
+  <p>  
+  Started a new role as Director of Operations and Programs with the nonprofit organization <a href="https://thedefensiveline.org/">The Defensive Line.</a><br>
+<li><i>MPP from Temple in 2020</i></li>	  	  
+  </p>
+  </blockquote>
+</details>
+
+<details>
   <summary><strong>Sara Joseph</strong></summary>
 <blockquote>  
   <p>  
